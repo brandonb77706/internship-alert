@@ -1,0 +1,274 @@
+# =============================================================================
+# Internship Alert Bot — configuration
+# Edit this file to change what the bot watches. No code changes needed.
+# =============================================================================
+
+# ---------------------------------------------------------------------------
+# GitHub internship-tracker repos.
+# The bot reads the raw README (or listing file) from each repo via the GitHub
+# API and parses the markdown job tables.
+#
+# If a Summer 2027 repo doesn't exist yet, just change `repo` to the 2026
+# equivalent here — it's the only place you need to update it.
+# ---------------------------------------------------------------------------
+github_repos:
+  - name: "SimplifyJobs"
+    repo: "SimplifyJobs/Summer2027-Internships"
+    # Fallback used automatically if `repo` above 404s.
+    fallback_repo: "SimplifyJobs/Summer2026-Internships"
+    branch: "dev"          # SimplifyJobs keeps the live table on the `dev` branch
+    files: ["README.md", "README-Off-Season.md"]
+
+  - name: "speedyapply"
+    repo: "speedyapply/2027-SWE-College-Jobs"
+    fallback_repo: "speedyapply/2026-SWE-College-Jobs"
+    branch: "main"
+    files: ["README.md"]
+
+  - name: "vanshb03"
+    repo: "vanshb03/Summer2027-Internships"
+    fallback_repo: "vanshb03/Summer2026-Internships"
+    branch: "main"
+    files: ["README.md"]
+
+  - name: "zshah101"
+    repo: "zshah101/summer-2027-fall-2026-internships"
+    fallback_repo: ""
+    branch: "main"
+    files: ["README.md"]
+
+# ---------------------------------------------------------------------------
+# Direct company career feeds (ATS = Applicant Tracking System).
+#
+# type: greenhouse | lever | workday
+#   greenhouse -> needs `token` (the board slug in the public API URL)
+#   lever      -> needs `token` (the company slug)
+#   workday    -> needs `host`, `tenant`, `site`
+#
+# `enabled: false` skips a company without deleting its config.
+# Any company whose feed errors out is logged and skipped — one broken feed
+# never kills the run.
+#
+# NOTE: ATS tokens change over time and some big companies (Amazon, Google,
+# Meta, Apple, Netflix) run custom systems that aren't Greenhouse/Lever/
+# Workday. Those are left `enabled: false` below — the GitHub tracker repos
+# above already surface their internships. Flip one on and fill in the token
+# if you confirm an endpoint. See README "Adding a company".
+# ---------------------------------------------------------------------------
+companies:
+  # ---- Confirmed working feeds (verified against the live endpoints) --------
+  - name: "DoorDash"
+    type: "greenhouse"
+    token: "doordashusa"
+    enabled: true
+
+  - name: "Stripe"
+    type: "greenhouse"
+    token: "stripe"
+    enabled: true
+
+  - name: "Airbnb"
+    type: "greenhouse"
+    token: "airbnb"
+    enabled: true
+
+  - name: "Capital One"
+    type: "workday"
+    host: "capitalone.wd12.myworkdayjobs.com"   # verified: wd12, site Capital_One
+    tenant: "capitalone"
+    site: "Capital_One"
+    enabled: true
+
+  # ---- Enabled but endpoint not yet confirmed (logs + skips gracefully) -----
+  # Amex/Liberty Mutual expose Workday but the public tenant/site slug couldn't
+  # be verified. Left enabled so they alert once you drop in the right slug;
+  # until then each run logs "feed error … skipping" and moves on. These
+  # companies are still covered by the GitHub tracker repos above.
+  - name: "American Express"
+    type: "workday"
+    host: "aexp.wd1.myworkdayjobs.com"
+    tenant: "aexp"
+    site: "External_Career_Site"
+    enabled: true
+
+  - name: "Liberty Mutual"
+    type: "workday"
+    host: "libertymutual.wd5.myworkdayjobs.com"
+    tenant: "libertymutual"
+    site: "External"
+    enabled: true
+
+  # Uber runs a custom (non-Greenhouse/Lever/Workday) careers system, so there's
+  # no simple public JSON feed — covered by the tracker repos instead.
+  - name: "Uber"
+    type: "greenhouse"
+    token: ""
+    enabled: false
+
+  - name: "Intuit"
+    type: "workday"
+    host: "intuit.wd1.myworkdayjobs.com"
+    tenant: "intuit"
+    site: "IntuitExternalCareerSite"
+    enabled: false
+
+  # ---- Custom / non-standard ATS: covered by tracker repos, off by default -
+  - name: "Amazon"
+    type: "greenhouse"
+    token: ""
+    enabled: false
+  - name: "Google"
+    type: "greenhouse"
+    token: ""
+    enabled: false
+  - name: "Meta"
+    type: "greenhouse"
+    token: ""
+    enabled: false
+  - name: "Apple"
+    type: "greenhouse"
+    token: ""
+    enabled: false
+  - name: "Netflix"
+    type: "lever"
+    token: "netflix"
+    enabled: false
+  - name: "LinkedIn"
+    type: "greenhouse"
+    token: ""
+    enabled: false
+  - name: "Bloomberg"
+    type: "greenhouse"
+    token: ""
+    enabled: false
+  - name: "Adobe"
+    type: "workday"
+    host: "adobe.wd5.myworkdayjobs.com"
+    tenant: "adobe"
+    site: "external_experienced"
+    enabled: false
+  - name: "Cisco"
+    type: "workday"
+    host: "cisco.wd5.myworkdayjobs.com"
+    tenant: "cisco"
+    site: "external"
+    enabled: false
+  - name: "Mastercard"
+    type: "workday"
+    host: "mastercard.wd1.myworkdayjobs.com"
+    tenant: "mastercard"
+    site: "CorporateCareers"
+    enabled: false
+
+# ---------------------------------------------------------------------------
+# Priority companies. Matches (case-insensitive, substring) get pinned to the
+# "⭐ Priority Targets" section at the top of the email.
+# ---------------------------------------------------------------------------
+priority_companies:
+  - "Capital One"
+  - "DoorDash"
+  - "American Express"
+  - "Amex"
+  - "Uber"
+  - "Liberty Mutual"
+  - "Amazon"
+  - "Google"
+  - "Meta"
+  - "Apple"
+  - "Netflix"
+  - "Stripe"
+  - "Airbnb"
+  - "LinkedIn"
+  - "Intuit"
+  - "Bloomberg"
+  - "Adobe"
+  - "Cisco"
+  - "Mastercard"
+
+# ---------------------------------------------------------------------------
+# Title matching. A job is a candidate only if its title contains one of
+# `include_keywords` and none of `exclude_keywords` (all case-insensitive).
+# ---------------------------------------------------------------------------
+include_keywords:
+  - "software engineer intern"
+  - "software engineering intern"
+  - "software engineering internship"
+  - "swe intern"
+  - "software developer intern"
+  - "software development intern"
+  - "technology intern"
+  - "software dev intern"
+  - "engineering intern"     # broad; pruned by exclude_keywords below
+
+exclude_keywords:
+  - "phd"
+  - "ph.d"
+  - "hardware"
+  - "electrical"
+  - "mechanical"
+  - "asic"
+  - "fpga"
+  - "firmware"
+  - "manufacturing"
+  - "civil engineering"
+  - "chemical"
+  - "industrial engineering"
+  - "biomedical"
+  - "field engineer"
+  - "sales engineer"
+  - "manager"
+
+# ---------------------------------------------------------------------------
+# Season / location filtering.
+# ---------------------------------------------------------------------------
+target_season_keywords:
+  - "summer 2027"
+  - "2027"
+  - "su27"
+# Jobs whose text mentions a *different* season are dropped.
+reject_season_keywords:
+  - "summer 2025"
+  - "summer 2026"
+  - "fall 2025"
+  - "fall 2026"
+  - "spring 2025"
+  - "spring 2026"
+  - "spring 2027"
+  - "winter 2025"
+  - "winter 2026"
+  - "fall 2027"
+  - "winter 2027"
+
+# US / Remote-US location gate. A job passes if its location text matches one
+# of these, is a known US city/state, or is blank (undated feeds).
+location_allow:
+  - "united states"
+  - "usa"
+  - "u.s."
+  - "us"
+  - "remote"
+
+# If a job's posting date is parseable, only consider it "recent" within this
+# many days when it has no explicit season. 0 = disable the recency gate.
+recent_days: 30
+
+# ---------------------------------------------------------------------------
+# Email. Addresses/passwords come from environment/GitHub Secrets, NOT here.
+#   GMAIL_ADDRESS, GMAIL_APP_PASSWORD, RECIPIENT_EMAIL
+# ---------------------------------------------------------------------------
+email:
+  smtp_host: "smtp.gmail.com"
+  smtp_port: 465
+  # Optional override; if blank, RECIPIENT_EMAIL env var is used.
+  recipient_override: ""
+  # Cap the number of job cards in a single email (avoids giant emails on a
+  # bad diff). Extra jobs are still recorded as seen.
+  max_jobs_per_email: 60
+
+# Path to the dedupe state file (relative to repo root).
+state_file: "seen_jobs.json"
+
+# HTTP behaviour.
+http:
+  timeout_seconds: 25
+  user_agent: "internship-alert-bot/1.0 (+github-actions)"

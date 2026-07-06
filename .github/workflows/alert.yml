@@ -1,0 +1,70 @@
+name: internship-alert
+
+on:
+  schedule:
+    # Every 4 hours (UTC). GitHub cron is best-effort; runs may lag a few min.
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+    inputs:
+      seed:
+        description: "Seed state without emailing (records all current jobs as seen)"
+        type: boolean
+        default: false
+      dry_run:
+        description: "Dry run: print email to the log, send nothing, don't commit state"
+        type: boolean
+        default: false
+
+# Allow the workflow to commit the updated seen_jobs.json back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: internship-alert
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run alert bot
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        run: |
+          FLAGS=""
+          if [ "${{ github.event.inputs.seed }}" = "true" ]; then
+            FLAGS="$FLAGS --seed"
+          fi
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            FLAGS="$FLAGS --dry-run"
+          fi
+          echo "Running: python main.py $FLAGS"
+          python main.py $FLAGS
+
+      - name: Commit updated state
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- seen_jobs.json; then
+            git add seen_jobs.json
+            git commit -m "chore: update seen_jobs.json [skip ci]"
+            git push
+            echo "Committed updated seen_jobs.json"
+          else
+            echo "No changes to seen_jobs.json"
+          fi
