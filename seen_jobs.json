@@ -1,5 +1,12 @@
 {
   "seen": {
+    "abb::application engineering intern::5fbe4111ed4f": {
+      "company": "ABB",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Application Engineering Intern",
+      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999"
+    },
     "aci worldwide::software engineering intern::632606bf3c87": {
       "company": "ACI Worldwide",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -13,6 +20,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineering Intern",
       "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19500"
+    },
+    "ada::software engineer intern::56b121ef141f": {
+      "company": "Ada",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/ada18/jobs/5180710007"
     },
     "altasciences::process innovation software engineering intern::b8718140ced9": {
       "company": "Altasciences",
@@ -70,6 +84,13 @@
       "title": "Prompt Engineering Intern",
       "url": "https://simplify.jobs/c/Anduril"
     },
+    "anduril::software engineer intern::fbf8a2732425": {
+      "company": "Anduril",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
+    },
     "apex::software engineering intern embedded systems::0f98ca309c99": {
       "company": "Apex",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -83,6 +104,13 @@
       "source": "SimplifyJobs",
       "title": "Undergrad Engineering Intern",
       "url": "https://jobs.apple.com/en-us/details/200663968"
+    },
+    "aquatic::software engineer intern::387eea6064d7": {
+      "company": "Aquatic",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
     },
     "arkansas center for data sciences::software development intern align ai::5354e9b78de6": {
       "company": "Arkansas Center for Data Sciences",
@@ -104,6 +132,20 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern - Distributed Simulation Systems",
       "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066/application"
+    },
+    "auctane::data engineering intern::fdda32e5c03a": {
+      "company": "Auctane",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Data Engineering Intern",
+      "url": "https://simplify.jobs/c/Auctane"
+    },
+    "auto club group::business technology intern::fcb250a347e8": {
+      "company": "Auto Club Group",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Business Technology Intern",
+      "url": "https://simplify.jobs/c/Auto-Club-Group"
     },
     "axalta::ai engineering intern::2784240c1d65": {
       "company": "Axalta",
@@ -147,6 +189,13 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4702398005"
     },
+    "binance us::software engineering intern::37e114480f45": {
+      "company": "Binance.US",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern",
+      "url": "https://www.binance.us/"
+    },
     "binance::software engineer intern::9d2ae0d57768": {
       "company": "Binance",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -167,6 +216,13 @@
       "source": "speedyapply",
       "title": "Software Engineering Intern - Year-Round",
       "url": "https://www.borgwarner.com"
+    },
+    "boston properties::engineering intern::465b3ed38493": {
+      "company": "Boston Properties",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Engineering Intern",
+      "url": "https://simplify.jobs/c/Boston-Properties"
     },
     "brunswick::computer graphics software developer intern::45f9d7709628": {
       "company": "Brunswick",
@@ -195,6 +251,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern - Developer Infrastructure",
       "url": "https://jobs.bytedance.com/en/position/7595707875767699765/detail"
+    },
+    "caci::software engineer intern::95e1f67b750e": {
+      "company": "CACI",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740"
     },
     "cadence design systems::product engineering intern simulation and verification::0369d151da2c": {
       "company": "Cadence Design Systems",
@@ -230,6 +293,20 @@
       "source": "speedyapply",
       "title": "Software Engineer Intern",
       "url": "https://www.centerfield.com/"
+    },
+    "charles river analytics::software engineer intern::e0374e970ffa": {
+      "company": "Charles River Analytics",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern \ud83c\udf93",
+      "url": "https://cra.com/job-listings/job?gh_jid=8047653"
+    },
+    "charles river analytics::software engineering intern::2d2c9ecd0927": {
+      "company": "Charles River Analytics",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern",
+      "url": "http://www.cra.com"
     },
     "circleback::software engineering intern summer 2027::38e267be520b": {
       "company": "Circleback",
@@ -336,6 +413,13 @@
       "title": "AI/Machine Learning Engineering Intern \ud83c\udf93",
       "url": "https://simplify.jobs/c/DataVisor"
     },
+    "de shaw::software developer intern::316e69e9ae70": {
+      "company": "DE Shaw",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894"
+    },
     "devon energy::data analytics technology intern::acd874c7eb14": {
       "company": "Devon Energy",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -357,6 +441,13 @@
       "title": "Rendering Software Engineer Intern",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Software-Engineer-Intern-Fall-2026/210865"
     },
+    "enfra::engineering intern emerging technologies::bdd96dd55c74": {
+      "company": "ENFRA",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Engineering Intern - Emerging Technologies",
+      "url": "https://simplify.jobs/c/ENFRA"
+    },
     "genbio ai::software engineer intern::8c68f5e29c6f": {
       "company": "GenBio AI",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -377,6 +468,13 @@
       "source": "SimplifyJobs",
       "title": "Technology Intern",
       "url": "https://simplify.jobs/c/HNTB"
+    },
+    "hone health::data engineering intern::1c2a2ee9c9a2": {
+      "company": "Hone Health",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Data Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/honehealth/jobs/5308958008"
     },
     "iherb::software development intern::3f4ae85ff425": {
       "company": "iHerb",
@@ -406,6 +504,13 @@
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
     },
+    "imc::software engineer intern::58efe69a5c5a": {
+      "company": "IMC",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://www.imc.com/us/careers/jobs/4823924101"
+    },
     "intel::ai software engineer intern::9c77d3f8b7d4": {
       "company": "Intel",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -426,6 +531,34 @@
       "source": "speedyapply",
       "title": "Software Engineer Intern - Air Taxi",
       "url": "https://www.jobyaviation.com"
+    },
+    "jump trading group::campus ui software engineer intern::76b32d52daaa": {
+      "company": "Jump Trading Group",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "vanshb03",
+      "title": "Campus UI Software Engineer Intern",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019"
+    },
+    "jump trading::campus software engineer intern::627145b21219": {
+      "company": "Jump Trading",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Campus Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8002989"
+    },
+    "jump trading::campus ui software engineer intern::3a094d56bb97": {
+      "company": "Jump Trading",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Campus UI Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8003019"
+    },
+    "jump trading::software engineer intern::295be15e1382": {
+      "company": "Jump Trading",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989"
     },
     "kla corporation::software engineer intern::6329dc5e0925": {
       "company": "KLA Corporation",
@@ -483,6 +616,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74/application"
     },
+    "microchip technology::applications engineering intern::fc45f3c6a0f2": {
+      "company": "Microchip Technology",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Applications Engineering Intern",
+      "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Roseville/Intern---Applications-Engineering_R2542-26"
+    },
     "mindsmith::software engineering intern::4b76e909ec1f": {
       "company": "Mindsmith",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -518,6 +658,13 @@
       "title": "Software Engineer Intern - Infrastructure",
       "url": "https://boards.greenhouse.io/neuralink/jobs/5469298003"
     },
+    "northrop grumman::systems engineering intern graduate level::aedd8e979fd9": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Systems Engineering Intern Graduate Level",
+      "url": "https://simplify.jobs/c/Northrop-Grumman"
+    },
     "offerup::software engineer intern::f15c8ea712cf": {
       "company": "OfferUp",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -538,6 +685,20 @@
       "source": "speedyapply",
       "title": "Software Engineer Intern - Summer 2027 - Chicago",
       "url": "https://optiver.com"
+    },
+    "optiver::software engineer intern::027e7235b058": {
+      "company": "Optiver",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/"
+    },
+    "optiver::software engineer intern::abe381ceae38": {
+      "company": "Optiver",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/"
     },
     "oracle::software engineer intern ovip::b08afd24d592": {
       "company": "Oracle",
@@ -643,6 +804,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply"
+    },
+    "rakuten international::software engineer intern::7f937ce5cf74": {
+      "company": "Rakuten International",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171"
     },
     "ralliant::software engineer intern mecop::b4a5ca5859f3": {
       "company": "Ralliant",
@@ -769,6 +937,13 @@
       "source": "SimplifyJobs",
       "title": "Computer Vision \u2013 Engineering Intern - AI/ML",
       "url": "https://simplify.jobs/c/Scout-Space"
+    },
+    "sel::software engineer intern::d7d49e7f71a4": {
+      "company": "SEL",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern",
+      "url": "https://selinc.com"
     },
     "skydio::middleware software engineer intern::46190e0ae67f": {
       "company": "Skydio",
@@ -931,6 +1106,13 @@
       "title": "Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/275558"
     },
+    "tesla::software engineer intern energy engineering::29ff1df237cc": {
+      "company": "Tesla",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/276333"
+    },
     "tesla::software engineer intern engineering automation software engineer vehicle engineering::53e5645eabc2": {
       "company": "Tesla",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -1078,6 +1260,13 @@
       "title": "Software Engineer Intern - Recommendation Infrastructure",
       "url": "https://lifeattiktok.com/search/7534878965941766408"
     },
+    "traackr::software engineering intern part time internal tooling::1170c11c53d5": {
+      "company": "Traackr",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Part-Time - Internal Tooling",
+      "url": "https://www.traackr.com/careers"
+    },
     "truveta::software engineering intern::1a7f791223da": {
       "company": "Truveta",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -1105,7 +1294,14 @@
       "source": "SimplifyJobs",
       "title": "Engineering Intern",
       "url": "https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application"
+    },
+    "vital lyfe::software engineer intern::e85d4e5676be": {
+      "company": "Vital Lyfe",
+      "first_seen": "2026-07-10T17:55:38Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application"
     }
   },
-  "updated": "2026-07-06T14:09:11Z"
+  "updated": "2026-07-10T17:55:38Z"
 }
