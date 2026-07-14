@@ -28,6 +28,13 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/ada18/jobs/5180710007"
     },
+    "akuna capital::software engineer intern c net desktop summer 2027::110d86527dea": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-07-14T16:34:38Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern - C# .NET Desktop - Summer 2027",
+      "url": "https://akunacapital.com"
+    },
     "akuna capital::software engineer intern c net desktop summer 2027::249ec682cd6f": {
       "company": "Akuna Capital",
       "first_seen": "2026-07-13T20:32:14Z",
@@ -35,12 +42,33 @@
       "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
       "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"
     },
+    "akuna capital::software engineer intern c summer 2027::110d86527dea": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-07-14T16:34:38Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern - C++ - Summer 2027",
+      "url": "https://akunacapital.com"
+    },
     "akuna capital::software engineer intern c summer 2027::e5702cd18cc2": {
       "company": "Akuna Capital",
       "first_seen": "2026-07-13T20:32:14Z",
       "source": "zshah101",
       "title": "Software Engineer Intern - C++, Summer 2027",
       "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847"
+    },
+    "akuna capital::software engineer intern full stack web summer 2027::110d86527dea": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-07-14T16:34:38Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern - Full Stack Web - Summer 2027",
+      "url": "https://akunacapital.com"
+    },
+    "akuna capital::software engineer intern python summer 2027::110d86527dea": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-07-14T16:34:38Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern - Python - Summer 2027",
+      "url": "https://akunacapital.com"
     },
     "akuna capital::software engineer intern python summer 2027::e36f9b334398": {
       "company": "Akuna Capital",
@@ -461,6 +489,13 @@
       "source": "SimplifyJobs",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936"
+    },
+    "drw::software developer intern::607d72274fa9": {
+      "company": "DRW",
+      "first_seen": "2026-07-14T16:34:38Z",
+      "source": "speedyapply",
+      "title": "Software Developer Intern",
+      "url": "https://drw.com"
     },
     "electronic arts::rendering software engineer intern::7cad7d8fa611": {
       "company": "Electronic Arts",
@@ -1001,6 +1036,13 @@
       "title": "Software Engineer Intern",
       "url": "https://selinc.com"
     },
+    "serval::software engineer intern::88d22be46094": {
+      "company": "Serval",
+      "first_seen": "2026-07-14T16:34:38Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern",
+      "url": "https://www.serval.com/"
+    },
     "skydio::middleware software engineer intern::46190e0ae67f": {
       "company": "Skydio",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -1359,5 +1401,5 @@
       "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application"
     }
   },
-  "updated": "2026-07-14T00:45:41Z"
+  "updated": "2026-07-14T16:34:38Z"
 }
