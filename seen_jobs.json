@@ -392,6 +392,20 @@
       "title": "Software Engineer Intern",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785"
     },
+    "copart::software engineer intern::1b52a72b63dc": {
+      "company": "Copart",
+      "first_seen": "2026-07-15T16:37:20Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673"
+    },
+    "copart::software engineer intern::2ceb134667fe": {
+      "company": "Copart",
+      "first_seen": "2026-07-15T16:37:20Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689"
+    },
     "copart::software engineer intern::4a843bd8ff35": {
       "company": "Copart",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -826,6 +840,13 @@
       "title": "AI Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/outmarket/8d192421-2422-42f5-854f-6a0765a949da/application"
     },
+    "paccar::data engineering intern::cd4da965059a": {
+      "company": "Paccar",
+      "first_seen": "2026-07-15T16:37:20Z",
+      "source": "SimplifyJobs",
+      "title": "Data Engineering Intern",
+      "url": "https://simplify.jobs/c/Paccar"
+    },
     "palantir::forward deployed software engineer intern intel::b12c6c1be63d": {
       "company": "Palantir",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -916,6 +937,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply"
+    },
+    "rainmaker::software engineer intern::b626a4a93d94": {
+      "company": "Rainmaker",
+      "first_seen": "2026-07-15T16:37:20Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b/apply"
     },
     "rakuten international::software engineer intern::7f937ce5cf74": {
       "company": "Rakuten International",
@@ -1422,5 +1450,5 @@
       "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application"
     }
   },
-  "updated": "2026-07-15T08:54:30Z"
+  "updated": "2026-07-15T16:37:20Z"
 }
