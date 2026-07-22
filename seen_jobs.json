@@ -518,6 +518,13 @@
       "title": "Software Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393"
     },
+    "copart::software engineer intern::7f0d4faf7c3a": {
+      "company": "Copart",
+      "first_seen": "2026-07-22T05:10:20Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern \ud83c\udf93",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011"
+    },
     "copart::software engineer intern::a5e070d27e1f": {
       "company": "Copart",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -937,6 +944,13 @@
       "source": "SimplifyJobs",
       "title": "Transportation Data Engineering Intern",
       "url": "https://simplify.jobs/c/Leidos"
+    },
+    "lumentum::data engineering intern::03bf5cf494a9": {
+      "company": "Lumentum",
+      "first_seen": "2026-07-22T05:10:20Z",
+      "source": "SimplifyJobs",
+      "title": "Data Engineering Intern",
+      "url": "https://simplify.jobs/c/Lumentum"
     },
     "m t bank::technology intern multiple teams::5cf41ab18125": {
       "company": "M&T Bank",
@@ -1386,6 +1400,13 @@
       "title": "Engineering Intern",
       "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Engineering-Intern_2026-22278"
     },
+    "schweitzer engineering laboratories::software engineer intern::f872b10e4a31": {
+      "company": "Schweitzer Engineering Laboratories",
+      "first_seen": "2026-07-22T05:10:20Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321"
+    },
     "scout space::computer vision engineering intern ai ml::aeccfac17b7f": {
       "company": "Scout Space",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -1833,7 +1854,14 @@
       "source": "SimplifyJobs",
       "title": "Enterprise Systems Software Engineer Intern",
       "url": "https://www.zipline.com/careers?gh_jid=7767667003#open-roles&utm_source=Simplify&ref=Simplify"
+    },
+    "zipline::software engineer intern::3fc53faa478a": {
+      "company": "Zipline",
+      "first_seen": "2026-07-22T05:10:20Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-07-22T00:48:00Z"
+  "updated": "2026-07-22T05:10:20Z"
 }
