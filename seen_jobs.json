@@ -840,12 +840,26 @@
       "title": "Data Engineering Intern",
       "url": "https://job-boards.greenhouse.io/honehealth/jobs/5308958008"
     },
+    "hp::software engineering intern device experiences::3e1ba2c5742c": {
+      "company": "HP",
+      "first_seen": "2026-07-23T16:36:41Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Device Experiences",
+      "url": "https://www.hp.com"
+    },
     "hudson river trading::software engineering internship c or python summer 2027::e12168715d89": {
       "company": "Hudson River Trading",
       "first_seen": "2026-07-13T20:32:14Z",
       "source": "zshah101",
       "title": "Software Engineering Internship (C++ or Python) \u2013 Summer 2027",
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"
+    },
+    "hyperlight::software engineer intern::e20fc7cb79b2": {
+      "company": "HyperLight",
+      "first_seen": "2026-07-23T16:36:41Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern",
+      "url": "https://hyperlightcorp.com/"
     },
     "iherb::software development intern::3f4ae85ff425": {
       "company": "iHerb",
@@ -1919,5 +1933,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-07-23T12:42:01Z"
+  "updated": "2026-07-23T16:36:41Z"
 }
