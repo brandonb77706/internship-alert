@@ -231,6 +231,13 @@
       "title": "Software Engineering Intern \ud83d\udec2",
       "url": "https://job-boards.greenhouse.io/appian/jobs/8041237"
     },
+    "appian::software engineering intern::484300e6f12c": {
+      "company": "Appian",
+      "first_seen": "2026-07-24T16:38:46Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern",
+      "url": "https://appian.com"
+    },
     "apple::undergrad engineering intern::a3fe7bc5826e": {
       "company": "Apple",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -1106,6 +1113,13 @@
       "title": "Technology Intern - Multiple Teams",
       "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Internship-Program_R88052"
     },
+    "magna international::r d computer vision engineering intern::eb9cdef70558": {
+      "company": "Magna International",
+      "first_seen": "2026-07-24T16:38:46Z",
+      "source": "zshah101",
+      "title": "R&D- Computer Vision Engineering Intern ~",
+      "url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1"
+    },
     "markem imaje::software engineer intern::f5ebe524ac08": {
       "company": "Markem-Imaje",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -1546,6 +1560,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineering Intern - Vehicle Controls",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55"
+    },
+    "robert bosch venture capital::powertrain controls software engineering intern::5b42ecc7745e": {
+      "company": "Robert Bosch Venture Capital",
+      "first_seen": "2026-07-24T16:38:46Z",
+      "source": "zshah101",
+      "title": "Powertrain Controls Software Engineering Intern ~ \ud83d\udec2",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139639579"
     },
     "robert bosch venture capital::reinforcement learning for adas research and engineering intern::df36d94ec16c": {
       "company": "Robert Bosch Venture Capital",
@@ -2094,5 +2115,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-07-24T12:39:25Z"
+  "updated": "2026-07-24T16:38:46Z"
 }
