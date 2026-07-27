@@ -651,6 +651,13 @@
       "title": "Software Engineering Intern ~",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673"
     },
+    "copart::software engineering intern::2ceb134667fe": {
+      "company": "Copart",
+      "first_seen": "2026-07-27T09:17:16Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689"
+    },
     "copart::software engineering intern::4a843bd8ff35": {
       "company": "Copart",
       "first_seen": "2026-07-18T12:25:58Z",
@@ -671,6 +678,13 @@
       "source": "zshah101",
       "title": "Software Engineering Intern ~",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441"
+    },
+    "copart::software engineering intern::b163bc5fe64f": {
+      "company": "Copart",
+      "first_seen": "2026-07-27T09:17:16Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079"
     },
     "copart::software engineering intern::f03bea236097": {
       "company": "Copart",
@@ -1526,6 +1540,13 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/podium81/jobs/7939921"
     },
+    "pony ai::software engineer intern generalist::7dcf3337ba87": {
+      "company": "Pony.ai",
+      "first_seen": "2026-07-27T09:17:16Z",
+      "source": "zshah101",
+      "title": "Software Engineer Intern - Generalist",
+      "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/"
+    },
     "pony ai::software engineer intern::039c93ebcb3c": {
       "company": "pony.ai",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -2191,6 +2212,13 @@
       "title": "AI-First Engineering Intern ~",
       "url": "https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6"
     },
+    "xsolla::ai first engineering intern::6c3c72eeee38": {
+      "company": "Xsolla",
+      "first_seen": "2026-07-27T09:17:16Z",
+      "source": "zshah101",
+      "title": "AI-First Engineering Intern",
+      "url": "https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874"
+    },
     "zipline::embedded software engineer intern::7cc9e53b0e6a": {
       "company": "Zipline",
       "first_seen": "2026-07-21T16:35:52Z",
@@ -2213,5 +2241,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-07-27T05:24:04Z"
+  "updated": "2026-07-27T09:17:16Z"
 }
