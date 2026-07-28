@@ -252,6 +252,13 @@
       "title": "Undergrad Engineering Intern",
       "url": "https://jobs.apple.com/en-us/details/200663968"
     },
+    "apptronik::software engineer intern ml systems::6351d72ce6ca": {
+      "company": "Apptronik",
+      "first_seen": "2026-07-28T00:47:17Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - ML Systems",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6128057004"
+    },
     "apptronik::software engineer intern ml systems::d48da662aa72": {
       "company": "Apptronik",
       "first_seen": "2026-07-27T20:36:52Z",
@@ -327,6 +334,13 @@
       "first_seen": "2026-07-21T05:10:33Z",
       "source": "zshah101",
       "title": "2027 US Software Engineering Internship",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003"
+    },
+    "axon::renderatl 2027 us software engineering internship::cf3adc7e3df3": {
+      "company": "Axon",
+      "first_seen": "2026-07-28T00:47:17Z",
+      "source": "zshah101",
+      "title": "RenderATL - 2027 US Software Engineering Internship",
       "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003"
     },
     "axway::software engineering internship::f656e854e082": {
@@ -406,6 +420,20 @@
       "title": "Software Engineering Intern - Year-Round",
       "url": "https://www.borgwarner.com"
     },
+    "bosch home comfort::powertrain controls software engineer intern::1e58c68f65c6": {
+      "company": "Bosch Home Comfort",
+      "first_seen": "2026-07-28T00:47:17Z",
+      "source": "SimplifyJobs",
+      "title": "Powertrain Controls Software Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140089589"
+    },
+    "bosch::powertrain controls software engineering intern 6 months::1e58c68f65c6": {
+      "company": "Bosch",
+      "first_seen": "2026-07-28T00:47:17Z",
+      "source": "zshah101",
+      "title": "Powertrain Controls Software Engineering Intern (6-Months)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140089589"
+    },
     "boston properties::engineering intern::465b3ed38493": {
       "company": "Boston Properties",
       "first_seen": "2026-07-10T17:55:38Z",
@@ -482,6 +510,13 @@
       "source": "SimplifyJobs",
       "title": "SSG Design Engineering Intern",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/SSG-Design-Engineering-Intern--Fall-2026-_R52641"
+    },
+    "ccc intelligent solutions::applied ai engineering intern::f791614edf2e": {
+      "company": "CCC Intelligent Solutions",
+      "first_seen": "2026-07-28T00:47:17Z",
+      "source": "zshah101",
+      "title": "Applied AI Engineering Intern",
+      "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827"
     },
     "centerfield::software engineer intern::7fd4d960283e": {
       "company": "Centerfield",
@@ -1098,6 +1133,13 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989"
+    },
+    "keysight technologies::r d software engineer intern::a0d4de85dbe8": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-07-28T00:47:17Z",
+      "source": "SimplifyJobs",
+      "title": "R&D Software Engineer Intern",
+      "url": "https://jobs.keysight.com/jobs/53652?icims=1"
     },
     "kla corporation::software engineer intern::6329dc5e0925": {
       "company": "KLA Corporation",
@@ -2248,5 +2290,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-07-27T20:36:52Z"
+  "updated": "2026-07-28T00:47:17Z"
 }
