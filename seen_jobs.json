@@ -441,6 +441,13 @@
       "title": "Powertrain Controls Software Engineer Intern",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140089589"
     },
+    "bosch::adas software engineering intern::89a0a91bfb26": {
+      "company": "Bosch",
+      "first_seen": "2026-07-29T16:34:54Z",
+      "source": "speedyapply",
+      "title": "ADAS Software Engineering Intern",
+      "url": "https://www.bosch.com/"
+    },
     "bosch::adas software engineering intern::db13c511b250": {
       "company": "Bosch",
       "first_seen": "2026-07-28T20:32:19Z",
@@ -1231,6 +1238,13 @@
       "source": "SimplifyJobs",
       "title": "Engineering Intern",
       "url": "https://simplify.jobs/c/Leidos"
+    },
+    "leidos::software developer intern::927399040c68": {
+      "company": "Leidos",
+      "first_seen": "2026-07-29T16:34:54Z",
+      "source": "zshah101",
+      "title": "Software Developer Intern \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311"
     },
     "leidos::transportation data engineering intern::4c992f3df848": {
       "company": "Leidos",
@@ -2346,5 +2360,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-07-29T09:04:43Z"
+  "updated": "2026-07-29T16:34:54Z"
 }
