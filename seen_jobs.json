@@ -504,6 +504,13 @@
       "title": "Computer Graphics Software Developer Intern",
       "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-050234"
     },
+    "brunswick::software engineer intern::13ec124e085a": {
+      "company": "Brunswick",
+      "first_seen": "2026-07-31T16:39:30Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern",
+      "url": "https://www.brunswick.com"
+    },
     "brunswick::software engineer intern::6ab89341001e": {
       "company": "Brunswick",
       "first_seen": "2026-07-29T05:11:01Z",
@@ -1358,6 +1365,13 @@
       "title": "Software Developer Intern \ud83c\uddfa\ud83c\uddf8",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311"
     },
+    "leidos::software developer intern::eced9142e8e2": {
+      "company": "Leidos",
+      "first_seen": "2026-07-31T16:39:30Z",
+      "source": "speedyapply",
+      "title": "Software Developer Intern",
+      "url": "https://www.leidos.com"
+    },
     "leidos::transportation data engineering intern::4c992f3df848": {
       "company": "Leidos",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -1840,6 +1854,13 @@
       "source": "SimplifyJobs",
       "title": "Teleoperation Software Engineering Internship",
       "url": "https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c/application"
+    },
+    "persona ai::teleoperation software engineering internship::bb32ac841e59": {
+      "company": "Persona AI",
+      "first_seen": "2026-07-31T16:39:30Z",
+      "source": "speedyapply",
+      "title": "Teleoperation Software Engineering Internship",
+      "url": "http://persona.ai/"
     },
     "plusai::software engineer intern data infrastructure and tools::201680d6792d": {
       "company": "PlusAI",
@@ -2675,5 +2696,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-07-31T00:51:28Z"
+  "updated": "2026-07-31T16:39:30Z"
 }
