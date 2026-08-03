@@ -539,6 +539,27 @@
       "title": "Engineering Intern",
       "url": "https://boards.greenhouse.io/bugcrowd/jobs/8016582"
     },
+    "bytedance::network security software engineer intern security engineering::1b7d29b4bae7": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-03T13:12:52Z",
+      "source": "SimplifyJobs",
+      "title": "Network Security Software Engineer Intern - Security Engineering",
+      "url": "https://jobs.bytedance.com/en/position/7667876489597257989/detail"
+    },
+    "bytedance::software engineer intern ai infra compute::53dee2aae3b9": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-03T13:12:52Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - AI Infra Compute \ud83c\udf93",
+      "url": "https://jobs.bytedance.com/en/position/7667378931599214853/detail"
+    },
+    "bytedance::software engineer intern ai infrastructure compute::e6be58b99496": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-03T13:12:52Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - AI Infrastructure Compute \ud83c\udf93",
+      "url": "https://jobs.bytedance.com/en/position/7667377525182662965/detail"
+    },
     "bytedance::software engineer intern applied machine learning enterprise::f255570bb3cb": {
       "company": "ByteDance",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -553,12 +574,26 @@
       "title": "Software Engineer Intern - Developer Infrastructure",
       "url": "https://jobs.bytedance.com/en/position/7595707875767699765/detail"
     },
+    "bytedance::software engineer intern distributed nosql database systems::517ea7c8159a": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-03T13:12:52Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Distributed NoSQL Database Systems",
+      "url": "https://jobs.bytedance.com/en/position/7668374190764050741/detail"
+    },
     "bytedance::software engineer intern payment network global payment::7d920b7282b9": {
       "company": "ByteDance",
       "first_seen": "2026-07-27T05:24:04Z",
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern - Payment Network - Global Payment",
       "url": "https://jobs.bytedance.com/en/position/7533369475380070663/detail"
+    },
+    "bytedance::software engineer intern::ce32f853174d": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-03T13:12:52Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.bytedance.com/en/position/7668373268886161669/detail"
     },
     "caci::software engineer intern::95e1f67b750e": {
       "company": "CACI",
@@ -1532,6 +1567,13 @@
       "source": "SimplifyJobs",
       "title": "Data Engineering Intern",
       "url": "https://simplify.jobs/c/Microsoft"
+    },
+    "microsoft::software engineer intern coreai::626a81ec39b1": {
+      "company": "Microsoft",
+      "first_seen": "2026-08-03T13:12:52Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - CoreAI",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950"
     },
     "mindsmith::software engineering intern::4b76e909ec1f": {
       "company": "Mindsmith",
@@ -2969,5 +3011,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-08-03T09:17:44Z"
+  "updated": "2026-08-03T13:12:52Z"
 }
