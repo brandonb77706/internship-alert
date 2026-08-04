@@ -581,6 +581,13 @@
       "title": "Software Engineer Intern - AI Infrastructure Compute \ud83c\udf93",
       "url": "https://jobs.bytedance.com/en/position/7667377525182662965/detail"
     },
+    "bytedance::software engineer intern ai platform::4320f53e10c1": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-04T12:47:59Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - AI Platform",
+      "url": "https://jobs.bytedance.com/en/position/7668212952030841093/detail"
+    },
     "bytedance::software engineer intern applied machine learning enterprise::f255570bb3cb": {
       "company": "ByteDance",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -2828,6 +2835,13 @@
       "title": "Backend Software Engineer Intern - Innovative Growth",
       "url": "https://lifeattiktok.com/search/7667934860750063925"
     },
+    "tiktok::backend software engineer intern live foundation governance engineering::525c817760af": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T12:47:59Z",
+      "source": "SimplifyJobs",
+      "title": "Backend Software Engineer Intern - LIVE Foundation Governance Engineering",
+      "url": "https://lifeattiktok.com/search/7667935150530840837"
+    },
     "tiktok::backend software engineer intern media platform::71f0a4635e98": {
       "company": "TikTok",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -2947,6 +2961,13 @@
       "title": "Software Engineer Intern - Global CRM",
       "url": "https://lifeattiktok.com/search/7669711844487399685"
     },
+    "tiktok::software engineer intern intelligent creation camera::720f5abc6ecd": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T12:47:59Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Intelligent Creation-Camera",
+      "url": "https://lifeattiktok.com/search/7668862422178318597"
+    },
     "tiktok::software engineer intern ml infra::c63f8f923cec": {
       "company": "TikTok",
       "first_seen": "2026-08-03T09:17:44Z",
@@ -2982,6 +3003,13 @@
       "title": "Software Engineer Intern - Social Friending",
       "url": "https://lifeattiktok.com/search/7667935399050692917"
     },
+    "tiktok::software engineer intern transaction platform::7f215b787d87": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T12:47:59Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Transaction Platform",
+      "url": "https://lifeattiktok.com/search/7669943120351906053"
+    },
     "tiktok::software engineer intern trust and safety engineering::c21bc2ef3542": {
       "company": "TikTok",
       "first_seen": "2026-08-03T09:17:44Z",
@@ -3002,6 +3030,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://lifeattiktok.com/search/7668581636242016565"
+    },
+    "tiktok::software engineer intern::a54de12a42db": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T12:47:59Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://lifeattiktok.com/search/7669712589169117445"
     },
     "tiktok::software engineer intern::b35765c43c59": {
       "company": "TikTok",
@@ -3228,5 +3263,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-08-04T09:04:11Z"
+  "updated": "2026-08-04T12:47:59Z"
 }
