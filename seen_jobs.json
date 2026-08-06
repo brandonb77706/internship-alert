@@ -560,6 +560,13 @@
       "title": "Engineering Intern",
       "url": "https://boards.greenhouse.io/bugcrowd/jobs/8016582"
     },
+    "bytedance::gpu ai application system software engineer intern system technologies and engineering::623b639253b6": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-06T03:23:01Z",
+      "source": "SimplifyJobs",
+      "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering",
+      "url": "https://jobs.bytedance.com/en/position/7668464504736876853/detail"
+    },
     "bytedance::network security software engineer intern security engineering::1b7d29b4bae7": {
       "company": "ByteDance",
       "first_seen": "2026-08-03T13:12:52Z",
@@ -630,6 +637,13 @@
       "title": "Software Engineer Intern, Distributed NoSQL Database Systems",
       "url": "https://joinbytedance.com/search/7668374190764050741"
     },
+    "bytedance::software engineer intern global payment compliance::4e46330fa372": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-06T03:23:01Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Global Payment - Compliance",
+      "url": "https://jobs.bytedance.com/en/position/7669774721406208261/detail"
+    },
     "bytedance::software engineer intern payment network global payment::7d920b7282b9": {
       "company": "ByteDance",
       "first_seen": "2026-07-27T05:24:04Z",
@@ -643,6 +657,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://jobs.bytedance.com/en/position/7668373268886161669/detail"
+    },
+    "bytedance::video image ai ml software engineer intern multimedia::07e4a5365e71": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-06T03:23:01Z",
+      "source": "SimplifyJobs",
+      "title": "Video/Image AI/ML Software Engineer Intern - Multimedia \ud83c\udf93",
+      "url": "https://jobs.bytedance.com/en/position/7670354329765464373/detail"
     },
     "caci::software engineer intern::95e1f67b750e": {
       "company": "CACI",
@@ -1897,6 +1918,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/nextgenfed/54d1576e-c3d9-454a-b1a2-dac0b2fe5920/apply"
     },
+    "northrop grumman::software engineer intern aeronautics systems::faf646904a93": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-08-06T03:23:01Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Aeronautics Systems",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573"
+    },
     "northrop grumman::software engineer intern::b03046e76083": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-25T20:23:51Z",
@@ -2429,6 +2457,20 @@
       "title": "Reinforcement Learning for ADAS \u2013 Research and Engineering Intern",
       "url": "https://simplify.jobs/c/Bosch"
     },
+    "roblox::software engineer intern::a54b87a49fb2": {
+      "company": "Roblox",
+      "first_seen": "2026-08-06T03:23:01Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
+    },
+    "roblox::software engineer intern::bbbbdea3c240": {
+      "company": "Roblox",
+      "first_seen": "2026-08-06T03:23:01Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713&gh_src=nnh32o631us"
+    },
     "roblox::summer 2027 software engineer intern::a54b87a49fb2": {
       "company": "Roblox",
       "first_seen": "2026-08-05T17:48:39Z",
@@ -2456,6 +2498,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1"
+    },
+    "rtx::software engineer intern::3211dce38464": {
+      "company": "RTX",
+      "first_seen": "2026-08-06T03:23:01Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033"
     },
     "rtx::software engineer intern::4f3153fbe1c4": {
       "company": "RTX",
@@ -3318,6 +3367,13 @@
       "title": "Software Engineer Intern - Effects Performance",
       "url": "https://lifeattiktok.com/search/7668725183121000757"
     },
+    "tiktok::software engineer intern foundation platform::d046cc6437ac": {
+      "company": "TikTok",
+      "first_seen": "2026-08-06T03:23:01Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Foundation Platform",
+      "url": "https://lifeattiktok.com/search/7670281449668905269"
+    },
     "tiktok::software engineer intern global crm 2027 summer::c67fd3d7fc84": {
       "company": "TikTok",
       "first_seen": "2026-08-05T14:26:00Z",
@@ -3352,6 +3408,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern - Intelligent Creation-Camera",
       "url": "https://lifeattiktok.com/search/7668862422178318597"
+    },
+    "tiktok::software engineer intern media engine::193346c2b665": {
+      "company": "TikTok",
+      "first_seen": "2026-08-06T03:23:01Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Media Engine",
+      "url": "https://lifeattiktok.com/search/7670295535077427509"
     },
     "tiktok::software engineer intern ml infra::c63f8f923cec": {
       "company": "TikTok",
@@ -3753,5 +3816,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-08-05T17:48:39Z"
+  "updated": "2026-08-06T03:23:01Z"
 }
