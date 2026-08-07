@@ -1295,12 +1295,26 @@
       "title": "Software Engineer Intern \ud83c\udf93",
       "url": "https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74/apply"
     },
+    "general dynamics information technology::software developer intern::7f4dcaf4ac75": {
+      "company": "General Dynamics Information Technology",
+      "first_seen": "2026-08-07T00:54:34Z",
+      "source": "SimplifyJobs",
+      "title": "Software Developer Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1"
+    },
     "general dynamics information technology::software developer intern::bb27a29f60a3": {
       "company": "General Dynamics Information Technology",
       "first_seen": "2026-08-05T03:20:01Z",
       "source": "SimplifyJobs",
       "title": "Software Developer Intern",
       "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1"
+    },
+    "general dynamics information technology::software developer intern::d81d6269e21a": {
+      "company": "General Dynamics Information Technology",
+      "first_seen": "2026-08-07T00:54:34Z",
+      "source": "SimplifyJobs",
+      "title": "Software Developer Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1"
     },
     "general dynamics information technology::software developer intern::ebb6ac423409": {
       "company": "General Dynamics Information Technology",
@@ -1931,6 +1945,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/nextgenfed/54d1576e-c3d9-454a-b1a2-dac0b2fe5920/apply"
+    },
+    "northrop grumman::software engineer intern aeronautics systems::2a30b48aabd5": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-08-07T00:54:34Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Aeronautics Systems",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395"
     },
     "northrop grumman::software engineer intern aeronautics systems::faf646904a93": {
       "company": "Northrop Grumman",
@@ -2597,6 +2618,13 @@
       "title": "GenAI & AI/ML Engineering Intern",
       "url": "https://simplify.jobs/c/Sandisk"
     },
+    "sargent lundy::software engineer intern::920a18edc027": {
+      "company": "Sargent & Lundy",
+      "first_seen": "2026-08-07T00:54:34Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-sargentlundy.icims.com/jobs/25889/job?mobile=true&needsRedirect=false"
+    },
     "saronic::enterprise technology intern ai and automation::37dab2947833": {
       "company": "Saronic",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -2610,6 +2638,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7/application"
+    },
+    "schweitzer engineering laboratories::application engineering intern::787655e3ea27": {
+      "company": "Schweitzer Engineering Laboratories",
+      "first_seen": "2026-08-07T00:54:34Z",
+      "source": "SimplifyJobs",
+      "title": "Application Engineering Intern",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/California---San-Ramon/Application-Engineering-Intern_2026-22385"
     },
     "schweitzer engineering laboratories::engineering intern::966087e694a7": {
       "company": "Schweitzer Engineering Laboratories",
@@ -3865,5 +3900,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-08-06T14:28:57Z"
+  "updated": "2026-08-07T00:54:34Z"
 }
