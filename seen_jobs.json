@@ -581,6 +581,20 @@
       "title": "Network Security Software Engineer Intern - Security Engineering",
       "url": "https://jobs.bytedance.com/en/position/7667876489597257989/detail"
     },
+    "bytedance::network software engineer intern network observation::2c86db03ed9b": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-07T05:46:12Z",
+      "source": "SimplifyJobs",
+      "title": "Network Software Engineer Intern - Network Observation",
+      "url": "https://jobs.bytedance.com/en/position/7670772641439041797/detail"
+    },
+    "bytedance::network software engineer intern network switch::5dbf96391d9b": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-07T05:46:12Z",
+      "source": "SimplifyJobs",
+      "title": "Network Software Engineer Intern - Network Switch",
+      "url": "https://jobs.bytedance.com/en/position/7670778018960542005/detail"
+    },
     "bytedance::software engineer intern ai infra compute::53dee2aae3b9": {
       "company": "ByteDance",
       "first_seen": "2026-08-03T13:12:52Z",
@@ -3297,6 +3311,20 @@
       "title": "Frontend Software Engineer Intern - Ads Measurement Signal and Privacy",
       "url": "https://lifeattiktok.com/search/7668584161852229893"
     },
+    "tiktok::fullstack software engineer intern global e commerce 2027 summer::5c9e901b4ece": {
+      "company": "TikTok",
+      "first_seen": "2026-08-07T05:46:12Z",
+      "source": "SimplifyJobs",
+      "title": "Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer",
+      "url": "https://lifeattiktok.com/search/7670738362521520437"
+    },
+    "tiktok::fullstack software engineer intern global e commerce::d3da9b8fef15": {
+      "company": "TikTok",
+      "first_seen": "2026-08-07T05:46:12Z",
+      "source": "SimplifyJobs",
+      "title": "Fullstack Software Engineer Intern - Global E-Commerce",
+      "url": "https://lifeattiktok.com/search/7670700387322300677"
+    },
     "tiktok::general hire software engineer intern trust and safety engineering 2027 summer::c67fd3d7fc84": {
       "company": "TikTok",
       "first_seen": "2026-08-05T14:26:00Z",
@@ -3464,6 +3492,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern - Global CRM",
       "url": "https://lifeattiktok.com/search/7669711844487399685"
+    },
+    "tiktok::software engineer intern global e commerce search infrastructure::f19828de3c01": {
+      "company": "TikTok",
+      "first_seen": "2026-08-07T05:46:12Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Global E-Commerce Search Infrastructure",
+      "url": "https://lifeattiktok.com/search/7662594807715072261"
     },
     "tiktok::software engineer intern global live foundation::525c817760af": {
       "company": "TikTok",
@@ -3900,5 +3935,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-08-07T00:54:34Z"
+  "updated": "2026-08-07T05:46:12Z"
 }
