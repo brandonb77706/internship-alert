@@ -1386,6 +1386,13 @@
       "title": "Software Developer Intern \ud83c\uddfa\ud83c\uddf8",
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008"
     },
+    "foxconn industrial internet::software engineer intern engineering and operations::0b5f91edfba2": {
+      "company": "Foxconn Industrial Internet",
+      "first_seen": "2026-08-12T02:32:00Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Engineering and Operations",
+      "url": "http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern"
+    },
     "fti consulting::technology intern technology::fc7a033ad11f": {
       "company": "FTI Consulting",
       "first_seen": "2026-07-30T05:08:51Z",
@@ -1483,6 +1490,13 @@
       "source": "zshah101",
       "title": "Summer 2027 Software Developer Internship \ud83c\uddfa\ud83c\uddf8",
       "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1"
+    },
+    "general dynamics mission systems::cybersecurity software engineer intern::da87a2e4519c": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-08-12T02:32:00Z",
+      "source": "SimplifyJobs",
+      "title": "Cybersecurity Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false"
     },
     "google::software engineering intern bs summer 2027::ef7efc9839c3": {
       "company": "Google",
@@ -2855,6 +2869,13 @@
       "source": "SimplifyJobs",
       "title": "Software Developer Intern",
       "url": "https://simplify.jobs/c/SP-Global"
+    },
+    "salesforce::software engineer intern future pathways::ad74b8db3307": {
+      "company": "Salesforce",
+      "first_seen": "2026-08-12T02:32:00Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Future Pathways",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842"
     },
     "salesforce::software engineer intern futureforce summer 2027::3a7865cfc1db": {
       "company": "Salesforce",
@@ -4313,5 +4334,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-08-11T20:55:56Z"
+  "updated": "2026-08-12T02:32:00Z"
 }
