@@ -189,6 +189,41 @@
       "title": "Software Development Intern",
       "url": "https://apply.workable.com/altom-transport/j/8536165C7B/apply"
     },
+    "amd::product development engineering intern co op::5ba78cf2625b": {
+      "company": "AMD",
+      "first_seen": "2026-08-21T08:50:33Z",
+      "source": "SimplifyJobs",
+      "title": "Product Development Engineering Intern/Co-op \ud83c\udf93",
+      "url": "https://careers.amd.com/jobs/91228?icims=1"
+    },
+    "amd::software engineer intern co op masters::d2ecaca34385": {
+      "company": "AMD",
+      "first_seen": "2026-08-21T08:50:33Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern/Co-op - Masters \ud83c\udf93",
+      "url": "https://careers.amd.com/jobs/91176?icims=1"
+    },
+    "amd::software engineer intern co op::1bdccef638a3": {
+      "company": "AMD",
+      "first_seen": "2026-08-21T08:50:33Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern/Co-op",
+      "url": "https://careers.amd.com/jobs/90947?icims=1"
+    },
+    "amd::software engineer intern co op::803c5b98cf35": {
+      "company": "AMD",
+      "first_seen": "2026-08-21T08:50:33Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern/Co-op",
+      "url": "https://careers.amd.com/jobs/90891?icims=1"
+    },
+    "amd::software engineer intern co op::a7d519df1058": {
+      "company": "AMD",
+      "first_seen": "2026-08-21T08:50:33Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern/Co-op \ud83c\udf93",
+      "url": "https://careers.amd.com/jobs/91180?icims=1"
+    },
     "american express::software engineer intern enterprise technology services::2d16dfe37df6": {
       "company": "American Express",
       "first_seen": "2026-08-18T01:41:17Z",
@@ -1364,6 +1399,13 @@
       "source": "SimplifyJobs",
       "title": "Undergraduate IT Data Engineering Intern - IT Data Engineering",
       "url": "https://simplify.jobs/c/Dallas-Fort-Worth-International-Airport"
+    },
+    "databricks::software engineer intern::ba01cdc08c70": {
+      "company": "Databricks",
+      "first_seen": "2026-08-21T08:50:33Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8732364002"
     },
     "datadog::software engineer intern observability and security platform::8ae0aae740a4": {
       "company": "Datadog",
@@ -3969,6 +4011,13 @@
       "title": "Technology Intern - Technology",
       "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1"
     },
+    "systems planning and analysis spa::science technology intern::50d31188ed42": {
+      "company": "Systems Planning and Analysis (SPA)",
+      "first_seen": "2026-08-21T08:50:33Z",
+      "source": "SimplifyJobs",
+      "title": "Science & Technology Intern",
+      "url": "https://simplify.jobs/c/System-Planning-And-Analysis"
+    },
     "systems planning and analysis spa::science technology intern::535345aea840": {
       "company": "Systems Planning and Analysis (SPA)",
       "first_seen": "2026-08-08T13:03:41Z",
@@ -5482,5 +5531,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-08-21T01:47:38Z"
+  "updated": "2026-08-21T08:50:33Z"
 }
