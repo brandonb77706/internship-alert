@@ -1407,6 +1407,13 @@
       "title": "Software Engineer Intern",
       "url": "https://boards.greenhouse.io/embed/job_app?token=8732364002"
     },
+    "databricks::software engineering intern 2027 start winter::aaa7b8861f8f": {
+      "company": "Databricks",
+      "first_seen": "2026-08-21T13:01:38Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - 2027 Start - Winter",
+      "url": "https://databricks.com"
+    },
     "datadog::software engineer intern observability and security platform::8ae0aae740a4": {
       "company": "Datadog",
       "first_seen": "2026-08-17T16:36:11Z",
@@ -1540,6 +1547,13 @@
       "title": "Embedded Software Engineer Intern",
       "url": "https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply"
     },
+    "e space::embedded software engineering intern::21e31c6ce06e": {
+      "company": "E-Space",
+      "first_seen": "2026-08-21T13:01:38Z",
+      "source": "speedyapply",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://www.e-space.com"
+    },
     "e space::embedded software engineering intern::ad5befcc3b7a": {
       "company": "E-Space",
       "first_seen": "2026-08-20T13:02:36Z",
@@ -1672,6 +1686,13 @@
       "source": "vanshb03",
       "title": "Software Developer Intern \ud83c\uddfa\ud83c\uddf8",
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008"
+    },
+    "fooji::software engineering intern::439c367c72da": {
+      "company": "Fooji",
+      "first_seen": "2026-08-21T13:01:38Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern",
+      "url": "https://apply.workable.com/fooji/j/6563DA99B5/"
     },
     "fooji::software engineering intern::9d977a0776e4": {
       "company": "Fooji",
@@ -3128,6 +3149,13 @@
       "source": "speedyapply",
       "title": "Teleoperation Software Engineering Internship",
       "url": "http://persona.ai/"
+    },
+    "phoebe::software engineering intern::a9bb0857c25d": {
+      "company": "Phoebe",
+      "first_seen": "2026-08-21T13:01:38Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern",
+      "url": "https://phoebe.work/"
     },
     "photon::software engineering intern ai::3c5394b38247": {
       "company": "Photon",
@@ -5531,5 +5559,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-08-21T08:50:33Z"
+  "updated": "2026-08-21T13:01:38Z"
 }
