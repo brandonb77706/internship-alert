@@ -483,6 +483,13 @@
       "title": "Software Engineer Intern - Multiple Teams",
       "url": "https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436"
     },
+    "availity::software engineering intern::b4647bfa2baa": {
+      "company": "Availity \ud83c\udd81",
+      "first_seen": "2026-08-22T04:40:27Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern",
+      "url": "https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436"
+    },
     "aveva::software developer intern co op::2f431362bda3": {
       "company": "AVEVA",
       "first_seen": "2026-07-21T00:49:19Z",
@@ -1596,12 +1603,26 @@
       "title": "Embedded Software Engineering Intern",
       "url": "https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3"
     },
+    "ecolab::digital ai technology intern::e53a4dc1d713": {
+      "company": "Ecolab",
+      "first_seen": "2026-08-22T04:40:27Z",
+      "source": "SimplifyJobs",
+      "title": "Digital & AI Technology Intern",
+      "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249"
+    },
     "electronic arts::rendering software engineer intern::7cad7d8fa611": {
       "company": "Electronic Arts",
       "first_seen": "2026-07-06T14:09:11Z",
       "source": "SimplifyJobs",
       "title": "Rendering Software Engineer Intern",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Software-Engineer-Intern-Fall-2026/210865"
+    },
+    "elevate semiconductor::product engineering intern::3da83ae9fbf3": {
+      "company": "Elevate Semiconductor",
+      "first_seen": "2026-08-22T04:40:27Z",
+      "source": "SimplifyJobs",
+      "title": "Product Engineering Intern",
+      "url": "https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply"
     },
     "encephalo investments::software developer intern::7bd292c11560": {
       "company": "Encephalo Investments",
@@ -2603,6 +2624,13 @@
       "source": "SimplifyJobs",
       "title": "Engineering Intern - Software Development",
       "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26"
+    },
+    "microsoft::ai software engineer intern edge::c477a9921b2d": {
+      "company": "Microsoft",
+      "first_seen": "2026-08-22T04:40:27Z",
+      "source": "SimplifyJobs",
+      "title": "AI Software Engineer Intern - Edge",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054"
     },
     "microsoft::ai software engineer intern::416734462a5a": {
       "company": "Microsoft",
@@ -5685,5 +5713,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-08-22T01:40:36Z"
+  "updated": "2026-08-22T04:40:27Z"
 }
