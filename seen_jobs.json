@@ -735,6 +735,13 @@
       "title": "Software Engineer Intern - Engineering - Developer",
       "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251"
     },
+    "booz allen::ai software developer intern::2c5449969609": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-30T19:15:27Z",
+      "source": "speedyapply",
+      "title": "AI Software Developer Intern",
+      "url": "https://www.boozallen.com"
+    },
     "booz allen::ai software developer intern::aa8069edabf1": {
       "company": "Booz Allen",
       "first_seen": "2026-08-28T22:09:54Z",
@@ -804,6 +811,13 @@
       "source": "zshah101",
       "title": "University - 2027 Summer Games Software Developer Intern - Atlanta, GA \ud83c\uddfa\ud83c\uddf8",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138"
+    },
+    "booz allen::university 2027 summer games software developer intern atlanta ga::2c5449969609": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-30T19:15:27Z",
+      "source": "speedyapply",
+      "title": "University - 2027 Summer Games Software Developer Intern - Atlanta - GA",
+      "url": "https://www.boozallen.com"
     },
     "booz allen::university 2027 summer games software developer intern el segundo ca::0f51e95a65ad": {
       "company": "Booz Allen",
@@ -2268,6 +2282,13 @@
       "title": "Software Engineer Intern",
       "url": "https://fullbay.bamboohr.com/careers/131/"
     },
+    "game plan tech::software engineering intern::a74da7938ed1": {
+      "company": "Game Plan Tech",
+      "first_seen": "2026-08-30T19:15:27Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern",
+      "url": "https://gameplan.tech/"
+    },
     "garda capital partners::software engineer intern::71f929d64502": {
       "company": "Garda Capital Partners",
       "first_seen": "2026-08-19T13:00:08Z",
@@ -2582,6 +2603,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern - Computer Science",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558"
+    },
+    "hp::software and engineering intern roles imaging and print::3e1ba2c5742c": {
+      "company": "HP",
+      "first_seen": "2026-08-30T19:15:27Z",
+      "source": "speedyapply",
+      "title": "Software and Engineering Intern Roles - Imaging and Print",
+      "url": "https://www.hp.com"
     },
     "hp::software engineering intern device experiences::3e1ba2c5742c": {
       "company": "HP",
@@ -3744,6 +3772,20 @@
       "source": "zshah101",
       "title": "Software Engineering Intern (2027 Summer Internship) \ud83c\uddfa\ud83c\uddf8",
       "url": "https://jobs.ashbyhq.com/northwoodspace/ce3d4b73-461e-4128-a6f1-f933897e8119"
+    },
+    "northwoodspace::embedded software engineering intern 2027 summer internship::84c20102e4ce": {
+      "company": "northwoodspace",
+      "first_seen": "2026-08-30T19:15:27Z",
+      "source": "speedyapply",
+      "title": "Embedded Software Engineering Intern - 2027 Summer Internship",
+      "url": "http://www.northwoodspace.io/"
+    },
+    "northwoodspace::software engineering intern 2027 summer internship::84c20102e4ce": {
+      "company": "northwoodspace",
+      "first_seen": "2026-08-30T19:15:27Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - 2027 Summer Internship",
+      "url": "http://www.northwoodspace.io/"
     },
     "notion::software engineer intern summer 2027::4bad20c5aae4": {
       "company": "Notion",
@@ -7043,5 +7085,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-08-29T19:21:16Z"
+  "updated": "2026-08-30T19:15:27Z"
 }
