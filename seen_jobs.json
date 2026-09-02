@@ -539,6 +539,13 @@
       "title": "Utility Engineering Intern",
       "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624"
     },
+    "armadin::software engineer intern agent systems::2fea30207274": {
+      "company": "Armadin",
+      "first_seen": "2026-09-02T12:42:51Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Agent Systems",
+      "url": "https://jobs.ashbyhq.com/armadin/8ddb9c3a-3031-42d4-ad68-adcc865e32cf/application?embed=true"
+    },
     "astera::software engineer intern distributed simulation systems::2234f1e71648": {
       "company": "Astera",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -1637,6 +1644,41 @@
       "source": "SimplifyJobs",
       "title": "Junior Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007"
+    },
+    "clearwater analytics::software development intern::13696264dc6a": {
+      "company": "Clearwater Analytics",
+      "first_seen": "2026-09-02T12:42:51Z",
+      "source": "SimplifyJobs",
+      "title": "Software Development Intern",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Chicago/Software-Development-Intern_R12186"
+    },
+    "clearwater analytics::software development intern::8359ecaae564": {
+      "company": "Clearwater Analytics",
+      "first_seen": "2026-09-02T12:42:51Z",
+      "source": "SimplifyJobs",
+      "title": "Software Development Intern",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Software-Development-Intern_R12192"
+    },
+    "clearwater analytics::software development intern::88aa6e58d881": {
+      "company": "Clearwater Analytics",
+      "first_seen": "2026-09-02T12:42:51Z",
+      "source": "SimplifyJobs",
+      "title": "Software Development Intern",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Software-Development-Intern_R12098"
+    },
+    "clearwater analytics::software development intern::c0a85df225dc": {
+      "company": "Clearwater Analytics",
+      "first_seen": "2026-09-02T12:42:51Z",
+      "source": "SimplifyJobs",
+      "title": "Software Development Intern",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Chicago/Software-Development-Intern_R12188"
+    },
+    "clearwater analytics::software development intern::c8c4a6b47245": {
+      "company": "Clearwater Analytics",
+      "first_seen": "2026-09-02T12:42:51Z",
+      "source": "SimplifyJobs",
+      "title": "Software Development Intern",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Chicago/Software-Development-Intern_R12187"
     },
     "clerkie::software engineer intern::4df71f6c51e0": {
       "company": "Clerkie",
@@ -3374,6 +3416,13 @@
       "title": "Human-Machine Engineering Intern",
       "url": "https://careers.jhuapl.edu/jobs/59782?icims=1"
     },
+    "johns hopkins applied physics laboratory::mission systems engineering intern::18d9b831c5de": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-09-02T12:42:51Z",
+      "source": "SimplifyJobs",
+      "title": "Mission Systems Engineering Intern",
+      "url": "https://careers.jhuapl.edu/jobs/59883?icims=1"
+    },
     "johns hopkins applied physics laboratory::software developer intern tactical system prototyping and deployment::a6d31d5e39c5": {
       "company": "Johns Hopkins Applied Physics Laboratory",
       "first_seen": "2026-09-01T19:20:17Z",
@@ -3947,6 +3996,13 @@
       "source": "SimplifyJobs",
       "title": "Business Technology Intern - Summer 2027",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464029"
+    },
+    "michelin::data engineering intern::62a0f13877ac": {
+      "company": "Michelin",
+      "first_seen": "2026-09-02T12:42:51Z",
+      "source": "SimplifyJobs",
+      "title": "Data Engineering Intern",
+      "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/ARDMORE-OK/Summer-2027-Internship--Data-Engineering---Ardmore--OK-_R-2026030979"
     },
     "microchip technology::applications engineering intern::fc45f3c6a0f2": {
       "company": "Microchip Technology",
@@ -6251,12 +6307,33 @@
       "title": "Engineering Intern",
       "url": "https://tdwilliamson.wd1.myworkdayjobs.com/en-US/TDWCareers/job/USA-OK-Tulsa/Engineering-Intern_REQ-03578"
     },
+    "talentpluto::ai ml engineering intern::60dbe6bf4075": {
+      "company": "Talentpluto \ud83c\udd81",
+      "first_seen": "2026-09-02T12:42:51Z",
+      "source": "zshah101",
+      "title": "AI/ML Engineering Intern",
+      "url": "https://apply.workable.com/talentpluto/j/6F93C25627/"
+    },
+    "talentpluto::backend engineering intern::32e8a03c6105": {
+      "company": "Talentpluto \ud83c\udd81",
+      "first_seen": "2026-09-02T12:42:51Z",
+      "source": "zshah101",
+      "title": "Backend Engineering Intern",
+      "url": "https://apply.workable.com/talentpluto/j/CCC60EBB0C/"
+    },
     "talentpluto::full stack engineering intern::39b47ae12b6f": {
       "company": "talentpluto",
       "first_seen": "2026-08-26T13:05:50Z",
       "source": "speedyapply",
       "title": "Full Stack Engineering Intern",
       "url": "https://talentpluto.com/"
+    },
+    "talentpluto::full stack engineering intern::7e45dae4e678": {
+      "company": "Talentpluto",
+      "first_seen": "2026-09-02T12:42:51Z",
+      "source": "zshah101",
+      "title": "Full Stack Engineering Intern",
+      "url": "https://apply.workable.com/talentpluto/j/D3050663DF/"
     },
     "tc energy::engineering intern engineering::686342573c34": {
       "company": "TC Energy",
@@ -8247,5 +8324,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-09-02T04:10:01Z"
+  "updated": "2026-09-02T12:42:51Z"
 }
