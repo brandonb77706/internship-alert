@@ -504,11 +504,25 @@
       "title": "Data Engineering Intern",
       "url": "https://simplify.jobs/c/APEX-Analytix"
     },
+    "apex technology::ground software engineering internship spring or summer 2027::147e985806ec": {
+      "company": "Apex Technology",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "Ground Software Engineering Internship - Spring or Summer 2027",
+      "url": "https://www.apexspace.com/"
+    },
     "apex technology::software engineering internship embedded systems spring or summer 2027::147e985806ec": {
       "company": "Apex Technology",
       "first_seen": "2026-09-03T19:14:33Z",
       "source": "speedyapply",
       "title": "Software Engineering Internship - Embedded Systems - Spring or Summer 2027",
+      "url": "https://www.apexspace.com/"
+    },
+    "apex technology::software engineering internship test automation spring or summer 2027::147e985806ec": {
+      "company": "Apex Technology",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Internship - Test & Automation - Spring or Summer 2027",
       "url": "https://www.apexspace.com/"
     },
     "apex::software engineer intern embedded systems::5083dd8b2a40": {
@@ -1512,12 +1526,26 @@
       "title": "AWS Cloud Engineering Intern - Summer 2027",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437"
     },
+    "caci::devops software engineering intern summer 2027::1d28b2fcfbf7": {
+      "company": "CACI",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "DevOps/Software Engineering Intern - Summer 2027",
+      "url": "https://www.caci.com"
+    },
     "caci::devops software engineering intern summer 2027::fb7c75596fe2": {
       "company": "CACI",
       "first_seen": "2026-09-02T19:20:13Z",
       "source": "zshah101",
       "title": "DevOps/Software Engineering Intern - Summer 2027",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466"
+    },
+    "caci::software engineer intern summer 2027::1efeb3009c0f": {
+      "company": "CACI",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "zshah101",
+      "title": "Software Engineer Intern - Summer 2027 \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
     },
     "caci::software engineer intern::89b97f1e9d3c": {
       "company": "CACI",
@@ -1868,6 +1896,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785"
+    },
+    "cna insurance::technology internship program software engineering::8f15d9a8c91b": {
+      "company": "CNA Insurance",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "zshah101",
+      "title": "Technology Internship Program (Software Engineering) \ud83d\udec2",
+      "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107"
     },
     "cno financial group::artificial intelligence information technology intern ai::1c00ff2ccda0": {
       "company": "CNO Financial Group",
@@ -2877,6 +2912,13 @@
       "title": "Software Engineer Intern",
       "url": "https://careers.garmin.com/jobs/19693?icims=1"
     },
+    "garner health::software engineering intern::c5ede8adca81": {
+      "company": "Garner Health",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern \ud83d\udec2",
+      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004"
+    },
     "gdit::summer 2027 software developer internship::d3e7d96ec9e9": {
       "company": "GDIT",
       "first_seen": "2026-08-05T14:26:00Z",
@@ -3773,6 +3815,13 @@
       "title": "Software Engineer Intern - Air Taxi",
       "url": "https://www.jobyaviation.com"
     },
+    "john deere::information technology intern technology::4ba5ab258459": {
+      "company": "John Deere",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "SimplifyJobs",
+      "title": "Information Technology Intern - Technology",
+      "url": "https://johndeere.eightfold.ai/careers/job/137482633322"
+    },
     "john deere::product engineering intern::8302a7a30d1a": {
       "company": "John Deere",
       "first_seen": "2026-09-02T04:10:01Z",
@@ -4354,6 +4403,13 @@
       "title": "Software engineering Intern",
       "url": "http://maximor.ai/"
     },
+    "mckesson::software development intern summer 2027::2c0d0022f7cc": {
+      "company": "McKesson",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "Software Development Intern - Summer 2027",
+      "url": "https://www.mckesson.com"
+    },
     "mckesson::software development intern summer 2027::d8f589c5d5e3": {
       "company": "McKesson",
       "first_seen": "2026-09-03T04:06:16Z",
@@ -4367,6 +4423,13 @@
       "source": "zshah101",
       "title": "Software Engineer Intern - Summer 2027 _(2 openings)_",
       "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469"
+    },
+    "mckesson::software engineer intern summer 2027::2c0d0022f7cc": {
+      "company": "McKesson",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://www.mckesson.com"
     },
     "mckesson::software engineer intern::1f885788553f": {
       "company": "McKesson",
@@ -4990,6 +5053,13 @@
       "source": "zshah101",
       "title": "2027 Software Engineer Intern - Linthicum Maryland \ud83c\uddfa\ud83c\uddf8",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
+    },
+    "northrop grumman::2027 software engineer intern linthicum maryland::c70a252c55bf": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "2027 Software Engineer Intern - Linthicum Maryland",
+      "url": "https://www.northropgrumman.com"
     },
     "northrop grumman::2027 software engineering intern huntsville al::c3d53248b410": {
       "company": "Northrop Grumman",
@@ -5663,6 +5733,13 @@
       "title": "Software Engineer Intern - Generalist ~",
       "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/"
     },
+    "premier::software engineer intern::0542a8ec58a5": {
+      "company": "Premier",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern",
+      "url": "https://premierinc.com"
+    },
     "premier::software engineer intern::3294afb8e198": {
       "company": "Premier",
       "first_seen": "2026-09-03T22:28:41Z",
@@ -5670,12 +5747,26 @@
       "title": "Software Engineer Intern",
       "url": "https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480"
     },
+    "principal financial group::software engineer intern summer 2027::eb1bf5efe112": {
+      "company": "Principal Financial Group",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://careers.principal.com/jobs/52513?icims=1"
+    },
     "procter gamble::data ai engineering intern::088bbabb65c0": {
       "company": "Procter & Gamble",
       "first_seen": "2026-08-24T20:38:43Z",
       "source": "SimplifyJobs",
       "title": "Data & AI Engineering Intern",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499"
+    },
+    "procter gamble::it engineering internship software platform network::47d4cf3452fb": {
+      "company": "Procter & Gamble",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "SimplifyJobs",
+      "title": "IT Engineering Internship - Software, Platform, Network",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503"
     },
     "pronexus::software engineer intern::2101e5d6a602": {
       "company": "ProNexus",
@@ -6699,6 +6790,20 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7/application"
     },
+    "scale ai::software engineering intern summer 2027::dadaed3e236a": {
+      "company": "Scale AI",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
+    },
+    "schonfeld::2027 software engineering intern::945f09ceae6b": {
+      "company": "Schonfeld",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "zshah101",
+      "title": "2027 Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089"
+    },
     "schweitzer engineering laboratories::application engineering intern::787655e3ea27": {
       "company": "Schweitzer Engineering Laboratories",
       "first_seen": "2026-08-07T00:54:34Z",
@@ -6762,12 +6867,26 @@
       "title": "Software Engineering Intern - AI Focus",
       "url": "https://selinc.com"
     },
+    "sel::software engineering intern power systems::d7d49e7f71a4": {
+      "company": "SEL",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Power Systems",
+      "url": "https://selinc.com"
+    },
     "serval::software engineer intern::88d22be46094": {
       "company": "Serval",
       "first_seen": "2026-07-14T16:34:38Z",
       "source": "speedyapply",
       "title": "Software Engineer Intern",
       "url": "https://www.serval.com/"
+    },
+    "shure::application software development intern::a69a4f5c5d0e": {
+      "company": "Shure",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "Application Software Development Intern",
+      "url": "https://www.shure.com"
     },
     "shure::application software development intern::a9a55ba03aef": {
       "company": "Shure",
@@ -6783,6 +6902,13 @@
       "title": "Application Software Engineer Intern",
       "url": "https://careersus-shure.icims.com/jobs/4955/job?mobile=true&needsRedirect=false"
     },
+    "shure::application software engineering intern::a69a4f5c5d0e": {
+      "company": "Shure",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "Application Software Engineering Intern",
+      "url": "https://www.shure.com"
+    },
     "shure::audio test engineering intern::cb96ebdb5001": {
       "company": "Shure",
       "first_seen": "2026-09-03T12:45:44Z",
@@ -6796,6 +6922,13 @@
       "source": "SimplifyJobs",
       "title": "Automated Test Software Engineering Intern",
       "url": "https://careersus-shure.icims.com/jobs/4964/job?mobile=true&needsRedirect=false"
+    },
+    "shure::automated test software engineering intern::a69a4f5c5d0e": {
+      "company": "Shure",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "Automated Test Software Engineering Intern",
+      "url": "https://www.shure.com"
     },
     "shure::cloud software engineer intern::ddc3ebb260c0": {
       "company": "Shure",
@@ -6901,6 +7034,13 @@
       "source": "zshah101",
       "title": "Software Engineering Intern (Summer 2027) \ud83c\uddfa\ud83c\uddf8",
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1"
+    },
+    "sierra nevada corporation::software engineering intern summer 2027::f30141e4a771": {
+      "company": "Sierra Nevada Corporation",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://www.sncorp.com"
     },
     "simoncomputing::software development internship::986b8e3a5559": {
       "company": "SimonComputing",
@@ -7084,6 +7224,13 @@
       "title": "Commercial Operations Software Engineering Intern - Flower Mound, TX",
       "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941"
     },
+    "stryker::commercial operations software engineering intern flower mound tx::dfd00f15e907": {
+      "company": "Stryker",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "Commercial Operations Software Engineering Intern - Flower Mound - TX",
+      "url": "https://www.stryker.com"
+    },
     "stryker::software engineering intern multiple teams::0d8ec45b0c1f": {
       "company": "Stryker",
       "first_seen": "2026-08-31T16:05:24Z",
@@ -7174,6 +7321,13 @@
       "source": "zshah101",
       "title": "Backend Engineering Intern",
       "url": "https://apply.workable.com/talentpluto/j/CCC60EBB0C/"
+    },
+    "talentpluto::backend engineering intern::39b47ae12b6f": {
+      "company": "talentpluto",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "Backend Engineering Intern",
+      "url": "https://talentpluto.com/"
     },
     "talentpluto::full stack engineering intern::39b47ae12b6f": {
       "company": "talentpluto",
@@ -7307,6 +7461,13 @@
       "source": "speedyapply",
       "title": "Software Engineering Intern",
       "url": "https://terranova.inc/"
+    },
+    "tesla::audio sensor software engineer intern vehicle engineering::e2d0dd1339a7": {
+      "company": "Tesla",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "SimplifyJobs",
+      "title": "Audio & Sensor Software Engineer Intern - Vehicle Engineering",
+      "url": "https://www.tesla.com/careers/search/job/282301"
     },
     "tesla::cell engineering intern cell qualification::21eda3a12734": {
       "company": "Tesla",
@@ -7685,6 +7846,13 @@
       "source": "SimplifyJobs",
       "title": "Analog IC Design Engineering Intern \ud83c\udf93",
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017544"
+    },
+    "texas instruments::systems engineering intern machine learning expert::0d6920592f93": {
+      "company": "Texas Instruments",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "zshah101",
+      "title": "Systems Engineering Intern - Machine Learning Expert",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017705"
     },
     "textron::software engineer intern crewed land::3b27d242a212": {
       "company": "Textron",
@@ -8841,6 +9009,13 @@
       "title": "Software Engineering Intern",
       "url": "https://www.truveta.com"
     },
+    "twg global::ai engineering intern summer 2027::e425ec1ce9ca": {
+      "company": "TWG Global",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "zshah101",
+      "title": "AI Engineering Intern - Summer 2027",
+      "url": "https://apply.workable.com/twgai/j/772CD136FF/"
+    },
     "ul solutions::software development intern::6766a8b93458": {
       "company": "UL Solutions",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -9205,6 +9380,13 @@
       "title": "Summer 2027 - Software Engineering Internship",
       "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213"
     },
+    "western southern financial group::software developer intern agency systems full year 2027::9405a542a1fe": {
+      "company": "Western & Southern Financial Group",
+      "first_seen": "2026-09-04T22:17:34Z",
+      "source": "speedyapply",
+      "title": "Software Developer Intern - Agency Systems - Full Year 2027",
+      "url": "https://www.westernsouthern.com"
+    },
     "western southern financial group::software developer intern enterprise process management team full year 2027::9405a542a1fe": {
       "company": "Western & Southern Financial Group",
       "first_seen": "2026-09-03T19:14:33Z",
@@ -9339,5 +9521,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-09-04T12:39:47Z"
+  "updated": "2026-09-04T22:17:34Z"
 }
