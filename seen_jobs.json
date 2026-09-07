@@ -3759,6 +3759,13 @@
       "title": "Software Engineer Intern",
       "url": "https://hyperlightcorp.com/"
     },
+    "icf international::software developer intern::40b903700358": {
+      "company": "ICF International",
+      "first_seen": "2026-09-07T14:10:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Developer Intern",
+      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002"
+    },
     "igs energy::software engineer intern::08255e38c1f5": {
       "company": "IGS Energy",
       "first_seen": "2026-09-01T19:20:17Z",
@@ -5417,6 +5424,20 @@
       "source": "SimplifyJobs",
       "title": "AI / Software Engineering Intern",
       "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807"
+    },
+    "nxp semiconductors::device engineering intern summer 2027::8903ba787031": {
+      "company": "NXP Semiconductors",
+      "first_seen": "2026-09-07T14:10:49Z",
+      "source": "SimplifyJobs",
+      "title": "Device Engineering Intern - Summer 2027",
+      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Device-Engineering-Intern---Summer-2027_R-10064586"
+    },
+    "nxp semiconductors::microcontrollers system engineering intern::49cf5b196486": {
+      "company": "NXP Semiconductors",
+      "first_seen": "2026-09-07T14:10:49Z",
+      "source": "SimplifyJobs",
+      "title": "Microcontrollers System Engineering Intern",
+      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Microcontrollers-System-Engineering-Intern---Summer-2027_R-10066400-1"
     },
     "oceancomm::engineering intern co op::2ec81dfa7163": {
       "company": "OceanComm",
@@ -9780,5 +9801,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-09-07T04:15:35Z"
+  "updated": "2026-09-07T14:10:49Z"
 }
