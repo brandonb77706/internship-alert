@@ -2464,6 +2464,13 @@
       "title": "Technology Intern - Data Engineering",
       "url": "https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1"
     },
+    "dick s sporting goods::software engineer intern corporate internship::827b756ec683": {
+      "company": "Dick's Sporting Goods",
+      "first_seen": "2026-09-08T12:48:54Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Corporate Internship",
+      "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1"
+    },
     "dimensional fund advisors::investment engineering intern undergraduate master s::3876344b44ec": {
       "company": "Dimensional Fund Advisors",
       "first_seen": "2026-08-27T22:10:08Z",
@@ -4788,6 +4795,20 @@
       "title": "AI Systems and Infrastructure Engineering Intern \ud83c\udf93",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Intern---AI-Systems-and-Infrastructure-Engineering_JR109990"
     },
+    "micron technology::dram customer enablement engineering intern::4da908836ffc": {
+      "company": "Micron Technology",
+      "first_seen": "2026-09-08T12:48:54Z",
+      "source": "SimplifyJobs",
+      "title": "DRAM Customer Enablement Engineering Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR107740"
+    },
+    "micron technology::dram customer enablement engineering intern::5824386f0daa": {
+      "company": "Micron Technology",
+      "first_seen": "2026-09-08T12:48:54Z",
+      "source": "SimplifyJobs",
+      "title": "DRAM Customer Enablement Engineering Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521"
+    },
     "micron technology::dram test structure design and layout engineering intern::9202febd9e2a": {
       "company": "Micron Technology",
       "first_seen": "2026-09-07T04:15:35Z",
@@ -4801,6 +4822,13 @@
       "source": "SimplifyJobs",
       "title": "Dry Etch Equipment Development Engineering Intern",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Dry-Etch-Equipment-Development-Engineering_JR109987"
+    },
+    "micron technology::software engineer intern mask technology center::251d4225b948": {
+      "company": "Micron Technology",
+      "first_seen": "2026-09-08T12:48:54Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Mask Technology Center",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550"
     },
     "micron technology::thin films equipment engineering intern ede::b9d58f4af23f": {
       "company": "Micron Technology",
@@ -6517,6 +6545,13 @@
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691"
     },
+    "rtx::software engineer intern summer 2027::32ba3b53d483": {
+      "company": "RTX",
+      "first_seen": "2026-09-08T12:48:54Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01872100"
+    },
     "rtx::software engineer intern summer 2027::33e73d87c04b": {
       "company": "RTX",
       "first_seen": "2026-08-27T22:10:08Z",
@@ -6677,6 +6712,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01870410"
+    },
+    "rtx::software engineer intern::442d9295dedb": {
+      "company": "RTX",
+      "first_seen": "2026-09-08T12:48:54Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01872097"
     },
     "rtx::software engineer intern::4ad42da8e9b6": {
       "company": "RTX",
@@ -9815,5 +9857,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-09-07T19:49:06Z"
+  "updated": "2026-09-08T12:48:54Z"
 }
