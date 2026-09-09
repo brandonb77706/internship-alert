@@ -2499,6 +2499,13 @@
       "title": "Software Engineering Intern - Summer 2027 - Atlanta - GA",
       "url": "https://coxenterprises.com/"
     },
+    "cox::software engineering intern summer 2027 atlanta ga::dc57430bd0a1": {
+      "company": "Cox",
+      "first_seen": "2026-09-09T22:26:01Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern - Summer 2027 (Atlanta, GA)",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166"
+    },
     "cox::software engineering intern summer 2027 austin tx::12451154fe18": {
       "company": "Cox",
       "first_seen": "2026-09-09T19:12:31Z",
@@ -7588,6 +7595,13 @@
       "title": "Enterprise Technology Intern - AI and Automation",
       "url": "https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3/application"
     },
+    "saronic::software engineer intern summer 2027::734edb6c22f8": {
+      "company": "Saronic",
+      "first_seen": "2026-09-09T22:26:01Z",
+      "source": "zshah101",
+      "title": "Software Engineer Intern (Summer 2027) \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2"
+    },
     "saronic::software engineer intern::6c27b5ce43e2": {
       "company": "Saronic",
       "first_seen": "2026-07-06T14:09:11Z",
@@ -10543,5 +10557,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-09-09T19:12:31Z"
+  "updated": "2026-09-09T22:26:01Z"
 }
