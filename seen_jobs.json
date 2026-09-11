@@ -3500,6 +3500,13 @@
       "title": "Software Engineer Intern",
       "url": "https://careers.garmin.com/jobs/20131?icims=1"
     },
+    "garmin::software engineer intern::3855bbf8cb32": {
+      "company": "Garmin",
+      "first_seen": "2026-09-11T12:46:10Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.garmin.com/jobs/20135?icims=1"
+    },
     "garmin::software engineer intern::869bd2838383": {
       "company": "Garmin",
       "first_seen": "2026-08-31T23:42:47Z",
@@ -11221,6 +11228,20 @@
       "title": "Technology Intern",
       "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006"
     },
+    "wellmark::software engineer intern::a66b7f6fec88": {
+      "company": "Wellmark",
+      "first_seen": "2026-09-11T12:46:10Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793"
+    },
+    "wellmark::software engineer internship user experience team::a66b7f6fec88": {
+      "company": "Wellmark",
+      "first_seen": "2026-09-11T12:46:10Z",
+      "source": "zshah101",
+      "title": "Software Engineer Internship \u2013 User Experience Team",
+      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793"
+    },
     "western digital::software engineer intern::6acfb66dea91": {
       "company": "Western Digital",
       "first_seen": "2026-07-30T05:08:51Z",
@@ -11376,5 +11397,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-09-11T04:18:53Z"
+  "updated": "2026-09-11T12:46:10Z"
 }
