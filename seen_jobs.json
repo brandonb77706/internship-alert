@@ -2422,6 +2422,20 @@
       "title": "Software Engineer Intern",
       "url": "https://www.conductorai.co/"
     },
+    "constellation energy::information technology software development intern::cfd5c2e6973e": {
+      "company": "Constellation Energy",
+      "first_seen": "2026-09-12T12:06:25Z",
+      "source": "SimplifyJobs",
+      "title": "Information Technology Software Development Intern",
+      "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1"
+    },
+    "constellation energy::it data engineering intern::b582c4ee2cad": {
+      "company": "Constellation Energy",
+      "first_seen": "2026-09-12T12:06:25Z",
+      "source": "SimplifyJobs",
+      "title": "IT Data Engineering Intern",
+      "url": "https://jobs.constellationenergy.com/jobs/138716?icims=1"
+    },
     "copart::database engineering intern::c3142abfe0d0": {
       "company": "Copart",
       "first_seen": "2026-08-07T20:50:45Z",
@@ -3247,6 +3261,13 @@
       "source": "SimplifyJobs",
       "title": "Engineering Intern",
       "url": "https://simplify.jobs/c/Energy-Northwest"
+    },
+    "energy transfer partners::engineering intern::a1bb528c8803": {
+      "company": "Energy Transfer Partners",
+      "first_seen": "2026-09-12T12:06:25Z",
+      "source": "SimplifyJobs",
+      "title": "Engineering Intern",
+      "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003366"
     },
     "enfos::software engineer intern summer 2027::0dc7250e36f0": {
       "company": "ENFOS",
@@ -4976,6 +4997,20 @@
       "source": "SimplifyJobs",
       "title": "BB Process Engineering Intern",
       "url": "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11508"
+    },
+    "kulicke soffa::software engineer intern::8ad127c43587": {
+      "company": "Kulicke & Soffa",
+      "first_seen": "2026-09-12T12:06:25Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649"
+    },
+    "kulicke soffa::software engineering intern::e5601416ae59": {
+      "company": "Kulicke & Soffa",
+      "first_seen": "2026-09-12T12:06:25Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineering Intern",
+      "url": "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11648"
     },
     "l3harris technologies::integration and test engineering intern test engineering support::de999c88b3ff": {
       "company": "L3Harris Technologies",
@@ -11719,5 +11754,5 @@
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     }
   },
-  "updated": "2026-09-12T04:17:42Z"
+  "updated": "2026-09-12T12:06:25Z"
 }
