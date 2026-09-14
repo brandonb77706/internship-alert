@@ -49,12 +49,26 @@
       "title": "Business Technology Solutions Intern - Data & Software Engineering",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860306"
     },
+    "abec::project engineer intern::dac788faa8b1": {
+      "company": "ABEC",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "SimplifyJobs",
+      "title": "Project Engineer Intern",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4500632"
+    },
     "abridge::software engineer intern::e358c3a0ac9d": {
       "company": "Abridge",
       "first_seen": "2026-09-14T02:04:51Z",
       "source": "speedyapply",
       "title": "Software Engineer - Intern",
       "url": "https://www.abridge.com"
+    },
+    "acron aviation::software engineer intern phoenix site::9decbac3abc0": {
+      "company": "Acron Aviation",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "zshah101",
+      "title": "Software Engineer Intern - Phoenix Site",
+      "url": "https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e"
     },
     "acxiom::data scientist intern::56285d951e8d": {
       "company": "Acxiom",
@@ -2407,6 +2421,13 @@
       "source": "SmartRecruiters:Bosch",
       "title": "Test Engineer Intern",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148253129"
+    },
+    "boston scientific::software engineer intern interns graduates::12f0e7ca3c61": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Interns/Graduates",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813549535"
     },
     "box::product management intern internal developer platforms::f64125ae69b1": {
       "company": "Box",
@@ -6125,6 +6146,27 @@
       "title": "Robot Learning Engineer Intern \ud83c\udf93",
       "url": "https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd/application?embed=true"
     },
+    "guardian life::application development intern digital technology::011ab5144bfb": {
+      "company": "Guardian Life",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "SimplifyJobs",
+      "title": "Application Development Intern - Digital & Technology",
+      "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209"
+    },
+    "guardian life::data engineering intern digital technology::35e8977dcfe1": {
+      "company": "Guardian Life",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "SimplifyJobs",
+      "title": "Data Engineering Intern - Digital & Technology",
+      "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202"
+    },
+    "guardian life::summer intern digital technology ai machine learning::4a3251b7f656": {
+      "company": "Guardian Life",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "SimplifyJobs",
+      "title": "Summer Intern - Digital & Technology - AI & Machine Learning",
+      "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205"
+    },
     "gulfstream::software engineer intern ief::296bcb801b41": {
       "company": "Gulfstream",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -6964,6 +7006,13 @@
       "source": "SimplifyJobs",
       "title": "Data Analyst Intern",
       "url": "https://www.interstates.com/careers/jobs?gh_jid=4398703009&gh_jid=4398703009"
+    },
+    "interstates::data analyst intern::7722401d4597": {
+      "company": "Interstates",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "SimplifyJobs",
+      "title": "Data Analyst Intern",
+      "url": "https://www.interstates.com/careers/jobs?gh_jid=4056077009&gh_jid=4056077009"
     },
     "ixl learning::software engineer intern::0ea01e6e4224": {
       "company": "IXL Learning",
@@ -9996,12 +10045,33 @@
       "title": "Intern \u2013 Data AI/ML Engineering \u2013 Plymouth, MN \u2013 Summer 2027",
       "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404"
     },
+    "philips::intern software engineering plymouth mn summer 2027::9120727e37a8": {
+      "company": "Philips",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "zshah101",
+      "title": "Intern \u2013 Software Engineering \u2013 Plymouth, MN \u2013 Summer 2027",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403"
+    },
+    "philips::software engineer intern::9120727e37a8": {
+      "company": "Philips",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403"
+    },
     "philips::software engineering co op apm::011a2e61e5a4": {
       "company": "Philips",
       "first_seen": "2026-09-10T03:37:39Z",
       "source": "SimplifyJobs",
       "title": "Software Engineering Co-op - APM",
       "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097"
+    },
+    "philips::software systems engineering co op image guided therapy devices ivus clinical imaging software application::bec24baa9703": {
+      "company": "Philips",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "SimplifyJobs",
+      "title": "Software Systems Engineering Co-op - Image Guided Therapy Devices - IVUS Clinical Imaging Software Application",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406"
     },
     "phoebe::software engineering intern::a9bb0857c25d": {
       "company": "Phoebe",
@@ -10668,6 +10738,13 @@
       "title": "Product Intern - Data Processing",
       "url": "https://simplify.jobs/c/Relativity"
     },
+    "renesas electronics::test engineering intern::b2115d1d9dd9": {
+      "company": "Renesas Electronics",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "SimplifyJobs",
+      "title": "Test Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000149335200"
+    },
     "replit::software engineering intern::ed0ffaf69fe2": {
       "company": "Replit",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -10814,6 +10891,34 @@
       "source": "SimplifyJobs",
       "title": "Engineering Intern",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148591127"
+    },
+    "robinhood::software engineering intern android summer 2027::1ce7840503fc": {
+      "company": "Robinhood",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "Greenhouse:Robinhood",
+      "title": "Software Engineering Intern, Android (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961"
+    },
+    "robinhood::software engineering intern backend summer 2027::aac8c844aa7c": {
+      "company": "Robinhood",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "Greenhouse:Robinhood",
+      "title": "Software Engineering Intern, Backend (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225"
+    },
+    "robinhood::software engineering intern ios summer 2027::7652c1bcd3aa": {
+      "company": "Robinhood",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "Greenhouse:Robinhood",
+      "title": "Software Engineering Intern, iOS (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959"
+    },
+    "robinhood::software engineering intern web summer 2027::efda077887c4": {
+      "company": "Robinhood",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "Greenhouse:Robinhood",
+      "title": "Software Engineering Intern, Web (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963"
     },
     "roblox::software engineer intern::a54b87a49fb2": {
       "company": "Roblox",
@@ -12355,12 +12460,26 @@
       "title": "Summer 2027 Infrastructure Engineering Intern (T036)",
       "url": "https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218"
     },
+    "td bank::2027 summer internship program global technology solutions cloud devops::f2a71b358770": {
+      "company": "TD Bank",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "zshah101",
+      "title": "2027 Summer Internship Program - Global Technology & Solutions - Cloud/DevOps",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799"
+    },
     "td bank::2027 summer internship program global technology solutions cyber security::e23d2eac9b99": {
       "company": "TD Bank",
       "first_seen": "2026-09-14T02:04:51Z",
       "source": "zshah101",
       "title": "2027 Summer Internship Program - Global Technology & Solutions - Cyber Security",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795"
+    },
+    "td bank::2027 summer internship program global technology solutions data analyst::41f0ae8d3a1e": {
+      "company": "TD Bank",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "zshah101",
+      "title": "2027 Summer Internship Program - Global Technology & Solutions - Data Analyst",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800"
     },
     "td bank::2027 summer internship program global technology solutions data engineer::93c7a586a6b5": {
       "company": "TD Bank",
@@ -12382,6 +12501,13 @@
       "source": "SimplifyJobs",
       "title": "Data Analyst Co-op - Global Technology & Solutions",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236"
+    },
+    "td bank::data analyst intern global technology solutions::41f0ae8d3a1e": {
+      "company": "TD Bank",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "SimplifyJobs",
+      "title": "Data Analyst Intern - Global Technology & Solutions",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800"
     },
     "td bank::data engineer co op global technology solutions::fcd28ebdfee6": {
       "company": "TD Bank",
@@ -14728,6 +14854,20 @@
       "title": "Digital Innovation & Learning Technology Intern",
       "url": "https://studentemployment-stthomas.icims.com/jobs/9527/job?mobile=true&needsRedirect=false"
     },
+    "urbn::data science intern::69f1a2d0d5fb": {
+      "company": "URBN",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "SimplifyJobs",
+      "title": "Data Science Intern",
+      "url": "https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false"
+    },
+    "urbn::software engineer intern::52a5e5dfb5ca": {
+      "company": "URBN",
+      "first_seen": "2026-09-14T14:59:10Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://homeoffice-na-urbn.icims.com/jobs/30602/job?mobile=true&needsRedirect=false"
+    },
     "us foods::intern software engineer digital commerce hybrid onsite remote::f6b0872d9d00": {
       "company": "US Foods",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -15800,5 +15940,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-09-14T02:04:51Z"
+  "updated": "2026-09-14T14:59:10Z"
 }
