@@ -43,6 +43,19 @@ _US_CITIES = {
 }
 
 
+# Workday reports multi-site postings as "2 Locations" instead of naming them,
+# which is not a place and must not be read as "not in the US".
+_VAGUE_LOCATION = re.compile(r"^\s*\d+\s+locations?\s*$", re.IGNORECASE)
+
+
+def _word_alternation(words) -> re.Pattern | None:
+    """Build a \\b-anchored alternation so 'intern' can't match 'internal'."""
+    cleaned = [re.escape(w.lower().strip()) for w in words if str(w).strip()]
+    if not cleaned:
+        return None
+    return re.compile(r"\b(?:" + "|".join(cleaned) + r")\b")
+
+
 class Filters:
     def __init__(self, cfg: dict):
         self.include = [k.lower() for k in cfg.get("include_keywords", [])]
@@ -52,14 +65,37 @@ class Filters:
         self.location_allow = [k.lower() for k in cfg.get("location_allow", [])]
         self.recent_days = int(cfg.get("recent_days", 30))
 
+        pair_cfg = cfg.get("title_pair_match", {}) or {}
+        self.pair_enabled = bool(pair_cfg.get("enabled", False))
+        self._intern_re = _word_alternation(pair_cfg.get("intern_words", []))
+        self._tech_re = _word_alternation(pair_cfg.get("tech_words", []))
+
     # -- title -------------------------------------------------------------
     def title_matches(self, title: str) -> bool:
         t = title.lower()
-        if not any(k in t for k in self.include):
+        if not (any(k in t for k in self.include) or self._pair_matches(t)):
             return False
         if any(k in t for k in self.exclude):
             return False
         return True
+
+    def _pair_matches(self, t: str) -> bool:
+        """Fallback for titles that put the words in an unexpected order.
+
+        Substring matching assumes big-tech phrasing ("Software Engineer
+        Intern"). Plenty of employers write the same role as "Summer 2027
+        Internship – Technology – Software Engineering", which no fixed phrase
+        will ever catch. So also accept any title carrying both an intern word
+        and a tech word.
+
+        The intern words are matched on word boundaries specifically so
+        "Internal Auditor" and "International" don't read as internships.
+        """
+        if not self.pair_enabled:
+            return False
+        if not self._intern_re or not self._tech_re:
+            return False
+        return bool(self._intern_re.search(t) and self._tech_re.search(t))
 
     # -- season ------------------------------------------------------------
     def season_ok(self, job: Job) -> bool:
@@ -82,6 +118,8 @@ class Filters:
     def location_ok(self, location: str) -> bool:
         if not location or not location.strip():
             return True  # many feeds omit location; don't over-filter
+        if _VAGUE_LOCATION.match(location):
+            return True  # "2 Locations" tells us nothing — let the job through
         loc = location.lower()
         if any(k in loc for k in self.location_allow):
             return True

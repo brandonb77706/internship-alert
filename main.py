@@ -22,7 +22,7 @@ from bot import emailer, filters, state
 from bot.config import get_email_credentials, load_config, setup_logging
 from bot.http import Http
 from bot.models import Job
-from bot.sources import ats, github_repos
+from bot.sources import ats, github_repos, slack
 
 log = logging.getLogger("bot.main")
 
@@ -44,9 +44,16 @@ def collect_jobs(http: Http, cfg: dict) -> list[Job]:
         if not company.get("enabled", False):
             continue
         try:
-            jobs.extend(ats.fetch_company(http, company))
+            jobs.extend(ats.fetch_company(http, company, cfg))
         except Exception as exc:
             log.warning("Company %s failed: %s", company.get("name"), exc)
+
+    if cfg.get("slack", {}).get("enabled", False):
+        log.info("=== Slack channels ===")
+        try:
+            jobs.extend(slack.fetch_all(http, cfg))
+        except Exception as exc:
+            log.warning("Slack source failed: %s", exc)
 
     log.info("Collected %d raw jobs across all sources", len(jobs))
     return jobs

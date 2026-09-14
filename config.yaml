@@ -40,10 +40,13 @@ github_repos:
 # ---------------------------------------------------------------------------
 # Direct company career feeds (ATS = Applicant Tracking System).
 #
-# type: greenhouse | lever | workday
-#   greenhouse -> needs `token` (the board slug in the public API URL)
-#   lever      -> needs `token` (the company slug)
-#   workday    -> needs `host`, `tenant`, `site`
+# type: greenhouse | lever | workday | ashby | smartrecruiters
+#   greenhouse      -> needs `token` (the board slug in the public API URL)
+#   lever           -> needs `token` (the company slug)
+#   workday         -> needs `host`, `tenant`, `site`
+#   ashby           -> needs `token` (the jobs.ashbyhq.com/<slug> board slug)
+#   smartrecruiters -> needs `token` (the company identifier); optional
+#                      `country` (2-letter, default "us") narrows the search
 #
 # `enabled: false` skips a company without deleting its config.
 # Any company whose feed errors out is logged and skipped — one broken feed
@@ -79,24 +82,443 @@ companies:
     site: "Capital_One"
     enabled: true
 
+  # ---- Big tech / infra (Greenhouse; all tokens verified live) -------------
+  - name: "Databricks"
+    type: "greenhouse"
+    token: "databricks"
+    enabled: true
+  - name: "Cloudflare"
+    type: "greenhouse"
+    token: "cloudflare"
+    enabled: true
+  - name: "Datadog"
+    type: "greenhouse"
+    token: "datadog"
+    enabled: true
+  - name: "MongoDB"
+    type: "greenhouse"
+    token: "mongodb"
+    enabled: true
+  - name: "Elastic"
+    type: "greenhouse"
+    token: "elastic"
+    enabled: true
+  - name: "GitLab"
+    type: "greenhouse"
+    token: "gitlab"
+    enabled: true
+  - name: "Dropbox"
+    type: "greenhouse"
+    token: "dropbox"
+    enabled: true
+  - name: "Twilio"
+    type: "greenhouse"
+    token: "twilio"
+    enabled: true
+  - name: "Postman"
+    type: "greenhouse"
+    token: "postman"
+    enabled: true
+
+  # ---- Consumer / product ---------------------------------------------------
+  - name: "Roblox"
+    type: "greenhouse"
+    token: "roblox"
+    enabled: true
+  - name: "Figma"
+    type: "greenhouse"
+    token: "figma"
+    enabled: true
+  - name: "Reddit"
+    type: "greenhouse"
+    token: "reddit"
+    enabled: true
+  - name: "Pinterest"
+    type: "greenhouse"
+    token: "pinterest"
+    enabled: true
+  - name: "Discord"
+    type: "greenhouse"
+    token: "discord"
+    enabled: true
+  - name: "Duolingo"
+    type: "greenhouse"
+    token: "duolingo"
+    enabled: true
+  - name: "Lyft"
+    type: "greenhouse"
+    token: "lyft"
+    enabled: true
+  - name: "Instacart"
+    type: "greenhouse"
+    token: "instacart"
+    enabled: true
+  - name: "Squarespace"
+    type: "greenhouse"
+    token: "squarespace"
+    enabled: true
+  - name: "Peloton"
+    type: "greenhouse"
+    token: "peloton"
+    enabled: true
+  - name: "Airtable"
+    type: "greenhouse"
+    token: "airtable"
+    enabled: true
+  - name: "Asana"
+    type: "greenhouse"
+    token: "asana"
+    enabled: true
+  - name: "Klaviyo"
+    type: "greenhouse"
+    token: "klaviyo"
+    enabled: true
+
+  # ---- Fintech --------------------------------------------------------------
+  - name: "Coinbase"
+    type: "greenhouse"
+    token: "coinbase"
+    enabled: true
+  - name: "Robinhood"
+    type: "greenhouse"
+    token: "robinhood"
+    enabled: true
+  - name: "Affirm"
+    type: "greenhouse"
+    token: "affirm"
+    enabled: true
+  - name: "Brex"
+    type: "greenhouse"
+    token: "brex"
+    enabled: true
+  - name: "Chime"
+    type: "greenhouse"
+    token: "chime"
+    enabled: true
+  - name: "Gusto"
+    type: "greenhouse"
+    token: "gusto"
+    enabled: true
+  - name: "SoFi"
+    type: "greenhouse"
+    token: "sofi"
+    enabled: true
+
+  # ---- Quant / trading (heavy intern hirers) --------------------------------
+  - name: "Jane Street"
+    type: "greenhouse"
+    token: "janestreet"
+    enabled: true
+  - name: "Jump Trading"
+    type: "greenhouse"
+    token: "jumptrading"
+    enabled: true
+  - name: "IMC Trading"
+    type: "greenhouse"
+    token: "imc"
+    enabled: true
+  - name: "Point72"
+    type: "greenhouse"
+    token: "point72"
+    enabled: true
+
+  # ---- Autonomy / hardware-adjacent (still hire SWE interns) ----------------
+  - name: "Waymo"
+    type: "greenhouse"
+    token: "waymo"
+    enabled: true
+  - name: "Nuro"
+    type: "greenhouse"
+    token: "nuro"
+    enabled: true
+  - name: "SpaceX"
+    type: "greenhouse"
+    token: "spacex"
+    enabled: true
+  - name: "Verkada"
+    type: "greenhouse"
+    token: "verkada"
+    enabled: true
+  - name: "Samsara"
+    type: "greenhouse"
+    token: "samsara"
+    enabled: true
+  - name: "Scale AI"
+    type: "greenhouse"
+    token: "scaleai"
+    enabled: true
+  - name: "Flexport"
+    type: "greenhouse"
+    token: "flexport"
+    enabled: true
+  - name: "Sigma Computing"
+    type: "greenhouse"
+    token: "sigmacomputing"
+    enabled: true
+  - name: "Attentive"
+    type: "greenhouse"
+    token: "attentive"
+    enabled: true
+
+  # ---- Ashby boards (mostly AI-era startups) --------------------------------
+  - name: "Notion"
+    type: "ashby"
+    token: "notion"
+    enabled: true
+  - name: "Sierra"
+    type: "ashby"
+    token: "sierra"
+    enabled: true
+  - name: "OpenAI"
+    type: "ashby"
+    token: "openai"
+    enabled: true
+  - name: "Plaid"
+    type: "ashby"
+    token: "plaid"
+    enabled: true
+  - name: "Ramp"
+    type: "ashby"
+    token: "ramp"
+    enabled: true
+  - name: "Cursor"
+    type: "ashby"
+    token: "cursor"
+    enabled: true
+  - name: "Linear"
+    type: "ashby"
+    token: "linear"
+    enabled: true
+  - name: "ClickHouse"
+    type: "ashby"
+    token: "clickhouse"
+    enabled: true
+  - name: "Modal"
+    type: "ashby"
+    token: "modal"
+    enabled: true
+
+  # ---- SmartRecruiters boards -----------------------------------------------
+  # Note: this API returns an empty result set (not a 404) for an unknown
+  # company identifier, so a token typo looks like "no jobs". Bosch and
+  # Experian are verified to return real boards.
+  - name: "Bosch"
+    type: "smartrecruiters"
+    token: "BoschGroup"
+    country: "us"
+    enabled: true
+  - name: "Experian"
+    type: "smartrecruiters"
+    token: "Experian"
+    country: "us"
+    enabled: true
+
+  # ---- Lever boards ---------------------------------------------------------
+  # Palantir's Lever feed is ~6 MB and took ~3 minutes to parse for 42 intern
+  # rows — most of the run's wall time. Their internships still surface via the
+  # GitHub tracker repos, so this is off by default.
+  - name: "Palantir"
+    type: "lever"
+    token: "palantir"
+    enabled: false
+
+  # ===========================================================================
+  # Mid-market / large regional employers (all Workday).
+  #
+  # This is the tier the GitHub tracker repos never cover — they only list big
+  # tech and startups. Regional banks, insurers, health systems, retailers and
+  # manufacturers hire plenty of SWE interns and get far less applicant volume.
+  #
+  # Every host/tenant/site below was found with tools/discover_workday.py and
+  # verified to return HTTP 200. Run that script to add more.
+  # ===========================================================================
+
+  # ---- Banks & credit ------------------------------------------------------
+  - name: "Rocket Companies"
+    type: "workday"
+    host: "rocket.wd5.myworkdayjobs.com"
+    tenant: "rocket"
+    site: "Rocket_Careers"
+    enabled: true
+  - name: "KeyBank"
+    type: "workday"
+    host: "keybank.wd5.myworkdayjobs.com"
+    tenant: "keybank"
+    site: "External_Career_Site"
+    enabled: true
+  - name: "PNC"
+    type: "workday"
+    host: "pnc.wd5.myworkdayjobs.com"
+    tenant: "pnc"
+    site: "External"
+    enabled: true
+  - name: "Truist"
+    type: "workday"
+    host: "truist.wd1.myworkdayjobs.com"
+    tenant: "truist"
+    site: "Careers"
+    enabled: true
+  - name: "Huntington Bank"
+    type: "workday"
+    host: "huntington.wd12.myworkdayjobs.com"
+    tenant: "huntington"
+    site: "HNBcareers"
+    enabled: true
+  - name: "Fifth Third Bank"
+    type: "workday"
+    host: "fifththird.wd5.myworkdayjobs.com"
+    tenant: "fifththird"
+    site: "53careers"
+    enabled: true
+  - name: "Regions Bank"
+    type: "workday"
+    host: "regions.wd5.myworkdayjobs.com"
+    tenant: "regions"
+    site: "Regions_Careers"
+    enabled: true
+  - name: "M&T Bank"
+    type: "workday"
+    host: "mtb.wd5.myworkdayjobs.com"
+    tenant: "mtb"
+    site: "Campus"          # M&T runs a campus-recruiting-specific Workday site
+    enabled: true
+  - name: "Flagstar Bank"
+    type: "workday"
+    host: "flagstar.wd5.myworkdayjobs.com"
+    tenant: "flagstar"
+    site: "Flagstar"
+    enabled: true
+  - name: "Ally Financial"
+    type: "workday"
+    host: "ally.wd1.myworkdayjobs.com"
+    tenant: "ally"
+    site: "Ally"
+    enabled: true
+
+  # ---- Insurance -----------------------------------------------------------
+  - name: "The Hartford"
+    type: "workday"
+    host: "thehartford.wd5.myworkdayjobs.com"
+    tenant: "thehartford"
+    site: "Careers_External"
+    enabled: true
+  - name: "Allstate"
+    type: "workday"
+    host: "allstate.wd5.myworkdayjobs.com"
+    tenant: "allstate"
+    site: "Allstate_Careers"
+    enabled: true
+  - name: "Travelers"
+    type: "workday"
+    host: "travelers.wd5.myworkdayjobs.com"
+    tenant: "travelers"
+    site: "External"
+    enabled: true
+  - name: "Nationwide"
+    type: "workday"
+    host: "nationwide.wd1.myworkdayjobs.com"
+    tenant: "nationwide"
+    site: "Nationwide_Career"
+    enabled: true
+  - name: "USAA"
+    type: "workday"
+    host: "usaa.wd1.myworkdayjobs.com"
+    tenant: "usaa"
+    site: "USAAJOBSWD"
+    enabled: true
+  - name: "American Family Insurance"
+    type: "workday"
+    host: "amfam.wd1.myworkdayjobs.com"
+    tenant: "amfam"
+    site: "Careers"
+    enabled: true
+
+  # ---- Housing finance -----------------------------------------------------
+  - name: "Fannie Mae"
+    type: "workday"
+    host: "fanniemae.wd1.myworkdayjobs.com"
+    tenant: "fanniemae"
+    site: "FannieMaeCareers"
+    enabled: true
+  - name: "Freddie Mac"
+    type: "workday"
+    host: "freddiemac.wd5.myworkdayjobs.com"
+    tenant: "freddiemac"
+    site: "External"
+    enabled: true
+
+  # ---- Retail, health, manufacturing --------------------------------------
+  - name: "Meijer"
+    type: "workday"
+    host: "meijer.wd5.myworkdayjobs.com"
+    tenant: "meijer"
+    site: "Meijer"
+    enabled: true
+  - name: "Trinity Health"
+    type: "workday"
+    host: "trinityhealth.wd1.myworkdayjobs.com"
+    tenant: "trinityhealth"
+    site: "Jobs"
+    enabled: true
+  - name: "Stryker"
+    type: "workday"
+    host: "stryker.wd1.myworkdayjobs.com"
+    tenant: "stryker"
+    site: "StrykerCareers"
+    enabled: true
+  - name: "MillerKnoll"
+    type: "workday"
+    host: "millerknoll.wd1.myworkdayjobs.com"
+    tenant: "millerknoll"
+    site: "Millerknoll"
+    enabled: true
+  - name: "Masco"
+    type: "workday"
+    host: "masco.wd1.myworkdayjobs.com"
+    tenant: "masco"
+    site: "Masco"
+    enabled: true
+  - name: "BorgWarner"
+    type: "workday"
+    host: "borgwarner.wd5.myworkdayjobs.com"
+    tenant: "borgwarner"
+    site: "Borgwarner_Careers"
+    enabled: true
+  - name: "Corteva"
+    type: "workday"
+    host: "corteva.wd5.myworkdayjobs.com"
+    tenant: "corteva"
+    site: "Corteva"
+    enabled: true
+  - name: "Dow"
+    type: "workday"
+    host: "dow.wd1.myworkdayjobs.com"
+    tenant: "dow"
+    site: "ExternalCareers"
+    enabled: true
+
   # ---- Enabled but endpoint not yet confirmed (logs + skips gracefully) -----
   # Amex/Liberty Mutual expose Workday but the public tenant/site slug couldn't
   # be verified. Left enabled so they alert once you drop in the right slug;
   # until then each run logs "feed error … skipping" and moves on. These
   # companies are still covered by the GitHub tracker repos above.
+  # tools/discover_workday.py swept every Workday cluster for both of these and
+  # found no tenant, so they simply aren't on Workday — the configs below were
+  # never going to work. Disabled to stop the 422s on every run; both are still
+  # covered by the GitHub tracker repos.
   - name: "American Express"
     type: "workday"
     host: "aexp.wd1.myworkdayjobs.com"
     tenant: "aexp"
     site: "External_Career_Site"
-    enabled: true
+    enabled: false
 
   - name: "Liberty Mutual"
     type: "workday"
     host: "libertymutual.wd5.myworkdayjobs.com"
     tenant: "libertymutual"
     site: "External"
-    enabled: true
+    enabled: false
 
   # Uber runs a custom (non-Greenhouse/Lever/Workday) careers system, so there's
   # no simple public JSON feed — covered by the tracker repos instead.
@@ -199,8 +621,35 @@ include_keywords:
   - "technology intern"
   - "software dev intern"
   - "engineering intern"     # broad; pruned by exclude_keywords below
+  # Mid-market employers (regional banks, insurers, retailers, health systems)
+  # rarely use the phrase "software engineer". They advertise the same work as
+  # "Technology Undergraduate Intern" or "Programmer Analyst Intern", so
+  # without these the whole tier gets filtered out even when we do fetch it.
+  - "technology undergraduate intern"
+  - "information technology intern"
+  - "technology analyst intern"
+  - "technical intern"
+  - "tech intern"
+  - "developer intern"        # Application/Web/Mobile Developer Intern
+  - "development intern"
+  - "programmer"              # Programmer Analyst Intern, Programmer Intern
+  - "computer science intern"
+  - "data engineering intern"
+  - "systems engineer intern"
+  - "digital technology intern"
+  - "software co-op"
+  - "engineering co-op"
 
 exclude_keywords:
+  # The broader include_keywords above pull in adjacent disciplines at
+  # manufacturers and health systems; these prune them back out.
+  - "audit"
+  - "accounting"
+  - "finance intern"
+  - "marketing"
+  - "human resources"
+  - "supply chain"
+  - "packaging"
   - "phd"
   - "ph.d"
   - "hardware"
@@ -217,6 +666,44 @@ exclude_keywords:
   - "field engineer"
   - "sales engineer"
   - "manager"
+
+# ---------------------------------------------------------------------------
+# Fallback title rule, for employers who don't use big-tech job titles.
+#
+# `include_keywords` above are fixed phrases, which assumes big-tech word order
+# ("Software Engineer Intern"). Regional banks and insurers often write the
+# same role as "Summer 2027 Internship – Technology – Software Engineering",
+# which no fixed phrase catches. This accepts any title containing BOTH an
+# intern word and a tech word, in any order.
+#
+# Intern words are matched on word boundaries, so "Internal Auditor" and
+# "International" are not mistaken for internships. exclude_keywords still
+# applies on top, so it's safe to keep the tech list fairly broad.
+# ---------------------------------------------------------------------------
+title_pair_match:
+  enabled: true
+  intern_words:
+    - "intern"
+    - "interns"
+    - "internship"
+    - "internships"
+    - "co-op"
+    - "coop"
+  tech_words:
+    - "software"
+    - "technology"
+    - "technical"
+    - "engineering"
+    - "engineer"
+    - "developer"
+    - "development"
+    - "programmer"
+    - "programming"
+    - "computer science"
+    - "data"
+    - "cyber"
+    - "digital"
+    - "information technology"
 
 # ---------------------------------------------------------------------------
 # Season / location filtering.
@@ -260,10 +747,38 @@ email:
   smtp_host: "smtp.gmail.com"
   smtp_port: 465
   # Optional override; if blank, RECIPIENT_EMAIL env var is used.
+  # Multiple recipients: comma-separate them ("a@x.com, b@y.com") or use a
+  # YAML list. Same applies to the RECIPIENT_EMAIL secret.
   recipient_override: ""
   # Cap the number of job cards in a single email (avoids giant emails on a
   # bad diff). Extra jobs are still recorded as seen.
   max_jobs_per_email: 60
+
+# ---------------------------------------------------------------------------
+# Slack channels to harvest job links from.
+#
+# Setup (all three are required, see README "Reading a Slack channel"):
+#   1. Create a Slack app in the workspace, add the bot scope `channels:history`
+#      (and `groups:history` for private channels), and install it.
+#   2. Put the bot token (xoxb-…) in the SLACK_BOT_TOKEN secret/env var.
+#   3. Invite the bot to each channel: /invite @your-bot-name
+#
+# Channel `id` is the C……… id, not the name — open the channel, click its name,
+# and it's at the bottom of the About tab. `company_hint` is used only when the
+# company can't be read off the posted link itself.
+#
+# Slack messages are prose, so this source is best-effort: links we can't make
+# sense of are dropped rather than guessed at.
+# ---------------------------------------------------------------------------
+slack:
+  enabled: false
+  lookback_hours: 48
+  max_pages_per_channel: 5
+  channels: []
+  # channels:
+  #   - name: "internships"
+  #     id: "C01ABCDEFGH"
+  #     company_hint: ""
 
 # Path to the dedupe state file (relative to repo root).
 state_file: "seen_jobs.json"

@@ -171,11 +171,12 @@ def _card(job: Job, highlight: bool) -> str:
 def send_email(subject: str, html_body: str, creds: dict, cfg: dict) -> None:
     sender = creds["gmail_address"]
     password = creds["gmail_app_password"]
-    recipient = creds["recipient"]
-    if not (sender and password and recipient):
+    recipients = creds["recipients"]
+    if not (sender and password and recipients):
         raise RuntimeError(
             "Missing email credentials. Set GMAIL_ADDRESS, GMAIL_APP_PASSWORD, "
-            "and RECIPIENT_EMAIL (or email.recipient_override in config.yaml)."
+            "and RECIPIENT_EMAIL (or email.recipient_override in config.yaml). "
+            "RECIPIENT_EMAIL may be a comma-separated list."
         )
 
     email_cfg = cfg.get("email", {})
@@ -185,14 +186,14 @@ def send_email(subject: str, html_body: str, creds: dict, cfg: dict) -> None:
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
     msg["From"] = sender
-    msg["To"] = recipient
+    msg["To"] = ", ".join(recipients)
     msg.attach(MIMEText(_plaintext_fallback(html_body), "plain", "utf-8"))
     msg.attach(MIMEText(html_body, "html", "utf-8"))
 
-    log.info("Sending email to %s via %s:%d", recipient, host, port)
+    log.info("Sending email to %s via %s:%d", ", ".join(recipients), host, port)
     with smtplib.SMTP_SSL(host, port, timeout=30) as server:
         server.login(sender, password)
-        server.sendmail(sender, [recipient], msg.as_string())
+        server.sendmail(sender, recipients, msg.as_string())
     log.info("Email sent.")
 
 

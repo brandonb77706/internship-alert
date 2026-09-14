@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import logging
 import os
+import re
 import sys
 
 import yaml
@@ -33,11 +34,20 @@ def load_config(path: str = "config.yaml") -> dict:
 
 def get_email_credentials(cfg: dict) -> dict:
     """Pull email secrets from the environment (GitHub Secrets in CI)."""
-    recipient = cfg.get("email", {}).get("recipient_override") or os.environ.get(
+    raw = cfg.get("email", {}).get("recipient_override") or os.environ.get(
         "RECIPIENT_EMAIL", ""
     )
     return {
         "gmail_address": os.environ.get("GMAIL_ADDRESS", ""),
         "gmail_app_password": os.environ.get("GMAIL_APP_PASSWORD", ""),
-        "recipient": recipient,
+        "recipients": _parse_recipients(raw),
     }
+
+
+def _parse_recipients(raw) -> list[str]:
+    """Accept a YAML list, or a comma/semicolon-separated string, of addresses."""
+    if isinstance(raw, (list, tuple)):
+        parts = [str(p) for p in raw]
+    else:
+        parts = re.split(r"[,;]", str(raw or ""))
+    return [p.strip() for p in parts if p.strip()]

@@ -144,7 +144,7 @@ Edit the `companies:` list. You need the ATS **type** and its identifier:
 
 ```yaml
 - name: "DoorDash"
-  type: "greenhouse"      # greenhouse | lever | workday
+  type: "greenhouse"      # greenhouse | lever | workday | ashby | smartrecruiters
   token: "doordash"       # the board slug
   enabled: true
 ```
@@ -166,6 +166,15 @@ Edit the `companies:` list. You need the ATS **type** and its identifier:
     site: "Capital_One"
     enabled: true
   ```
+- **Ashby** — board URL looks like `jobs.ashbyhq.com/<token>`.
+  Test: `https://api.ashbyhq.com/posting-api/job-board/<token>`
+- **SmartRecruiters** — board URL looks like `jobs.smartrecruiters.com/<token>`.
+  Test: `https://api.smartrecruiters.com/v1/companies/<token>/postings?limit=1`
+  Optional `country:` (2-letter, default `us`) narrows the server-side search.
+  ⚠️ This API returns an empty result set — **not** a 404 — for an unknown
+  company identifier, so a typo looks exactly like "no jobs right now". If a
+  SmartRecruiters feed reports 0 rows, check `totalFound` with no `q` filter
+  before assuming the board is just quiet.
 
 Set `enabled: false` to keep a company's config but skip it. Big companies with
 custom career systems (Amazon, Google, Meta, Apple, Netflix, etc.) are included
@@ -173,12 +182,76 @@ but disabled by default — the tracker repos already surface their internships.
 If a feed's token is wrong or the endpoint is down, it's logged and skipped —
 one broken feed never stops the run.
 
+### Reading a Slack channel
+
+The bot can also harvest job links out of Slack channels you're already in.
+This is **off by default** and needs three things set up in the workspace:
+
+**1. Create a Slack app and get a bot token**
+
+- Go to <https://api.slack.com/apps> → **Create New App** → *From scratch*, and
+  pick the workspace with the jobs channel.
+- **OAuth & Permissions** → *Scopes* → *Bot Token Scopes*, add:
+  - `channels:history` — read public channels
+  - `groups:history` — only if the channel is private
+- **Install to Workspace** at the top of that page, then copy the
+  **Bot User OAuth Token** (starts with `xoxb-`).
+
+> If you're not a workspace admin, installing the app will raise an approval
+> request that an admin has to accept. There's no way around this — Slack has no
+> read API that works without an installed app.
+
+**2. Add the token as a secret**
+
+Add `SLACK_BOT_TOKEN` alongside your other GitHub secrets (same place as
+`GMAIL_APP_PASSWORD`). For local runs, export it in your shell.
+
+**3. Invite the bot and list the channels**
+
+In each channel you want read: `/invite @your-bot-name`. The bot can only see
+channels it has joined.
+
+Then fill in `config.yaml`:
+
+```yaml
+slack:
+  enabled: true
+  lookback_hours: 48        # how far back to read on each run
+  channels:
+    - name: "internships"   # label only, used in the email's source line
+      id: "C01ABCDEFGH"     # the real channel ID — see below
+      company_hint: ""      # fallback company when the link doesn't reveal one
+```
+
+To get a channel **ID**: open the channel, click its name at the top, and scroll
+to the bottom of the *About* tab — it's the `C…` string, not the `#name`.
+
+**What it does and doesn't do.** Slack messages are prose, not structured feeds,
+so this source is deliberately conservative. It pulls every link out of recent
+messages, derives the company from the link itself (Greenhouse, Lever, Ashby,
+SmartRecruiters, and Workday URLs are all recognized), and requires an
+internship signal in the message before emitting anything. Chat noise, GIFs,
+Google Docs links, and join messages are dropped. Links it can't make sense of
+are discarded rather than guessed at — so the failure mode is a missed posting,
+never a junk alert. Everything it does emit still goes through the same
+`config.yaml` filters as every other source.
+
+One rough edge: companies derived from Workday URLs come out as the tenant slug
+(`capitalone` → `Capitalone`), which won't match a `priority_companies:` entry
+written as `Capital One`. Those jobs still get emailed, just not pinned to the
+⭐ section.
+
 ### Change priority companies, keywords, or the recipient
 
 - `priority_companies:` — companies pinned to the ⭐ section at the top of the email.
 - `include_keywords:` / `exclude_keywords:` — title matching.
 - `target_season_keywords:` / `reject_season_keywords:` — season filter.
 - `email.recipient_override:` — set to override the `RECIPIENT_EMAIL` secret.
+
+To alert more than one address, comma-separate them in either the
+`RECIPIENT_EMAIL` secret or `email.recipient_override`
+(e.g. `you@gmail.com, friend@gmail.com`). Everyone is on the same `To:` line,
+so all recipients can see each other's addresses.
 
 ---
 
@@ -238,7 +311,9 @@ bot/
   emailer.py                subject + mobile-friendly HTML + SMTP send
   sources/
     github_repos.py         raw-README markdown-table parser
-    ats.py                  Greenhouse / Lever / Workday readers
+    ats.py                  Greenhouse / Lever / Workday / Ashby /
+                            SmartRecruiters readers
+    slack.py                Slack channel link harvester (off by default)
 .github/workflows/alert.yml GitHub Actions: cron every 4h + manual dispatch
 ```
 
