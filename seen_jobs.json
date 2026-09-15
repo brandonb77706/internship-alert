@@ -1701,6 +1701,13 @@
       "title": "Co-Op - Software Engineering",
       "url": "https://www.autostoresystem.com/"
     },
+    "autostore::electronics engineering co op::8a0a18342a64": {
+      "company": "Autostore",
+      "first_seen": "2026-09-15T13:27:16Z",
+      "source": "SimplifyJobs",
+      "title": "Electronics Engineering Co-op",
+      "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Electronics-Engineering_JR102695"
+    },
     "autostore::software engineering co op::1c1c5e7e9a4e": {
       "company": "Autostore",
       "first_seen": "2026-09-14T02:04:51Z",
@@ -3156,6 +3163,27 @@
       "source": "speedyapply",
       "title": "Software Intern",
       "url": "https://www.cadence.com"
+    },
+    "cai::data analyst intern::0dd78aeba70e": {
+      "company": "CAI",
+      "first_seen": "2026-09-15T13:27:16Z",
+      "source": "SimplifyJobs",
+      "title": "Data Analyst Intern",
+      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8452"
+    },
+    "cai::software developer intern::8bc00cf1aac1": {
+      "company": "CAI",
+      "first_seen": "2026-09-15T13:27:16Z",
+      "source": "SimplifyJobs",
+      "title": "Software Developer Intern",
+      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462"
+    },
+    "cai::software developer intern::af9a498795b1": {
+      "company": "CAI",
+      "first_seen": "2026-09-15T13:27:16Z",
+      "source": "SimplifyJobs",
+      "title": "Software Developer Intern",
+      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8451"
     },
     "calstart::data analysis intern::7c5f2da60d06": {
       "company": "CALSTART",
@@ -5137,6 +5165,13 @@
       "source": "SimplifyJobs",
       "title": "Lab Automation & AI Engineering Co-op",
       "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1"
+    },
+    "entegris::operations technical training platforms co op::c3432b4722e0": {
+      "company": "Entegris",
+      "first_seen": "2026-09-15T13:27:16Z",
+      "source": "SimplifyJobs",
+      "title": "Operations Technical Training Platforms Co-op",
+      "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Operations-Technical-Training-Platforms-Co-Op_REQ-14416"
     },
     "epic games::backend services programmer intern epic games services::0c7d32032c57": {
       "company": "Epic Games",
@@ -7476,6 +7511,13 @@
       "title": "Software Engineer Intern - Full Stack",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864"
     },
+    "ionq::research and development characterization intern::6110b8ddc705": {
+      "company": "IonQ",
+      "first_seen": "2026-09-15T13:27:16Z",
+      "source": "SimplifyJobs",
+      "title": "Research and Development Characterization Intern \ud83c\udf93",
+      "url": "https://job-boards.greenhouse.io/ionq/jobs/6188828004"
+    },
     "ixl learning::software engineer intern::0ea01e6e4224": {
       "company": "IXL Learning",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -8260,6 +8302,13 @@
       "title": "Intern - Data Science - Oncology \ud83d\udec2",
       "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Data-Science---Oncology_2630590"
     },
+    "labcorp::intern software developer::fd86d2963d23": {
+      "company": "LabCorp",
+      "first_seen": "2026-09-15T13:27:16Z",
+      "source": "zshah101",
+      "title": "Intern - Software Developer \ud83d\udec2",
+      "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Developer_2632330"
+    },
     "lawrence livermore national laboratory llnl::protocol and special events ai and digital solutions intern::3b3e7bb6a87c": {
       "company": "Lawrence Livermore National Laboratory (LLNL)",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -8588,6 +8637,13 @@
       "source": "zshah101",
       "title": "Site Reliability Engineering Intern, Summer 2027 \u2013 St. Louis, MO, US",
       "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654"
+    },
+    "mastercard::software engineer intern::fc8fb8a42ac2": {
+      "company": "Mastercard",
+      "first_seen": "2026-09-15T13:27:16Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
     },
     "mastercard::technical product management intern switching solutions::05a8a1beffdd": {
       "company": "Mastercard",
@@ -11913,6 +11969,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineering Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op---Spring-Summer-2027-_01872230"
+    },
+    "rtx::software engineering co op::70cf9f8488e5": {
+      "company": "RTX",
+      "first_seen": "2026-09-15T13:27:16Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineering Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01870236"
     },
     "rtx::software engineering co op::eada0e0c3516": {
       "company": "RTX",
@@ -16878,5 +16941,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-09-15T04:39:42Z"
+  "updated": "2026-09-15T13:27:16Z"
 }
