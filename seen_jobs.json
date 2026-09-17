@@ -1358,6 +1358,20 @@
       "title": "Undergrad Intern - Software Engineer - Amgen\u2019s Technology & Medical Organizations - Summer 2027",
       "url": "https://www.amgen.com"
     },
+    "amperesand::software engineer intern::0df476b6009f": {
+      "company": "Amperesand",
+      "first_seen": "2026-09-17T13:21:52Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/amperesand/jobs/4409254009"
+    },
+    "amperesand::software engineering intern::0df476b6009f": {
+      "company": "Amperesand",
+      "first_seen": "2026-09-17T13:21:52Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/amperesand/jobs/4409254009"
+    },
     "amperesand::software intern::32d60515d56f": {
       "company": "Amperesand",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -2154,6 +2168,13 @@
       "first_seen": "2026-09-17T04:40:03Z",
       "source": "SimplifyJobs",
       "title": "Data Science Intern",
+      "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342"
+    },
+    "barr::internship data science remote::04fb70f9f83a": {
+      "company": "Barr \ud83c\udd81",
+      "first_seen": "2026-09-17T13:21:52Z",
+      "source": "zshah101",
+      "title": "Internship - Data Science (Remote) \ud83d\udec2",
       "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342"
     },
     "base power company::quantitative developer intern::b9de0c24bd28": {
@@ -3983,12 +4004,26 @@
       "title": "Product Management Engineer 2 Intern - United States",
       "url": "https://simplify.jobs/c/Cisco"
     },
+    "cisco::security engineer i intern united states::fdcfe71c5cab": {
+      "company": "Cisco",
+      "first_seen": "2026-09-17T13:21:52Z",
+      "source": "zshah101",
+      "title": "Security Engineer I (Intern) - United States \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885"
+    },
     "cisco::software consulting engineer i intern united states::24f68cc0bc88": {
       "company": "Cisco",
       "first_seen": "2026-09-10T03:37:39Z",
       "source": "zshah101",
       "title": "Software Consulting Engineer I (Intern) United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180"
+    },
+    "cisco::software engineer i intern united states::d26c21b44c59": {
+      "company": "Cisco",
+      "first_seen": "2026-09-17T13:21:52Z",
+      "source": "zshah101",
+      "title": "Software Engineer I (Intern) - United States \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890"
     },
     "citizens financial group::cloud engineer summer 2027 intern enterprise technology security summer internship program::9f991a313427": {
       "company": "Citizens Financial Group",
@@ -7076,6 +7111,13 @@
       "source": "speedyapply",
       "title": "Software Intern Engineer",
       "url": "https://gdmissionsystems.com/"
+    },
+    "general dynamics mission systems::systems engineer intern autonomous maritime platforms::9e5fc9f65a19": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-09-17T13:21:52Z",
+      "source": "SimplifyJobs",
+      "title": "Systems Engineer Intern - Autonomous Maritime Platforms",
+      "url": "https://careers-gdms.icims.com/jobs/74840/job?mobile=true&needsRedirect=false"
     },
     "general dynamics mission systems::systems engineer intern::400674cc5b3b": {
       "company": "General Dynamics Mission Systems",
@@ -13090,6 +13132,20 @@
       "title": "Software Engineer Intern - Device Team",
       "url": "https://job-boards.greenhouse.io/relaypro/jobs/8180836"
     },
+    "relay::software engineering intern ai ml summer 2027::eda270f09f30": {
+      "company": "Relay",
+      "first_seen": "2026-09-17T13:21:52Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern (AI/ML) - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/relaypro/jobs/8176774"
+    },
+    "relay::software engineering intern device team summer 2027::6f8728df4f8a": {
+      "company": "Relay",
+      "first_seen": "2026-09-17T13:21:52Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern (Device Team) - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/relaypro/jobs/8180836"
+    },
     "rendezvous robotics::software engineering intern summer 2027::66d5a6192777": {
       "company": "Rendezvous Robotics",
       "first_seen": "2026-09-16T19:33:44Z",
@@ -14503,6 +14559,34 @@
       "source": "speedyapply",
       "title": "Embedded Systems Engineering Intern - Spring '27",
       "url": "http://smartflower.com/"
+    },
+    "smith nephew::data science intern ai center of excellence::60174a2a2840": {
+      "company": "Smith+Nephew",
+      "first_seen": "2026-09-17T13:21:52Z",
+      "source": "SimplifyJobs",
+      "title": "Data Science Intern - AI Center of Excellence",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1"
+    },
+    "smith nephew::intern ai center of excellence data science::60174a2a2840": {
+      "company": "Smith+Nephew",
+      "first_seen": "2026-09-17T13:21:52Z",
+      "source": "zshah101",
+      "title": "Intern AI Center of Excellence Data Science",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1"
+    },
+    "smith nephew::intern robotics software engineering::b9c37ab67aa4": {
+      "company": "Smith+Nephew",
+      "first_seen": "2026-09-17T13:21:52Z",
+      "source": "zshah101",
+      "title": "Intern Robotics Software Engineering",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"
+    },
+    "smith nephew::robotics software engineer intern::b9c37ab67aa4": {
+      "company": "Smith+Nephew",
+      "first_seen": "2026-09-17T13:21:52Z",
+      "source": "SimplifyJobs",
+      "title": "Robotics Software Engineer Intern",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"
     },
     "solid power::product development intern::a7d1e74a46bd": {
       "company": "Solid Power",
@@ -16295,6 +16379,13 @@
       "source": "SimplifyJobs",
       "title": "Industrial Engineer Intern - Workforce Management",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144-1"
+    },
+    "the walt disney company::show control software intern::72c6074a75db": {
+      "company": "The Walt Disney Company",
+      "first_seen": "2026-09-17T13:21:52Z",
+      "source": "SimplifyJobs",
+      "title": "Show Control Software Intern",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Control-Software-Internship--Spring-2027_10160946"
     },
     "thermo fisher scientific::senior operations data analytics intern::da9563433777": {
       "company": "Thermo Fisher Scientific",
@@ -19181,5 +19272,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-09-17T04:40:03Z"
+  "updated": "2026-09-17T13:21:52Z"
 }
