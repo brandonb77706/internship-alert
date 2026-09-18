@@ -105,6 +105,13 @@
       "title": "Software Engineer Intern - Phoenix Site",
       "url": "https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e"
     },
+    "acron aviation::software engineer intern st pete site::c70d865def8e": {
+      "company": "Acron Aviation",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "zshah101",
+      "title": "Software Engineer Intern - St. Pete Site",
+      "url": "https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed"
+    },
     "acxiom::data engineer intern::0b40dd57a66c": {
       "company": "Acxiom",
       "first_seen": "2026-09-16T04:34:32Z",
@@ -1440,6 +1447,13 @@
       "first_seen": "2026-09-17T13:21:52Z",
       "source": "zshah101",
       "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/amperesand/jobs/4409254009"
+    },
+    "amperesand::software intern factory ops::0df476b6009f": {
+      "company": "Amperesand",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "zshah101",
+      "title": "Software Intern, Factory & Ops",
       "url": "https://job-boards.greenhouse.io/amperesand/jobs/4409254009"
     },
     "amperesand::software intern::32d60515d56f": {
@@ -3037,6 +3051,13 @@
       "source": "zshah101",
       "title": "Powertrain Controls Software Engineering Intern (6-Months, Full-Time)",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142898574"
+    },
+    "bosch::robot learning engineering intern::e2d52460e738": {
+      "company": "Bosch",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "SmartRecruiters:Bosch",
+      "title": "Robot Learning Engineering Intern ",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150446259"
     },
     "bosch::service engineer intern::44bc45c10655": {
       "company": "Bosch",
@@ -4872,6 +4893,13 @@
       "title": "Digital & IT Intern",
       "url": "https://corningjobs.corning.com/job/Corning-Digital-&-IT-Intern,-Analyst,-Agile-&-Product-Operations-Summer-2027-NY-14831/1425715600/?ats=successfactors"
     },
+    "corning::imaging sciences engineer intern::85166c904b73": {
+      "company": "Corning",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "SimplifyJobs",
+      "title": "Imaging Sciences Engineer Intern",
+      "url": "https://corningjobs.corning.com/job/Keene-Imaging-Sciences-Engineering-Intern-Summer-2027-NH-03431/1431391900/?ats=successfactors"
+    },
     "corteva::agentic ai engineer intern::69efdcbc484c": {
       "company": "Corteva",
       "first_seen": "2026-09-14T02:04:51Z",
@@ -5333,6 +5361,13 @@
       "source": "Greenhouse:Datadog",
       "title": "Software Engineering Intern (Winter)",
       "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095"
+    },
+    "dayton freight lines::software developer intern::750335d446d7": {
+      "company": "Dayton Freight Lines",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Developer Intern",
+      "url": "https://careers-daytonfreight.icims.com/jobs/18249/job?mobile=true&needsRedirect=false"
     },
     "decisionpoint::software engineer intern::37786f6cc596": {
       "company": "DecisionPoint",
@@ -7273,6 +7308,20 @@
       "title": "Energy Optimization Software Engineer Intern - Summer 2027 \ud83c\udf93",
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2"
     },
+    "ge vernova::engineering intern::520ab0e68bf1": {
+      "company": "GE Vernova",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "SimplifyJobs",
+      "title": "Engineering Intern",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1"
+    },
+    "ge vernova::engineering intern::90c47709a268": {
+      "company": "GE Vernova",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "SimplifyJobs",
+      "title": "Engineering Intern",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
+    },
     "ge vernova::gridos project engineer co op intern::1160e60fdfe4": {
       "company": "GE Vernova",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -7895,6 +7944,20 @@
       "source": "SimplifyJobs",
       "title": "Material Master Data Intern \ud83c\udf93",
       "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Material-Master-Data-Internship_R-57186"
+    },
+    "gordon food service::software engineer intern low code::376e72c01b6b": {
+      "company": "Gordon Food Service",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "zshah101",
+      "title": "Software Engineer Intern (Low Code)",
+      "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375"
+    },
+    "gordon food service::software engineer internship::7389a0b409e7": {
+      "company": "Gordon Food Service",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "zshah101",
+      "title": "Software Engineer Internship",
+      "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377"
     },
     "gordon food service::vendor customer master data intern master data::d55ed1319e64": {
       "company": "Gordon Food Service",
@@ -11606,6 +11669,13 @@
       "title": "Android Platform Software Engineering Intern - Summer 2027 \ud83c\uddfa\ud83c\uddf8 _(2 openings)_",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1"
     },
+    "motorola::cyber security 2027 summer internship chicago hybrid::991fc908719d": {
+      "company": "Motorola",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "zshah101",
+      "title": "Cyber Security - 2027 Summer Internship (Chicago Hybrid) \ud83d\udec2",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369"
+    },
     "motorola::digital signal processing software engineering intern digital signal processing::da1e5b9eee68": {
       "company": "Motorola",
       "first_seen": "2026-09-14T02:04:51Z",
@@ -13103,6 +13173,13 @@
       "source": "SimplifyJobs",
       "title": "Data Science Intern \ud83c\udf93",
       "url": "https://job-boards.greenhouse.io/perpay/jobs/4076978007"
+    },
+    "perpay::software engineering intern::5be2c2ba02dd": {
+      "company": "Perpay",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineering Intern",
+      "url": "https://simplify.jobs/c/Perpay"
     },
     "persona ai::autonomy software engineer intern world modeling::ca4caa6647ab": {
       "company": "Persona AI",
@@ -17444,6 +17521,13 @@
       "title": "Commercial Data Science Intern",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063"
     },
+    "the walt disney company::disney live entertainment technical development intern::00bafd62bc7f": {
+      "company": "The Walt Disney Company",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "SimplifyJobs",
+      "title": "Disney Live Entertainment Technical Development Intern",
+      "url": "https://simplify.jobs/c/Disney"
+    },
     "the walt disney company::industrial engineer intern workforce management::587b7c43c85f": {
       "company": "The Walt Disney Company",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -18872,6 +18956,13 @@
       "title": "Software Development Intern - Summer 2027",
       "url": "https://jobs.jobvite.com/tylertech/job/oqQJAfwj?nl=1&nl=1&fr=false"
     },
+    "tyler technologies::software development intern::a3b43fe2df3b": {
+      "company": "Tyler Technologies",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Development Intern",
+      "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false"
+    },
     "u s bank::engineering intern::ff0e95c687a6": {
       "company": "U.S. Bank",
       "first_seen": "2026-09-16T04:34:32Z",
@@ -19193,6 +19284,13 @@
       "source": "speedyapply",
       "title": "Software Engineering Intern - Summer 2027",
       "url": "https://www.veeam.com/"
+    },
+    "veolia::intern membrane application engineer::11918168aa95": {
+      "company": "Veolia",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "SimplifyJobs",
+      "title": "Intern \u2013 Membrane Application Engineer",
+      "url": "https://simplify.jobs/c/Veolia"
     },
     "vercel::software engineering intern summer 27::2331e93505b8": {
       "company": "Vercel",
@@ -19739,6 +19837,13 @@
       "source": "SimplifyJobs",
       "title": "Software Developer Intern - Java",
       "url": "https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false"
+    },
+    "w r berkley::software developer intern net::8ccc2abee67d": {
+      "company": "W.R. Berkley",
+      "first_seen": "2026-09-18T22:29:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Developer Intern - .NET",
+      "url": "https://careers-berkley.icims.com/jobs/14444/job?mobile=true&needsRedirect=false"
     },
     "w w grainger::software engineer intern grainger technology group::3706db53e06b": {
       "company": "W.W. Grainger",
@@ -20511,5 +20616,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-09-18T19:02:11Z"
+  "updated": "2026-09-18T22:29:49Z"
 }
