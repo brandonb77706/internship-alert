@@ -77,6 +77,20 @@
       "title": "Software Engineer - Intern",
       "url": "https://www.abridge.com"
     },
+    "abridge::software engineering intern fall::e358c3a0ac9d": {
+      "company": "Abridge",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Fall",
+      "url": "https://www.abridge.com"
+    },
+    "abridge::software engineering intern spring::e358c3a0ac9d": {
+      "company": "Abridge",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Spring",
+      "url": "https://www.abridge.com"
+    },
     "acron aviation::software engineer intern phoenix site::0915a0e0de38": {
       "company": "Acron Aviation",
       "first_seen": "2026-09-15T19:41:23Z",
@@ -616,12 +630,26 @@
       "title": "Software Development Engineer Intern - Robotics",
       "url": "https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"
     },
+    "amazon::software development engineer intern summer 2027 usa::048036581b8f": {
+      "company": "Amazon",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "zshah101",
+      "title": "Software Development Engineer Intern - Summer 2027 (USA)",
+      "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa"
+    },
     "amazon::software development engineer intern summer::399f8a1215ea": {
       "company": "Amazon",
       "first_seen": "2026-09-18T04:26:07Z",
       "source": "SimplifyJobs",
       "title": "Software Development Engineer Intern - Summer",
       "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa"
+    },
+    "amazon::software development engineer internship summer 2027 usa::680f3fd13637": {
+      "company": "Amazon",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "speedyapply",
+      "title": "Software Development Engineer Internship - Summer -2027 - USA",
+      "url": "https://www.amazon.com"
     },
     "amazon::software development engineer internship summer 2027 usa::c45daaf8b556": {
       "company": "Amazon",
@@ -2247,6 +2275,13 @@
       "title": "Internship - Data Science (Remote) \ud83d\udec2",
       "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342"
     },
+    "bascom hunter::software engineering intern baton rouge la frederick md::5ac78d8eb847": {
+      "company": "Bascom Hunter",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Baton Rouge - LA/Frederick - MD",
+      "url": "https://bascomhunter.com"
+    },
     "base power company::quantitative developer intern::b9de0c24bd28": {
       "company": "Base Power Company",
       "first_seen": "2026-09-15T19:41:23Z",
@@ -3654,6 +3689,13 @@
       "title": "Software Test Engineer Intern - Summer 2027",
       "url": "https://www.caci.com"
     },
+    "caci::software test engineer intern summer 2027::cd2fffb8620f": {
+      "company": "CACI",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "zshah101",
+      "title": "Software Test Engineer Intern - Summer 2027",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Colorado-Springs-CO-US/Software-Test-Engineer-Intern---Summer-2027_332003"
+    },
     "cadence design systems::intern scientific developer target exploration::326124282606": {
       "company": "Cadence Design Systems",
       "first_seen": "2026-09-18T04:26:07Z",
@@ -3772,6 +3814,13 @@
       "source": "SimplifyJobs",
       "title": "Data Analysis Intern \ud83c\udf93",
       "url": "https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply"
+    },
+    "camba::internship developer learning to work program::1adb31412198": {
+      "company": "CAMBA",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "speedyapply",
+      "title": "Internship Developer - Learning to Work Program",
+      "url": "http://www.camba.org"
     },
     "cambium learning group::software engineer intern ai applications::fac7ba214e63": {
       "company": "Cambium Learning Group",
@@ -4024,6 +4073,13 @@
       "source": "SimplifyJobs",
       "title": "Digital Transformation and Technology Co-op",
       "url": "https://careers.chick-fil-a.com/jobs/15017?icims=1"
+    },
+    "church dwight::ai developer co op graduate program 9 months also open for spring 2028::b28f9d55a93e": {
+      "company": "Church & Dwight",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "zshah101",
+      "title": "AI Developer Co-op - Graduate Program (9 Months) \ud83c\uddfa\ud83c\uddf8 _(also open for Spring 2028)_",
+      "url": "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686"
     },
     "church dwight::ai developer co op graduate program::b28f9d55a93e": {
       "company": "Church & Dwight",
@@ -7945,6 +8001,13 @@
       "title": "Catastrophe Modeling & Data Analytics Intern",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Catastrophe-Modeling---Data-Analytics-Intern--Spring-2027-_R9576"
     },
+    "greatamerica financial services::platform engineering intern::f9b9e43bbcc2": {
+      "company": "GreatAmerica Financial Services",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "zshah101",
+      "title": "Platform Engineering Intern",
+      "url": "https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1"
+    },
     "greatamerica financial services::software engineer intern::a68f1283c69b": {
       "company": "GreatAmerica Financial Services",
       "first_seen": "2026-09-14T02:04:51Z",
@@ -10108,6 +10171,20 @@
       "title": "Full-Stack Software Engineering Intern \ud83c\udf93",
       "url": "https://uscareers-lennox.icims.com/jobs/54888/job?mobile=true&needsRedirect=false"
     },
+    "lennox::ai enabled full stack software engineering intern::8a56f0199b1d": {
+      "company": "Lennox",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "speedyapply",
+      "title": "AI-Enabled Full-Stack Software Engineering Intern",
+      "url": "https://www.lennox.com"
+    },
+    "lennox::cloud advance admin developer intern::8a56f0199b1d": {
+      "company": "Lennox",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "speedyapply",
+      "title": "Cloud Advance Admin/Developer Intern",
+      "url": "https://www.lennox.com"
+    },
     "lexisnexis legal professional::data science intern::7f872d77226d": {
       "company": "LexisNexis Legal & Professional",
       "first_seen": "2026-09-15T22:52:09Z",
@@ -10310,6 +10387,13 @@
       "source": "Greenhouse:Lyft",
       "title": "Data Science Intern, Algorithms (Summer 2027)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"
+    },
+    "lyft::software engineer intern backend summer 2027 sf::ed54c1d3e39f": {
+      "company": "Lyft",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern - Backend - Summer 2027 - SF",
+      "url": "https://www.lyft.com"
     },
     "lyft::software engineer intern backend summer 2027 sf::ff46245b8048": {
       "company": "Lyft",
@@ -10589,6 +10673,13 @@
       "first_seen": "2026-09-10T03:37:39Z",
       "source": "zshah101",
       "title": "Platform Engineering Intern, Summer 2027 \u2013 St. Louis, MO, US _(3 openings)_",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875"
+    },
+    "mastercard::platform engineering intern summer 2027 st louis mo us 4 openings::396344d52c74": {
+      "company": "Mastercard",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "zshah101",
+      "title": "Platform Engineering Intern, Summer 2027 \u2013 St. Louis, MO, US _(4 openings)_",
       "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875"
     },
     "mastercard::site reliability engineering intern summer 2027 st louis mo us::56c246e2f812": {
@@ -11289,6 +11380,13 @@
       "first_seen": "2026-09-14T02:04:51Z",
       "source": "speedyapply",
       "title": "Software Engineering Intern - CTJ - TS",
+      "url": "https://www.microsoft.com"
+    },
+    "microsoft::software engineering internship 6 month program::51c83efbd695": {
+      "company": "Microsoft",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Internship - 6-month Program",
       "url": "https://www.microsoft.com"
     },
     "millennium::applied ai engineer intern::ef89eb7fecaa": {
@@ -12081,6 +12179,13 @@
       "source": "SimplifyJobs",
       "title": "AI Agent Development Co-op \ud83c\udf93",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978"
+    },
+    "nokia::ai assisted software development co op::9620c806d8da": {
+      "company": "Nokia",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "zshah101",
+      "title": "AI Assisted Software Development Co-op",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40535"
     },
     "nokia::data analytics ai co op::908093cb4868": {
       "company": "Nokia",
@@ -13020,6 +13125,13 @@
       "title": "Robotics Software Internship - Manipulation",
       "url": "http://persona.ai/"
     },
+    "persona::software engineer intern summer 2027::fe4b8d5e5f4a": {
+      "company": "Persona",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "speedyapply",
+      "title": "Software Engineer - Intern - Summer 2027",
+      "url": "https://withpersona.com/"
+    },
     "philips::co op software development engineer cambridge ma jan aug 2027::66d5aecaf108": {
       "company": "Philips",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -13809,6 +13921,13 @@
       "first_seen": "2026-09-10T03:37:39Z",
       "source": "speedyapply",
       "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://www.rtx.com"
+    },
+    "raytheon::software engineer intern::e24be637a746": {
+      "company": "Raytheon",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern",
       "url": "https://www.rtx.com"
     },
     "raytheon::software engineering co op spring summer 2027::e24be637a746": {
@@ -15637,6 +15756,13 @@
       "source": "zshah101",
       "title": "Transporta\u200btion Engineering Intern - Infrastruc\u200bture (Summer 2027)",
       "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007777"
+    },
+    "stantec::transporta tion engineering intern infrastruc ture summer 2027::0c8bae08f413": {
+      "company": "Stantec",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "zshah101",
+      "title": "Transporta\u200btion Engineering Intern - Infrastruc\u200bture (Summer 2027)",
+      "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007804"
     },
     "stantec::transporta tion engineering intern infrastruc ture summer 2027::5ddf08e75ce6": {
       "company": "Stantec",
@@ -20090,6 +20216,13 @@
       "title": "DevOps & AI Engineering Intern (Undergrad\u200buate)",
       "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056"
     },
+    "wex::devops ai engineering intern undergraduate::040ac78dff15": {
+      "company": "WEX",
+      "first_seen": "2026-09-18T19:02:11Z",
+      "source": "speedyapply",
+      "title": "DevOps & AI Engineering Intern - Undergraduate",
+      "url": "https://www.wexinc.com"
+    },
     "wex::devops backend software engineer intern undergraduate::040ac78dff15": {
       "company": "WEX",
       "first_seen": "2026-09-15T19:41:23Z",
@@ -20378,5 +20511,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-09-18T12:55:59Z"
+  "updated": "2026-09-18T19:02:11Z"
 }
