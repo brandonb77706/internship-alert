@@ -1687,6 +1687,20 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true"
     },
+    "antares::multiphysics software intern summer 2027::1d4f3f6e85e0": {
+      "company": "Antares",
+      "first_seen": "2026-09-20T18:42:11Z",
+      "source": "speedyapply",
+      "title": "Multiphysics Software Intern - Summer 2027",
+      "url": "http://antaresindustries.com/"
+    },
+    "antares::reactor software engineering intern summer 2027::1d4f3f6e85e0": {
+      "company": "Antares",
+      "first_seen": "2026-09-20T18:42:11Z",
+      "source": "speedyapply",
+      "title": "Reactor Software Engineering Intern - Summer 2027",
+      "url": "http://antaresindustries.com/"
+    },
     "antares::software engineering intern summer 2027::1d4f3f6e85e0": {
       "company": "Antares",
       "first_seen": "2026-09-16T19:33:44Z",
@@ -1966,6 +1980,13 @@
       "source": "SimplifyJobs",
       "title": "Software Developer Intern",
       "url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125"
+    },
+    "athene::software developer internship::f6e80becdae4": {
+      "company": "Athene",
+      "first_seen": "2026-09-20T18:42:11Z",
+      "source": "speedyapply",
+      "title": "Software Developer Internship",
+      "url": "http://www.athene.com/"
     },
     "atkinsr alis::data scientist intern summer 2027::8aeeefc54c81": {
       "company": "AtkinsR\u00e9alis",
@@ -4619,6 +4640,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineering Intern - Summer 2027",
       "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821"
+    },
+    "cme group::software engineering internship summer 2027::b888a4864a49": {
+      "company": "CME Group",
+      "first_seen": "2026-09-20T18:42:11Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Internship - Summer 2027",
+      "url": "https://www.cmegroup.com"
     },
     "cna insurance::technology internship program ai engineering::553ab2a822d9": {
       "company": "CNA Insurance",
@@ -12488,6 +12516,27 @@
       "title": "Software Engineer Intern",
       "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111"
     },
+    "ninjaholdi ngs::data engineer intern::f9dcffbd8d13": {
+      "company": "Ninjaholdi\u200bngs",
+      "first_seen": "2026-09-20T18:42:11Z",
+      "source": "zshah101",
+      "title": "Data Engineer Intern",
+      "url": "https://ninjaholdings.breezy.hr/p/12b3ed96c30c-data-engineer-intern"
+    },
+    "ninjaholdi ngs::data science intern::d247b4bc7129": {
+      "company": "Ninjaholdi\u200bngs",
+      "first_seen": "2026-09-20T18:42:11Z",
+      "source": "zshah101",
+      "title": "Data Science Intern",
+      "url": "https://ninjaholdings.breezy.hr/p/85be8c78a2ba-data-science-intern"
+    },
+    "ninjaholdi ngs::software engineer intern::cc516d38c23e": {
+      "company": "Ninjaholdi\u200bngs",
+      "first_seen": "2026-09-20T18:42:11Z",
+      "source": "zshah101",
+      "title": "Software Engineer Intern",
+      "url": "https://ninjaholdings.breezy.hr/p/23a015fea536-software-engineer-intern"
+    },
     "ninjaholdings::software engineer intern::d38ced9c437d": {
       "company": "NinjaHoldings",
       "first_seen": "2026-09-19T18:35:02Z",
@@ -14348,6 +14397,13 @@
       "first_seen": "2026-09-10T03:37:39Z",
       "source": "speedyapply",
       "title": "Software Platform Intern - Summer 2027",
+      "url": "https://www.rtx.com"
+    },
+    "raytheon::software project engineer intern summer 2027 onsite::e24be637a746": {
+      "company": "Raytheon",
+      "first_seen": "2026-09-20T18:42:11Z",
+      "source": "speedyapply",
+      "title": "Software Project Engineer Intern - Summer 2027 Onsite",
       "url": "https://www.rtx.com"
     },
     "realm::software engineer intern::62a4dcd436bb": {
@@ -17948,12 +18004,26 @@
       "title": "Associate Software Engineer Intern",
       "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457"
     },
+    "thrivent::associate software engineer junior intern summer 2027::a1866f2e60ab": {
+      "company": "Thrivent",
+      "first_seen": "2026-09-20T18:42:11Z",
+      "source": "speedyapply",
+      "title": "Associate Software Engineer - Junior Intern Summer 2027",
+      "url": "https://thrivent.com/"
+    },
     "thrivent::associate software engineer junior intern summer 2027::c1d46a54fe6b": {
       "company": "Thrivent \ud83c\udd81",
       "first_seen": "2026-09-19T18:35:02Z",
       "source": "zshah101",
       "title": "Associate Software Engineer - Junior Intern Summer 2027 \ud83d\udec2",
       "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334"
+    },
+    "thrivent::associate software engineer sophomore intern summer 2027::a1866f2e60ab": {
+      "company": "Thrivent",
+      "first_seen": "2026-09-20T18:42:11Z",
+      "source": "speedyapply",
+      "title": "Associate Software Engineer - Sophomore Intern Summer 2027",
+      "url": "https://thrivent.com/"
     },
     "thrivent::associate software engineer sophomore intern summer 2027::db3f696105c3": {
       "company": "Thrivent \ud83c\udd81",
@@ -20125,6 +20195,13 @@
       "title": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn \ud83d\udec2",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1"
     },
+    "visa::2027 sophomore internship program software engineer intern austin::4962b09b6c95": {
+      "company": "Visa",
+      "first_seen": "2026-09-20T18:42:11Z",
+      "source": "speedyapply",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern - Austin",
+      "url": "https://visa.com/"
+    },
     "visa::2027 sophomore internship program software engineer intern bellevue::4962b09b6c95": {
       "company": "Visa",
       "first_seen": "2026-09-19T18:35:02Z",
@@ -20153,6 +20230,20 @@
       "title": "Software Engineer, Intern - 2027 Ashburn, VA \ud83d\udec2",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1"
     },
+    "visa::software engineer intern 2027 ashburn va::4962b09b6c95": {
+      "company": "Visa",
+      "first_seen": "2026-09-20T18:42:11Z",
+      "source": "speedyapply",
+      "title": "Software Engineer - Intern - 2027 Ashburn - VA",
+      "url": "https://visa.com/"
+    },
+    "visa::software engineer intern 2027 austin tx::4962b09b6c95": {
+      "company": "Visa",
+      "first_seen": "2026-09-20T18:42:11Z",
+      "source": "speedyapply",
+      "title": "Software Engineer - Intern - 2027 Austin - TX",
+      "url": "https://visa.com/"
+    },
     "visa::software engineer intern 2027 austin tx::4b81b94dcaf0": {
       "company": "Visa",
       "first_seen": "2026-09-17T22:50:05Z",
@@ -20179,6 +20270,13 @@
       "first_seen": "2026-09-19T18:35:02Z",
       "source": "speedyapply",
       "title": "Software Engineer - Intern - Foster City 2027",
+      "url": "https://visa.com/"
+    },
+    "visa::software engineer intern highlands ranch co 2027::4962b09b6c95": {
+      "company": "Visa",
+      "first_seen": "2026-09-20T18:42:11Z",
+      "source": "speedyapply",
+      "title": "Software Engineer - Intern - Highlands Ranch - CO - 2027",
       "url": "https://visa.com/"
     },
     "visa::software engineer intern sophomore internship program::59c4227f5274": {
@@ -21085,5 +21183,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-09-20T13:02:03Z"
+  "updated": "2026-09-20T18:42:11Z"
 }
