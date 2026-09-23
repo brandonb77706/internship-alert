@@ -4809,6 +4809,13 @@
       "title": "Software Consulting Engineer I (Intern) United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180"
     },
+    "cisco::software engineer 1 intern::5f302e0a26fb": {
+      "company": "Cisco",
+      "first_seen": "2026-09-23T13:36:28Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer 1 - Intern",
+      "url": "https://simplify.jobs/c/Cisco"
+    },
     "cisco::software engineer data ai intelligent systems 2 intern united states::5f302e0a26fb": {
       "company": "Cisco",
       "first_seen": "2026-09-17T19:43:03Z",
@@ -5956,6 +5963,13 @@
       "source": "zshah101",
       "title": "Intern, Energy Data Science",
       "url": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Energy-Data-Science_JR101053"
+    },
+    "dallas fort worth international airport::undergraduate internship environmental technical projects::49583ef25b89": {
+      "company": "Dallas Fort Worth International Airport",
+      "first_seen": "2026-09-23T13:36:28Z",
+      "source": "SimplifyJobs",
+      "title": "Undergraduate Internship - Environmental Technical Projects",
+      "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Environmental-Technical-Projects_JR102144"
     },
     "dallas fort worth international airport::undergraduate internship geospatial data::f2d62768bf64": {
       "company": "Dallas Fort Worth International Airport",
@@ -10731,6 +10745,20 @@
       "title": "Software Developer Internship \ud83c\uddfa\ud83c\uddf8",
       "url": "https://jobs.lever.co/kitware/7b6ff8f9-34c6-4338-845d-4e1bbc142906"
     },
+    "kla corporation::algorithm engineering intern::e1dbaad2ce00": {
+      "company": "KLA Corporation",
+      "first_seen": "2026-09-23T13:36:28Z",
+      "source": "SimplifyJobs",
+      "title": "Algorithm Engineering Intern \ud83c\udf93",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2"
+    },
+    "kla corporation::software engineering intern c unix::eeac4653ec9b": {
+      "company": "KLA Corporation",
+      "first_seen": "2026-09-23T13:36:28Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineering Intern - C++ - Unix",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1"
+    },
     "kla corporation::software intern hpc infrastructure::6329dc5e0925": {
       "company": "KLA Corporation",
       "first_seen": "2026-09-23T04:31:35Z",
@@ -10738,12 +10766,40 @@
       "title": "Software Intern - HPC Infrastructure \ud83c\udf93",
       "url": "https://simplify.jobs/c/KLA-Corporation"
     },
+    "kla::algorithm engineering intern ai computer vision software engineering::e1dbaad2ce00": {
+      "company": "KLA",
+      "first_seen": "2026-09-23T13:36:28Z",
+      "source": "zshah101",
+      "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
+      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2"
+    },
+    "kla::algorithm engineering intern::e230737a6b4f": {
+      "company": "KLA",
+      "first_seen": "2026-09-23T13:36:28Z",
+      "source": "SimplifyJobs",
+      "title": "Algorithm Engineering Intern \ud83c\udf93",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1"
+    },
     "kla::application engineer intern::c28cccdc8a3c": {
       "company": "KLA",
       "first_seen": "2026-09-17T19:43:03Z",
       "source": "SimplifyJobs",
       "title": "Application Engineer Intern",
       "url": "https://simplify.jobs/c/KLA"
+    },
+    "kla::software engineering intern c unix::67a5be9460cb": {
+      "company": "KLA",
+      "first_seen": "2026-09-23T13:36:28Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineering Intern - C++ - Unix",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325"
+    },
+    "kla::software engineering intern c unix::eeac4653ec9b": {
+      "company": "KLA",
+      "first_seen": "2026-09-23T13:36:28Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern (C++, Unix)",
+      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1"
     },
     "kla::software intern hpc infrastructure::c28cccdc8a3c": {
       "company": "KLA",
@@ -12529,6 +12585,13 @@
       "source": "SimplifyJobs",
       "title": "Design Engineer Intern - HBM",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452"
+    },
+    "micron technology::design engineer intern high bandwidth memory::2451f9c84a44": {
+      "company": "Micron Technology",
+      "first_seen": "2026-09-23T13:36:28Z",
+      "source": "SimplifyJobs",
+      "title": "Design Engineer Intern - High Bandwidth Memory",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512"
     },
     "micron technology::dram customer enablement engineering intern::4da908836ffc": {
       "company": "Micron Technology",
@@ -16491,6 +16554,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Software-Engineering-Intern--Summer-2027-_01870699"
+    },
+    "rtx::software engineer intern::2640c556319d": {
+      "company": "RTX",
+      "first_seen": "2026-09-23T13:36:28Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645"
     },
     "rtx::software engineer intern::34a656c0219e": {
       "company": "RTX",
@@ -23003,5 +23073,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-09-23T04:31:35Z"
+  "updated": "2026-09-23T13:36:28Z"
 }
