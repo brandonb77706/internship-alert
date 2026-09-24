@@ -5740,6 +5740,13 @@
       "title": "Engineering Intern",
       "url": "https://corteva.wd5.myworkdayjobs.com/en-US/Corteva/job/Indianapolis-Indiana-United-States/Engineering-Intern_248148W"
     },
+    "corteva::engineering maintenance intern::c210eef4909f": {
+      "company": "Corteva",
+      "first_seen": "2026-09-24T13:31:28Z",
+      "source": "Workday:Corteva",
+      "title": "Engineering & Maintenance Intern",
+      "url": "https://corteva.wd5.myworkdayjobs.com/en-US/Corteva/job/Elche-Alicante-Spain/Engineering---Maintenance-Intern_248298W"
+    },
     "corteva::r d engineering intern::0125394ba929": {
       "company": "Corteva",
       "first_seen": "2026-09-14T02:04:51Z",
@@ -13726,6 +13733,13 @@
       "source": "SimplifyJobs",
       "title": "Software Development Co-op",
       "url": "https://job-boards.greenhouse.io/nanopathinc/jobs/4732881005"
+    },
+    "nasco::software engineer intern::4e424d9e1acc": {
+      "company": "NASCO",
+      "first_seen": "2026-09-24T13:31:28Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-nasco.icims.com/jobs/4402/job?mobile=true&needsRedirect=false"
     },
     "nasdaq::software developer engineer intern::40b48b20934b": {
       "company": "Nasdaq",
@@ -23758,6 +23772,13 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/workshop/jobs/5237900007"
     },
+    "wurl::data science intern::58c4e907579b": {
+      "company": "Wurl \ud83c\udd81",
+      "first_seen": "2026-09-24T13:31:28Z",
+      "source": "zshah101",
+      "title": "Data Science Intern",
+      "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006"
+    },
     "xcel energy::ai solutions development intern::e84c5e23a83b": {
       "company": "Xcel Energy",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -23962,5 +23983,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-09-24T04:28:58Z"
+  "updated": "2026-09-24T13:31:28Z"
 }
