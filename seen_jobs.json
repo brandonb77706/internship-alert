@@ -5943,6 +5943,13 @@
       "title": "Technology Product Analyst Intern \ud83c\udf93",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110789"
     },
+    "copart::technology product analyst intern::93e745a0ca9b": {
+      "company": "Copart",
+      "first_seen": "2026-09-26T04:43:35Z",
+      "source": "SimplifyJobs",
+      "title": "Technology Product Analyst Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107937"
+    },
     "copart::technology product analyst intern::d317e0626b9a": {
       "company": "Copart",
       "first_seen": "2026-09-17T19:43:03Z",
@@ -9835,6 +9842,13 @@
       "title": "Software Engineer Intern - C3PO",
       "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/C3PO-Intern_R26-2245"
     },
+    "govsignals::engineering intern::3f3357874f03": {
+      "company": "GovSignals",
+      "first_seen": "2026-09-26T04:43:35Z",
+      "source": "SimplifyJobs",
+      "title": "Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/GovSignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application?embed=true"
+    },
     "gpc::cloud developer intern::7a9c1d02112e": {
       "company": "GPC",
       "first_seen": "2026-09-14T02:04:51Z",
@@ -11801,6 +11815,13 @@
       "source": "SimplifyJobs",
       "title": "Analog and Mixed Signal IC Design Engineer Intern \ud83c\udf93",
       "url": "https://jobs.keysight.com/jobs/54221?icims=1"
+    },
+    "keysight technologies::engineering intern::9e3e1c32ad0a": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-09-26T04:43:35Z",
+      "source": "SimplifyJobs",
+      "title": "Engineering Intern",
+      "url": "https://simplify.jobs/c/Keysight-Technologies-Inc"
     },
     "keysight technologies::r d software engineer intern quantum computing::9e3e1c32ad0a": {
       "company": "Keysight Technologies",
@@ -14111,6 +14132,13 @@
       "source": "speedyapply",
       "title": "Software Engineer: Intern Opportunity for University Students",
       "url": "https://www.microsoft.com"
+    },
+    "microsoft::software engineer intern::11719f950e3b": {
+      "company": "Microsoft",
+      "first_seen": "2026-09-26T04:43:35Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008714"
     },
     "microsoft::software engineer intern::56b05019b3f9": {
       "company": "Microsoft",
@@ -20825,6 +20853,13 @@
       "title": "Machine Learning Engineer Intern - Factory Software",
       "url": "https://www.tesla.com/careers/search/job/282916"
     },
+    "tesla::mobile application software engineer intern energy engineering::ef92dde663a5": {
+      "company": "Tesla",
+      "first_seen": "2026-09-26T04:43:35Z",
+      "source": "SimplifyJobs",
+      "title": "Mobile Application Software Engineer Intern - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/284776"
+    },
     "tesla::optical engineer intern electronic systems::cbf6b9503bcb": {
       "company": "Tesla",
       "first_seen": "2026-09-25T04:40:05Z",
@@ -21279,6 +21314,13 @@
       "source": "SimplifyJobs",
       "title": "Machine Learning Engineering Intern \ud83c\udf93",
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432"
+    },
+    "the aerospace corporation::software systems engineer intern acquisition::81d3eb8064a7": {
+      "company": "The Aerospace Corporation",
+      "first_seen": "2026-09-26T04:43:35Z",
+      "source": "SimplifyJobs",
+      "title": "Software Systems Engineer Intern - Acquisition",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431"
     },
     "the aerospace corporation::software tools and assurance intern information systems and cyber division::bbcd5f02b4e3": {
       "company": "The Aerospace Corporation",
@@ -24437,6 +24479,13 @@
       "title": "WB Games NetherRealm Software Engineering Intern/Co-op",
       "url": "https://simplify.jobs/c/Warner-Bros"
     },
+    "wasabi technologies::co op engineering::15a992e6f467": {
+      "company": "Wasabi Technologies",
+      "first_seen": "2026-09-26T04:43:35Z",
+      "source": "SimplifyJobs",
+      "title": "Co-op \u2013 Engineering \ud83c\udf93",
+      "url": "https://simplify.jobs/c/WasabiTech"
+    },
     "wasabi::cloud tech support engineer co op::271be05a7120": {
       "company": "Wasabi",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -25334,5 +25383,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-09-25T23:16:53Z"
+  "updated": "2026-09-26T04:43:35Z"
 }
