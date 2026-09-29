@@ -3934,6 +3934,13 @@
       "title": "Data Science Engineer Intern",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600504"
     },
+    "boston scientific::software development engineer co op::2726aae8c630": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Software Development Engineer Co-op",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813674232"
+    },
     "boston scientific::software development engineer co op::320423249fa9": {
       "company": "Boston Scientific",
       "first_seen": "2026-09-24T23:11:44Z",
@@ -3954,6 +3961,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern - Interns/Graduates",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813549535"
+    },
+    "boston scientific::software engineer intern interns graduates::629388c06176": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Interns/Graduates",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584985"
     },
     "boston scientific::software engineer intern r d::becbbc58852c": {
       "company": "Boston Scientific",
@@ -5613,6 +5627,13 @@
       "source": "zshah101",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004"
+    },
+    "cloudflare::software engineer intern::c581b615d5d9": {
+      "company": "Cloudflare",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958"
     },
     "cloudflare::software engineer intern::c690f1788381": {
       "company": "Cloudflare",
@@ -8834,12 +8855,26 @@
       "title": "Software Engineer Intern",
       "url": "https://careers.garmin.com/jobs/19858?icims=1"
     },
+    "garmin::software engineer intern::b71a43ecea2a": {
+      "company": "Garmin",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.garmin.com/jobs/20055?icims=1"
+    },
     "garmin::software engineer intern::f35b1c2a6ce1": {
       "company": "Garmin",
       "first_seen": "2026-09-10T03:37:39Z",
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://careers.garmin.com/jobs/19693?icims=1"
+    },
+    "garmin::software engineering intern::0504ce7d260c": {
+      "company": "Garmin",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.garmin.com/jobs/20255?icims=1"
     },
     "garner health::software engineering intern::0dd1115c682b": {
       "company": "Garner Health",
@@ -9646,12 +9681,26 @@
       "title": "Intern - Research - Data Sciences - AI \ud83d\udec2",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences_R0054572"
     },
+    "gilead sciences::intern research protein therapeuti cs computatio nal biologics engineering ai::398c4868f7b5": {
+      "company": "Gilead Sciences",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "zshah101",
+      "title": "Intern - Research - Protein Therapeuti\u200bcs, Computatio\u200bnal Biologics Engineering - AI \ud83d\udec2",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739"
+    },
     "ginkgo bioworks::software graduate intern autonomous lab::acbce8d5aa34": {
       "company": "Ginkgo Bioworks",
       "first_seen": "2026-09-22T22:54:18Z",
       "source": "SimplifyJobs",
       "title": "Software Graduate Intern - Autonomous Lab",
       "url": "https://simplify.jobs/c/Ginkgo-Bioworks"
+    },
+    "gitai::software engineer intern::ee55786448a1": {
+      "company": "GITAI",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/gitai/jobs/5437128008"
     },
     "globalfoundries::design application engineering intern::00afcb30ec9c": {
       "company": "GlobalFoundries",
@@ -13320,6 +13369,13 @@
       "source": "SimplifyJobs",
       "title": "Analog Layout Engineer Intern",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Layout-Intern_2604101"
+    },
+    "marvell::board product engineer intern bs::3fc31b5b38c9": {
+      "company": "Marvell",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Board Product Engineer Intern - BS",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Board-Product-Engineer-Intern--BS---Summer-2027_2603833"
     },
     "marvell::digital ic design intern bs::5852ba792407": {
       "company": "Marvell",
@@ -18004,6 +18060,13 @@
       "title": "Product Engineering Intern",
       "url": "https://simplify.jobs/c/Rheem"
     },
+    "rhoda ai::robot software engineer intern::a97732bab5e7": {
+      "company": "Rhoda AI",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Robot Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5/application?embed=true"
+    },
     "rilla::software engineer intern::64fec4af5d95": {
       "company": "Rilla",
       "first_seen": "2026-09-16T04:34:32Z",
@@ -18508,6 +18571,13 @@
       "title": "Crypto Software Engineering Co-op",
       "url": "https://simplify.jobs/c/RTX"
     },
+    "rtx::display systems engineering co op::7db0b7f56e8e": {
+      "company": "RTX",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Display Systems Engineering Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917"
+    },
     "rtx::factory enablement digital engineer co op::3ac244898678": {
       "company": "RTX",
       "first_seen": "2026-09-23T19:40:08Z",
@@ -18788,6 +18858,13 @@
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613"
     },
+    "rtx::software engineering co op spring summer 2027::a4e9a6c785c6": {
+      "company": "RTX",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "zshah101",
+      "title": "Software Engineering Co-op (Spring/Summer 2027) \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645"
+    },
     "rtx::software engineering co op::0ee8e507cbeb": {
       "company": "RTX",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -18822,6 +18899,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineering Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01870236"
+    },
+    "rtx::software engineering co op::a4e9a6c785c6": {
+      "company": "RTX",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineering Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645"
     },
     "rtx::software engineering co op::eada0e0c3516": {
       "company": "RTX",
@@ -21553,6 +21637,13 @@
       "title": "2027 Software Implementa\u200btion and Integration Undergrad Cleared Intern \ud83c\uddfa\ud83c\uddf8",
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740"
     },
+    "the aerospace corporation::2027 software tools and assurance engineering grad intern::069f8735d012": {
+      "company": "The Aerospace Corporation",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "zshah101",
+      "title": "2027 Software Tools and Assurance Engineering Grad Intern \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753"
+    },
     "the aerospace corporation::2027 software tools and assurance intern::bbcd5f02b4e3": {
       "company": "The Aerospace Corporation",
       "first_seen": "2026-09-22T22:54:18Z",
@@ -21580,6 +21671,27 @@
       "source": "SimplifyJobs",
       "title": "Machine Learning Engineering Intern \ud83c\udf93",
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432"
+    },
+    "the aerospace corporation::software engineer intern::a4fbd199d8c0": {
+      "company": "The Aerospace Corporation",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern \ud83c\udf93",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759"
+    },
+    "the aerospace corporation::software engineering intern software tools and assurance::069f8735d012": {
+      "company": "The Aerospace Corporation",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineering Intern - Software Tools and Assurance \ud83c\udf93",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753"
+    },
+    "the aerospace corporation::software engineering intern::f29a77fb7bb4": {
+      "company": "The Aerospace Corporation",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineering Intern",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R016758"
     },
     "the aerospace corporation::software systems engineer intern acquisition::81d3eb8064a7": {
       "company": "The Aerospace Corporation",
@@ -22063,6 +22175,13 @@
       "source": "speedyapply",
       "title": "Software Engineer Co-Op",
       "url": "https://www.thomsonreuters.com"
+    },
+    "thrivent::application engineer intern investments::4c4048d1de59": {
+      "company": "Thrivent",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Application Engineer Intern - Investments",
+      "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2"
     },
     "thrivent::associate software engineer intern::c1d46a54fe6b": {
       "company": "Thrivent",
@@ -24031,6 +24150,13 @@
       "title": "Technology Intern - Summer Internship Program",
       "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4722"
     },
+    "verizon communicat ions::irving v teamer for a day verizon data science summer 2027 internship::b2c8a6ddb9bc": {
+      "company": "Verizon Communicat\u200bions",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "zshah101",
+      "title": "Irving V Teamer for a Day: Verizon Data Science Summer 2027 Internship",
+      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386"
+    },
     "verizon communicat ions::verizon consumer group ai ml engineering summer 2027 internship::a1285ae398dd": {
       "company": "Verizon Communicat\u200bions",
       "first_seen": "2026-09-15T22:52:09Z",
@@ -24052,6 +24178,13 @@
       "title": "Verizon Network and Technology: AI Science 2027 Internship",
       "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167"
     },
+    "verizon communicat ions::verizon network and technology data science summer 2027 internship::b159c7233252": {
+      "company": "Verizon Communicat\u200bions",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "zshah101",
+      "title": "Verizon Network and Technology: Data Science Summer 2027 Internship",
+      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384"
+    },
     "verizon communications::ai ml engineering intern consumer group::a1285ae398dd": {
       "company": "Verizon Communications",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -24065,6 +24198,27 @@
       "source": "SimplifyJobs",
       "title": "AI Science Intern - Network and Technology",
       "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167"
+    },
+    "verizon communications::business intelligence intern fiber engineering operations transformation business enablement::f3d095142204": {
+      "company": "Verizon Communications",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Business Intelligence Intern - Fiber Engineering & Operations - Transformation & Business Enablement",
+      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387"
+    },
+    "verizon communications::data science intern network and technology::b159c7233252": {
+      "company": "Verizon Communications",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Data Science Intern - Network and Technology",
+      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384"
+    },
+    "verizon communications::data scientist intern fiber engineering operations::b2c8a6ddb9bc": {
+      "company": "Verizon Communications",
+      "first_seen": "2026-09-29T10:36:47Z",
+      "source": "SimplifyJobs",
+      "title": "Data Scientist Intern - Fiber Engineering & Operations",
+      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386"
     },
     "verizon communications::verizon consumer group ai ml engineering summer 2027 internship::a1285ae398dd": {
       "company": "Verizon Communications",
@@ -25670,5 +25824,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-09-29T00:21:43Z"
+  "updated": "2026-09-29T10:36:47Z"
 }
