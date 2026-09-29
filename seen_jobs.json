@@ -441,6 +441,13 @@
       "title": "Summer Intern - Software Engineer",
       "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR37747-2"
     },
+    "allegion::summer intern software engineering::30a85fd290e8": {
+      "company": "Allegion",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "Summer Intern - Software Engineering",
+      "url": "https://www.allegion.com"
+    },
     "allegion::summer intern software engineering::94471d542694": {
       "company": "Allegion",
       "first_seen": "2026-09-25T19:59:59Z",
@@ -1169,6 +1176,13 @@
       "title": "Infrastruc\u200bture Automation Engineer Intern \ud83d\udec2",
       "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750"
     },
+    "american century investments::software developer intern::2010f4b52510": {
+      "company": "American Century Investments",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "Software Developer Intern",
+      "url": "https://www.americancentury.com/"
+    },
     "american century investments::software developer intern::49b0d457eb4c": {
       "company": "American Century Investments",
       "first_seen": "2026-09-25T19:59:59Z",
@@ -1532,6 +1546,20 @@
       "source": "SimplifyJobs",
       "title": "Data Analytics & AI Intern",
       "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Data-Analytics---AI-Intern---RiverSource_R26_3595"
+    },
+    "amerisourcebergen::edi it software developer intern::9ace9eceae72": {
+      "company": "AmerisourceBergen",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "EDI IT Software Developer Intern",
+      "url": "https://www.amerisourcebergen.com"
+    },
+    "amerisourcebergen::software intern::9ace9eceae72": {
+      "company": "AmerisourceBergen",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "Software Intern",
+      "url": "https://www.amerisourcebergen.com"
     },
     "amgen::data engineer intern technology medical organizations::38ec78a9dc63": {
       "company": "Amgen",
@@ -2793,6 +2821,13 @@
       "title": "2027 Internship Onboard Infrastruc\u200bture Engineer, ML Inference",
       "url": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8"
     },
+    "bedrock robotics::2027 internship software engineer fleet platform::ec03cabef1b8": {
+      "company": "Bedrock Robotics",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "2027 Internship Software Engineer - Fleet Platform",
+      "url": "https://bedrockrobotics.com/"
+    },
     "bedrock robotics::2027 internship software engineer fleet platform::f81da11ebaee": {
       "company": "Bedrock Robotics",
       "first_seen": "2026-09-25T23:16:53Z",
@@ -2960,6 +2995,13 @@
       "source": "speedyapply",
       "title": "RPA Engineering Developer Intern",
       "url": "https://www.bcbsks.com/"
+    },
+    "blue cross blue shield of michigan::summer 2027 intern data science biostatist ician::3fbec2fa5c35": {
+      "company": "Blue Cross Blue Shield of Michigan",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "zshah101",
+      "title": "Summer 2027 Intern - Data Science / Biostatist\u200bician",
+      "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14837"
     },
     "blue origin::2026 intern conversion software development engineer i::0049cc72a3a9": {
       "company": "Blue Origin",
@@ -4032,6 +4074,13 @@
       "title": "Data Analytics Intern",
       "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Data-Analytics-Co-Op_JR-051119"
     },
+    "brunswick::data science intern::818d47dc5d69": {
+      "company": "Brunswick",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "zshah101",
+      "title": "Data Science Intern \ud83d\udec2",
+      "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Data-Science-Intern_JR-051760"
+    },
     "brunswick::mercury marine software controls engineering intern::13ec124e085a": {
       "company": "Brunswick",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -4865,12 +4914,33 @@
       "title": "Data Science Intern - R&D",
       "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841"
     },
+    "cencora::data scientist intern::83140f250ceb": {
+      "company": "Cencora",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "zshah101",
+      "title": "Data Scientist Intern",
+      "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Data-Scientist-Intern_R2613623"
+    },
     "cencora::edi it software developer intern::cd3ac02e8d21": {
       "company": "Cencora",
       "first_seen": "2026-09-25T19:59:59Z",
       "source": "zshah101",
       "title": "EDI IT Software Developer Intern",
       "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/EDI-IT-Software-Developer-Intern_R2612376"
+    },
+    "cencora::it software development intern::e05d7a4d8157": {
+      "company": "Cencora",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "zshah101",
+      "title": "IT Software Development Intern \ud83d\udec2",
+      "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/IT-Software-Development-Intern_R2614039"
+    },
+    "cencora::it software intern::f60dbffdac6f": {
+      "company": "Cencora",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "zshah101",
+      "title": "IT Software Intern \ud83d\udec2",
+      "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/IT-Software-Intern_R2614031"
     },
     "cencora::software developer intern edi it::cd3ac02e8d21": {
       "company": "Cencora",
@@ -8463,6 +8533,13 @@
       "title": "Embedded Software Intern - Summer 2027",
       "url": "https://formlabs.com"
     },
+    "formlabsin ternships::desktop software intern summer 2027::806424ca6a7f": {
+      "company": "Formlabsin\u200bternships",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "zshah101",
+      "title": "Desktop Software Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/formlabsinternships/jobs/8223362"
+    },
     "formlabsin ternships::embedded software intern summer 2027::4b43c705f5b6": {
       "company": "Formlabsin\u200bternships",
       "first_seen": "2026-09-24T19:58:54Z",
@@ -8798,6 +8875,13 @@
       "source": "SimplifyJobs",
       "title": "Fund Data Reporting and Analytics Intern",
       "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8003490003"
+    },
+    "gdit::gdit summer internship program summer 2027 ai ml software development and engineering internship::d3e7d96ec9e9": {
+      "company": "GDIT",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "GDIT Summer Internship Program - Summer 2027 AI/ML Software Development and Engineering Internship",
+      "url": "https://www.gdit.com"
     },
     "gdit::gdit summer internship program summer 2027 generative ai software development internship::d3e7d96ec9e9": {
       "company": "GDIT",
@@ -10037,6 +10121,13 @@
       "source": "SimplifyJobs",
       "title": "Application Developer Co-op",
       "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721"
+    },
+    "greenheck group::application developer co op::d3ddcf240bf2": {
+      "company": "Greenheck Group",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "Application Developer Co-op",
+      "url": "https://greenheckgroup.com/"
     },
     "greenheck group::application engineer co op::fcc1b75b6f77": {
       "company": "Greenheck Group",
@@ -11788,6 +11879,13 @@
       "title": "Product Development Co-op",
       "url": "https://jobs.smartrecruiters.com/Keenfinity/744000151396749"
     },
+    "keenfinity::software engineering intern::8de6d8575d0f": {
+      "company": "Keenfinity",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/Keenfinity/744000152241469"
+    },
     "keenfinity::software test automation co op::878ba733b31a": {
       "company": "Keenfinity",
       "first_seen": "2026-09-23T19:40:08Z",
@@ -12586,6 +12684,13 @@
       "title": "Intern - Software Developer \ud83d\udec2",
       "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Developer_2632330"
     },
+    "lawrence livermore national laboratory llnl::data science institute graduate student intern summer 2027::5b1059b59f91": {
+      "company": "Lawrence Livermore National Laboratory (LLNL)",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "zshah101",
+      "title": "Data Science Institute Graduate Student Intern - Summer 2027",
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990015737586"
+    },
     "lawrence livermore national laboratory llnl::data science institute graduate student intern summer 2027::f1736e67aaa1": {
       "company": "Lawrence Livermore National Laboratory (LLNL)",
       "first_seen": "2026-09-16T04:34:32Z",
@@ -12739,6 +12844,13 @@
       "source": "SimplifyJobs",
       "title": "Software Development Intern",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"
+    },
+    "leidos::software development intern::eced9142e8e2": {
+      "company": "Leidos",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "Software Development Intern",
+      "url": "https://www.leidos.com"
     },
     "leidos::software engineer intern::7e97cec33d15": {
       "company": "Leidos",
@@ -14182,6 +14294,13 @@
       "title": "Software Engineer: Co-Op Intern Opportunities",
       "url": "https://simplify.jobs/c/Microsoft"
     },
+    "microsoft::software engineer intern opportunities for university students atlanta::51c83efbd695": {
+      "company": "Microsoft",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "Software Engineer: Intern Opportunities for University Students - Atlanta",
+      "url": "https://www.microsoft.com"
+    },
     "microsoft::software engineer intern opportunity for university students::51c83efbd695": {
       "company": "Microsoft",
       "first_seen": "2026-09-24T19:58:54Z",
@@ -14411,6 +14530,13 @@
       "first_seen": "2026-09-14T02:04:51Z",
       "source": "speedyapply",
       "title": "DSP - Digital Signal Processing Software Engineering Intern - Summer 2027",
+      "url": "https://www.motorolasolutions.com"
+    },
+    "motorola solutions::software engineer intern summer 2027::5d0087c04c22": {
+      "company": "Motorola Solutions",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern - Summer 2027",
       "url": "https://www.motorolasolutions.com"
     },
     "motorola solutions::software engineering intern summer 2027::5d0087c04c22": {
@@ -15617,6 +15743,13 @@
       "title": "Software Development Co-op",
       "url": "https://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN"
     },
+    "novanta::computer software engineering co op::073ef39f7767": {
+      "company": "Novanta",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "Computer Software Engineering Co-op",
+      "url": "https://www.novanta.com"
+    },
     "novanta::computer software engineering co op::323a0505319f": {
       "company": "Novanta",
       "first_seen": "2026-09-25T23:16:53Z",
@@ -16212,6 +16345,13 @@
       "title": "Software Engineering Intern",
       "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Software-Engineering-Internship_R17826"
     },
+    "pacific life::summer 2027 software engineering internship::80fc8c0c5b10": {
+      "company": "Pacific Life",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "Summer 2027 Software Engineering Internship",
+      "url": "https://www.pacificlife.com"
+    },
     "pdt partners::summer 2027 software engineering intern::093c889722e9": {
       "company": "PDT Partners",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -16561,6 +16701,13 @@
       "source": "Workday:PNC",
       "title": "Technology Undergraduate Intern",
       "url": "https://pnc.wd5.myworkdayjobs.com/en-US/External/job/PA---Pittsburgh-15222/Technology-Undergraduate-Intern_R231441-1"
+    },
+    "poet::software developer intern::c5914bd81f69": {
+      "company": "POET",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "zshah101",
+      "title": "Software Developer Intern",
+      "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1"
     },
     "point72::quantitative developer intern::0d65ddb9e501": {
       "company": "Point72",
@@ -17927,6 +18074,13 @@
       "title": "Software Engineering Intern - Applications - Infotainment & Mobile",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69/application?embed=true"
     },
+    "rivian::embedded systems software engineering intern at uiuc research park january august 2027::8befd5e32eb0": {
+      "company": "Rivian",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "Embedded Systems Software Engineering Intern at UIUC Research Park - January - August 2027",
+      "url": "https://careers.rivian.com"
+    },
     "rivian::engineering intern co op test and validation charging products::4ef966d661c3": {
       "company": "Rivian",
       "first_seen": "2026-09-18T04:26:07Z",
@@ -18676,6 +18830,13 @@
       "title": "Software Engineering Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01871551"
     },
+    "rtx::software engineering intern summer 2027 2 openings::89f5ec19f330": {
+      "company": "RTX",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern - (Summer 2027) _(2 openings)_",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern-----Summer-2027-_01867602"
+    },
     "rtx::software engineering intern summer 2027::9f3bfb303128": {
       "company": "RTX",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -18689,6 +18850,13 @@
       "source": "zshah101",
       "title": "Software Engineering Intern (Summer 2027) \ud83c\uddfa\ud83c\uddf8",
       "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131"
+    },
+    "rtx::software engineering intern summer 2027::cb6eed41802b": {
+      "company": "RTX",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern (Summer 2027) \ud83d\udec2",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01874556"
     },
     "rtx::software engineering intern summer 2027::e4a6601f3c4e": {
       "company": "RTX",
@@ -19011,6 +19179,13 @@
       "source": "zshah101",
       "title": "Data Science and Advanced Analytics Internship - Summer 2027",
       "url": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894"
+    },
+    "sel::software engineer intern::d7d49e7f71a4": {
+      "company": "SEL",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern",
+      "url": "https://selinc.com"
     },
     "sel::software engineering intern power systems::d7d49e7f71a4": {
       "company": "SEL",
@@ -20762,6 +20937,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true"
     },
+    "terranova::software engineering intern::475af473531d": {
+      "company": "Terranova",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern",
+      "url": "https://terranova.inc/"
+    },
     "tesla::access control systems integration engineer intern access control systems::e8f0991afff4": {
       "company": "Tesla",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -21363,6 +21545,13 @@
       "source": "zshah101",
       "title": "2027 Aerospace Software Engineer Undergradu\u200bate Intern \ud83c\uddfa\ud83c\uddf8",
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605"
+    },
+    "the aerospace corporation::2027 software implementa tion and integration undergrad cleared intern::159b59139bd8": {
+      "company": "The Aerospace Corporation",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "zshah101",
+      "title": "2027 Software Implementa\u200btion and Integration Undergrad Cleared Intern \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740"
     },
     "the aerospace corporation::2027 software tools and assurance intern::bbcd5f02b4e3": {
       "company": "The Aerospace Corporation",
@@ -24171,6 +24360,13 @@
       "title": "Software Engineer Co-op",
       "url": "https://www.vestmark.com"
     },
+    "veterans united::intern software engineer summer 2027::d02be5a3da10": {
+      "company": "Veterans United \ud83c\udd81",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "zshah101",
+      "title": "Intern - Software Engineer - Summer 2027",
+      "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249"
+    },
     "viam::software engineering intern summer 2027::beaa25ce2b61": {
       "company": "Viam",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -24660,6 +24856,13 @@
       "source": "zshah101",
       "title": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900"
+    },
+    "waymo::2027 summer intern bs software engineer driver refinement foundations::f2ff796c7c32": {
+      "company": "Waymo",
+      "first_seen": "2026-09-29T00:21:43Z",
+      "source": "speedyapply",
+      "title": "2027 Summer Intern - BS - Software Engineer - Driver Refinement Foundations",
+      "url": "https://www.waymo.com"
     },
     "waymo::2027 summer intern bs syseng software engineer::f2ff796c7c32": {
       "company": "Waymo",
@@ -25467,5 +25670,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-09-28T16:44:35Z"
+  "updated": "2026-09-29T00:21:43Z"
 }
