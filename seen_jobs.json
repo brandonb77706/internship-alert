@@ -882,6 +882,13 @@
       "title": "Software Development Engineer Internship - Summer -2027 (USA)",
       "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa"
     },
+    "amazon::software engineer intern::fd4dcfc0067f": {
+      "company": "Amazon",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc"
+    },
     "amazon::system dev engineer i co op robotics autonomous ai security::8e1be471f55c": {
       "company": "Amazon",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -4648,6 +4655,13 @@
       "title": "AI Prompt Engineer High School Intern - Summer 2027 \ud83c\uddfa\ud83c\uddf8",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1"
     },
+    "caci::ai prompt engineer intern::7745630913d8": {
+      "company": "CACI",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI Prompt Engineer Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1"
+    },
     "caci::ai systems engineer intern summer 2027::9e01600b50b6": {
       "company": "CACI",
       "first_seen": "2026-09-23T19:40:08Z",
@@ -4718,11 +4732,25 @@
       "title": "Software Developer/Data Scientist Intern - Summer 2027",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120"
     },
+    "caci::software development engineer intern::2a9ad2fc8fc9": {
+      "company": "CACI",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Development/Engineer Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1"
+    },
     "caci::software development intern summer 2027::e2ecc6567359": {
       "company": "CACI",
       "first_seen": "2026-10-01T21:00:39Z",
       "source": "zshah101",
       "title": "Software Development Intern - Summer 2027 \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_332790"
+    },
+    "caci::software development intern::e2ecc6567359": {
+      "company": "CACI",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Development Intern",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_332790"
     },
     "caci::software engineer co op spring summer 2027::132ea993cbf2": {
@@ -6335,6 +6363,13 @@
       "title": "AI & Automation Development Intern",
       "url": "https://apply.workable.com/coretek-services/j/8D69C6C871/apply"
     },
+    "corgan::software development intern::459f8bfe7b66": {
+      "company": "Corgan",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Development Intern",
+      "url": "https://campus-us-corgan.icims.com/jobs/4109/job?mobile=true&needsRedirect=false"
+    },
     "corning::data analytics intern summer 2027::d2b6d64505a1": {
       "company": "Corning",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -6482,6 +6517,13 @@
       "title": "Technical Learning Solutions (TLS) Content Design Intern",
       "url": "https://corteva.wd5.myworkdayjobs.com/en-US/Corteva/job/Indianapolis-Indiana-United-States/Technical-Learning-Solutions--TLS--Content-Design-Intern_248164W"
     },
+    "costar group::embedded software engineer intern::2e319c77772a": {
+      "company": "CoStar Group",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950"
+    },
     "costar group::embedded software engineering intern::2e319c77772a": {
       "company": "CoStar Group",
       "first_seen": "2026-10-01T21:00:39Z",
@@ -6523,6 +6565,13 @@
       "source": "SimplifyJobs",
       "title": "Technology Intern",
       "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Technology-Intern---Arlington--VA--Summer-2027-_R39666"
+    },
+    "costar group::technology intern::4cb975765007": {
+      "company": "CoStar Group",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Technology Intern",
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945"
     },
     "costar group::technology intern::de40afca50b4": {
       "company": "CoStar Group",
@@ -6985,6 +7034,13 @@
       "source": "speedyapply",
       "title": "Software Engineering Intern - 2027 Start - Winter",
       "url": "https://databricks.com"
+    },
+    "datacor::data science intern summer 2027 program::8dc822b8b5bf": {
+      "company": "Datacor",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Data Science Intern - Summer 2027 - Program \ud83c\udf93",
+      "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007"
     },
     "datacor::data science summer 2027 internship program::8dc822b8b5bf": {
       "company": "Datacor \ud83c\udd81",
@@ -9002,6 +9058,13 @@
       "title": "Multifamily Capital Markets Analytics & Engineering Intern -  Summer 2027",
       "url": "https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Multifamily-Capital-Markets-Analytics---Engineering-Intern----Summer-2027_JR17690"
     },
+    "freddie mac::multifamily capital markets analytics engineering intern::be61b167039a": {
+      "company": "Freddie Mac",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Multifamily Capital Markets Analytics & Engineering Intern",
+      "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Capital-Markets-Analytics---Engineering-Intern----Summer-2027_JR17690"
+    },
     "freddie mac::multifamily digital product analysis intern summer 2027::83101b3de607": {
       "company": "Freddie Mac",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -9295,6 +9358,13 @@
       "source": "SimplifyJobs",
       "title": "Data Analyst Intern",
       "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297"
+    },
+    "gas south::software engineer intern::464aff5634aa": {
+      "company": "Gas South",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/gassouth/jobs/8247622"
     },
     "gas south::software engineering intern::464aff5634aa": {
       "company": "Gas South",
@@ -10176,6 +10246,13 @@
       "first_seen": "2026-10-01T21:00:39Z",
       "source": "zshah101",
       "title": "Software Engineer, Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005"
+    },
+    "glean::software engineer intern::255d92b29429": {
+      "company": "Glean",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005"
     },
     "globalfoundries::design application engineering intern::00afcb30ec9c": {
@@ -11081,6 +11158,13 @@
       "title": "Onboard Software Developer Intern",
       "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042"
     },
+    "hmh::ai automation development intern::d6fe06459ba1": {
+      "company": "HMH",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI & Automation Development Intern",
+      "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/AI---Automation-Development-Intern_JR102458"
+    },
     "hmh::digital services engineering intern::ce4df7c1019b": {
       "company": "HMH",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -11872,6 +11956,13 @@
       "title": "AI Software Engineer Intern - Artificial Intelligence \ud83c\udf93",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730"
     },
+    "intel::ai software technical intern::f1baca9e0577": {
+      "company": "Intel",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI Software Technical Intern \ud83c\udf93",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544"
+    },
     "intel::ai software technical intern::f59744da3c7d": {
       "company": "Intel",
       "first_seen": "2026-10-01T21:00:39Z",
@@ -11913,6 +12004,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern \ud83c\udf93",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
+    },
+    "intel::software engineering intern::0316eaac6775": {
+      "company": "Intel",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineering Intern \ud83c\udf93",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"
     },
     "intel::technology research 2d transistor engineer intern::f0641c815126": {
       "company": "Intel",
@@ -12012,6 +12110,13 @@
       "title": "Web Development Micro-Intern - Iap",
       "url": "https://job-boards.greenhouse.io/intersystems/jobs/7992646003"
     },
+    "intuit::business data analyst intern strategy planning::4159eed7817a": {
+      "company": "Intuit",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Business Data Analyst Intern - Strategy & Planning",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360"
+    },
     "intuit::mobile software engineer intern android::af115d035f35": {
       "company": "Intuit",
       "first_seen": "2026-09-15T04:39:42Z",
@@ -12046,6 +12151,20 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://simplify.jobs/c/Intuit"
+    },
+    "invesco::early career intern fixed income global technology::135684f77025": {
+      "company": "Invesco",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Early Career Intern - Fixed Income Global Technology",
+      "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1"
+    },
+    "invesco::early career intern fixed income global technology::1b7ff6ce553f": {
+      "company": "Invesco",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Early Career Intern - Fixed Income Global Technology",
+      "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621"
     },
     "invesco::early career intern technology::1e6077434da2": {
       "company": "Invesco",
@@ -12656,6 +12775,13 @@
       "title": "Engineering Intern",
       "url": "https://simplify.jobs/c/Keysight-Technologies-Inc"
     },
+    "keysight technologies::it engineering intern::3a80e1851328": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "IT Engineering Intern",
+      "url": "https://jobs.keysight.com/jobs/54649?icims=1"
+    },
     "keysight technologies::r d software engineer intern quantum computing::9e3e1c32ad0a": {
       "company": "Keysight Technologies",
       "first_seen": "2026-09-17T22:50:05Z",
@@ -12683,6 +12809,13 @@
       "source": "SimplifyJobs",
       "title": "Software Developer Intern",
       "url": "https://jobs.keysight.com/jobs/54638?icims=1"
+    },
+    "keysight technologies::software development intern::d93a7bbd2587": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Development Intern",
+      "url": "https://jobs.keysight.com/jobs/54671?icims=1"
     },
     "keysight technologies::software engineer intern factory automation::4ad4859bc03e": {
       "company": "Keysight Technologies",
@@ -13033,6 +13166,13 @@
       "source": "SimplifyJobs",
       "title": "Engineering Operations Intern",
       "url": "https://jobs.l3harris.com/job/Waco-Intern,-Engineering-Operations-TX-76705/1423785700/?ats=successfactors"
+    },
+    "l3harris technologies::image processing engineer intern::2795d6445ef9": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Image Processing Engineer Intern",
+      "url": "https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1412926700/?ats=successfactors"
     },
     "l3harris technologies::image science engineer intern::4057fa02255f": {
       "company": "L3Harris Technologies",
@@ -13460,6 +13600,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineering Intern",
       "url": "https://jobs.l3harris.com/job/Rochester-Software-Engineering-Intern-NY-14610/1428444000/?ats=successfactors"
+    },
+    "l3harris technologies::software engineering intern::5703cacd2d75": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.l3harris.com/job/Columbia-Software-Engineer-Intern-MD-21046/1425456300/?ats=successfactors"
     },
     "l3harris technologies::software engineering intern::accebc6d96e9": {
       "company": "L3Harris Technologies",
@@ -14076,6 +14223,13 @@
       "source": "speedyapply",
       "title": "Intern - Engineering Software",
       "url": "http://magna.com"
+    },
+    "magna::optics engineering intern::3ee41a9fba29": {
+      "company": "Magna",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Optics Engineering Intern",
+      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering-Optics_R00263366"
     },
     "magna::software engineer intern engineering software::b127e02fba4c": {
       "company": "Magna",
@@ -14931,6 +15085,27 @@
       "title": "Junior Software Engineer Co-op",
       "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Spring-2027-Jr-Software-Engineer-Co-op--January---June-_MFS-231979"
     },
+    "mfs::software data intern::5cee4e94b41a": {
+      "company": "MFS",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Data Intern",
+      "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231984"
+    },
+    "mfs::software engineer intern::f822cf5ef047": {
+      "company": "MFS",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231983"
+    },
+    "mfs::software engineer intern::f8e6b2a50515": {
+      "company": "MFS",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231985"
+    },
     "michelin::data engineering intern::62a0f13877ac": {
       "company": "Michelin",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -15322,6 +15497,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258"
+    },
+    "microsoft::software engineer security identity intern::9833be9d4041": {
+      "company": "Microsoft",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Security & Identity Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930"
     },
     "microsoft::software engineering intern ctj ts::51c83efbd695": {
       "company": "Microsoft",
@@ -16317,6 +16499,13 @@
       "title": "Data Science Intern",
       "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Science-Intern_R2008284"
     },
+    "njm insurance group::it data administration intern::f718fdece4b6": {
+      "company": "NJM Insurance Group",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "IT Data Administration Intern",
+      "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Administration-Intern_R2008309"
+    },
     "noblis::data science and innovation intern::2c05b6a6aaec": {
       "company": "Noblis",
       "first_seen": "2026-10-01T05:33:31Z",
@@ -16344,6 +16533,118 @@
       "source": "zshah101",
       "title": "AI R&D Engineer Co-op _(16 openings)_",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40677"
+    },
+    "nokia::ai r d engineer co op::04f6afba3991": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI R&D Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40692"
+    },
+    "nokia::ai r d engineer co op::26576452c3a4": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI R&D Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40702"
+    },
+    "nokia::ai r d engineer co op::47f9862fb618": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI R&D Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40693"
+    },
+    "nokia::ai r d engineer co op::4f3d0187d86c": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI R&D Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40699"
+    },
+    "nokia::ai r d engineer co op::5998bbc5f6ca": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI R&D Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40680"
+    },
+    "nokia::ai r d engineer co op::686819dc154c": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI R&D Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40689"
+    },
+    "nokia::ai r d engineer co op::935aa5fc84ce": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI R&D Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40690"
+    },
+    "nokia::ai r d engineer co op::a0dcaed3ed32": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI R&D Engineer Co-op",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40700"
+    },
+    "nokia::ai r d engineer co op::a9e36cfe7cac": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI R&D Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40677"
+    },
+    "nokia::ai r d engineer co op::bb45c6311b3b": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI R&D Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40682"
+    },
+    "nokia::ai r d engineer co op::bde92d555220": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI R&D Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40687"
+    },
+    "nokia::ai r d engineer co op::c341b06fbe60": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI R&D Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40701"
+    },
+    "nokia::ai r d engineer co op::c6f04149fee7": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI R&D Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40695"
+    },
+    "nokia::ai r d engineer co op::f654f623398e": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI R&D Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40698"
+    },
+    "nokia::ai research and development engineer co op::5446d59d44f1": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI Research and Development Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40685"
+    },
+    "nokia::ai research and development engineer co op::bb1563c621bb": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "AI Research and Development Engineer Co-op \ud83c\udf93",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40681"
     },
     "nokia::data analytics ai co op::908093cb4868": {
       "company": "Nokia",
@@ -16406,6 +16707,20 @@
       "first_seen": "2026-10-01T21:00:39Z",
       "source": "zshah101",
       "title": "Intern (Software Engineering)",
+      "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Intern--Software-Engineering-_REQ53006"
+    },
+    "nordson::software engineer intern::3ef3b263fe9f": {
+      "company": "Nordson",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Software-Intern_REQ52945"
+    },
+    "nordson::software engineer intern::bc1a50bce181": {
+      "company": "Nordson",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
       "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Intern--Software-Engineering-_REQ53006"
     },
     "nordson::software intern::3ef3b263fe9f": {
@@ -16828,6 +17143,13 @@
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359"
     },
+    "northrop grumman::software engineer intern::ba296c36c2e3": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10254007"
+    },
     "northrop grumman::software engineer intern::dbf6d6947833": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-01T05:33:31Z",
@@ -16967,6 +17289,13 @@
       "source": "SimplifyJobs",
       "title": "Engineering Co-op",
       "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Engineering-Co-op_R009487"
+    },
+    "novelis::analytics data consumption co op::d600e31b8447": {
+      "company": "Novelis",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Analytics & Data Consumption Co-op",
+      "url": "https://careers-novelis.icims.com/jobs/54350/job?mobile=true&needsRedirect=false"
     },
     "nrg energy::energy digital management intern::a7fca728af98": {
       "company": "NRG Energy",
@@ -17871,6 +18200,13 @@
       "title": "Software Systems Engineering Co-op - Image Guided Therapy Devices - IVUS Clinical Imaging Software Application",
       "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406"
     },
+    "philips::systems test engineering intern::6cf3135a56c2": {
+      "company": "Philips",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Systems Test Engineering Intern",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Test-Engineering---New-Kensington--PA---Summer-2027_591469"
+    },
     "phoebe::software engineering intern::a9bb0857c25d": {
       "company": "Phoebe",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -17925,6 +18261,13 @@
       "first_seen": "2026-10-01T21:00:39Z",
       "source": "zshah101",
       "title": "Software Engineer Intern 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577"
+    },
+    "pinterest::software engineer intern::7acc1dd85a23": {
+      "company": "Pinterest",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577"
     },
     "pinterest::software engineering intern 2027 toronto::43ef1f7cafcf": {
@@ -18150,6 +18493,13 @@
       "source": "SimplifyJobs",
       "title": "IT Data & Analytics Intern - Asset Demand & Procurement",
       "url": "https://mhicareers.com/job/Lake-Mary-IT-Data-&-Analytics-Intern-FL-32746/1429739133/?ats=successfactors"
+    },
+    "primient::digital data analytics intern::ca9e513aee08": {
+      "company": "Primient",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Digital Data & Analytics Intern",
+      "url": "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/Digital-Data---Analytics-Intern---Summer-2027_JREQ7011"
     },
     "principal financial group::data and analytics intern multiple teams::b79d159c0977": {
       "company": "Principal Financial Group",
@@ -18648,6 +18998,13 @@
       "title": "Quantitative Developer Internship - 2027 - New York",
       "url": "https://www.quantbot.com"
     },
+    "quantinuum::developer intern::5bb3d31c7356": {
+      "company": "Quantinuum",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Developer Intern \ud83c\udf93",
+      "url": "https://jobs.eu.lever.co/quantinuum/72ed2fcf-5236-4632-baac-1b001df7e84f/apply"
+    },
     "quantinuum::layout automation developer intern 993::4264980e0b64": {
       "company": "Quantinuum",
       "first_seen": "2026-09-14T02:04:51Z",
@@ -18702,6 +19059,13 @@
       "first_seen": "2026-09-28T05:06:00Z",
       "source": "zshah101",
       "title": "Internship - Scientific Software and Compilation",
+      "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008"
+    },
+    "quera computing::scientific software intern scientific software and compilation::eb61975c7630": {
+      "company": "QuEra Computing",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Scientific Software Intern - Scientific Software and Compilation",
       "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008"
     },
     "qumulo::software development engineer intern::0144c387bac8": {
@@ -19411,6 +19775,20 @@
       "title": "Software Engineering Intern - 2028 Grads",
       "url": "https://www.rilla.com/"
     },
+    "riot games::software engineer intern::39e9fe66a834": {
+      "company": "Riot Games",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/riotgamesup/jobs/8222015"
+    },
+    "riot games::software engineer intern::abecd28f8d82": {
+      "company": "Riot Games",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014"
+    },
     "riot games::software engineering intern summer 2027 remote::39e9fe66a834": {
       "company": "Riot Games \ud83c\udd81",
       "first_seen": "2026-10-01T21:00:39Z",
@@ -20020,6 +20398,13 @@
       "title": "Factory Enablement Digital Engineer Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473"
     },
+    "rtx::flight control software engineer intern::19446ad9aacb": {
+      "company": "RTX",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Flight Control Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974"
+    },
     "rtx::flight control software engineering intern summer 2027 open::19446ad9aacb": {
       "company": "RTX",
       "first_seen": "2026-10-01T21:00:39Z",
@@ -20292,6 +20677,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineering-Intern--Summer-2027-_01872775"
+    },
+    "rtx::software engineer intern::b9b21bf77cf8": {
+      "company": "RTX",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343"
     },
     "rtx::software engineer intern::bfdcdb0294bc": {
       "company": "RTX",
@@ -20775,6 +21167,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2/application?embed=true"
+    },
+    "sas::software development and testing intern::c45880689f6f": {
+      "company": "SAS",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Software Development and Testing Intern",
+      "url": "https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false"
     },
     "scale ai::software engineering intern summer 2027::dadaed3e236a": {
       "company": "Scale AI",
@@ -21958,6 +22357,13 @@
       "source": "Greenhouse:Stripe",
       "title": "Data Analyst, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194291"
+    },
+    "stripe::data scientist intern::63e5c18cdfb3": {
+      "company": "Stripe",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Data Scientist Intern \ud83c\udf93",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194283"
     },
     "stripe::high school internship software engineering summer 2027::421418ad6772": {
       "company": "Stripe",
@@ -23513,6 +23919,13 @@
       "title": "Summer 2027 Internship (Software) \ud83c\uddfa\ud83c\uddf8",
       "url": "https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac"
     },
+    "the federal reserve system::computer science and software engineering intern::8d11864b6736": {
+      "company": "The Federal Reserve System",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Computer Science and Software Engineering Intern",
+      "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637"
+    },
     "the federal reserve system::coop digital money and payments research development::d1942e68818b": {
       "company": "The Federal Reserve System",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -23520,12 +23933,33 @@
       "title": "Coop: Digital Money and Payments Research & Development",
       "url": "https://simplify.jobs/c/The-Federal-Reserve-System"
     },
+    "the federal reserve system::data science and business analytics intern::6a09701b2852": {
+      "company": "The Federal Reserve System",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Data Science and Business Analytics Intern",
+      "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609"
+    },
+    "the federal reserve system::data science intern::65156d5cf1df": {
+      "company": "The Federal Reserve System",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Data Science Intern",
+      "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634"
+    },
     "the federal reserve system::summer 2027 intern cloud engineering::3f4acdb65c1f": {
       "company": "The Federal Reserve System",
       "first_seen": "2026-10-01T21:00:39Z",
       "source": "zshah101",
       "title": "Summer 2027 Intern-Cloud Engineering \ud83d\udec2",
       "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Cloud-Engineering_R-0000033614"
+    },
+    "the federal reserve system::summer 2027 intern computer science and software engineering::a1ba6d51655d": {
+      "company": "The Federal Reserve System",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "zshah101",
+      "title": "Summer 2027 Intern-Computer Science and Software Engineering \ud83d\udec2",
+      "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637"
     },
     "the friedkin group::it data analytics intern business systems ai::ecb31937bd07": {
       "company": "The Friedkin Group",
@@ -25830,6 +26264,13 @@
       "title": "Data Analyst Intern - College to Corporate IT",
       "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767"
     },
+    "vanguard::data product analyst co op::2a92f26e6949": {
+      "company": "Vanguard",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Data Product Analyst Co-op",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Data-Product-Analyst-Co-op_182921"
+    },
     "vanguard::data science intern college to corporate it::11ca37127f08": {
       "company": "Vanguard",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -25892,6 +26333,13 @@
       "source": "SimplifyJobs",
       "title": "AI & Automation Engineering Intern - Summer 2027",
       "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101"
+    },
+    "veeam software::competitive intelligence ai engineer intern::649ed42d8820": {
+      "company": "Veeam Software",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Competitive Intelligence AI Engineer Intern",
+      "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101"
     },
     "veeam software::data analytics programs intern::11fc2d6e0bfc": {
       "company": "Veeam Software",
@@ -26662,6 +27110,13 @@
       "source": "zshah101",
       "title": "Quantic \u2013 Quantitative Developer Intern (Summer 2027)",
       "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006"
+    },
+    "walleye capital::special projects developer intern summer 2027::ac1fe35b60ff": {
+      "company": "Walleye Capital",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "zshah101",
+      "title": "Special Projects Developer Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006"
     },
     "walmart::data science intern 3::be41b171dc89": {
       "company": "Walmart",
@@ -27664,6 +28119,13 @@
       "title": "Software Engineer - Intern",
       "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455"
     },
+    "zoll medical::operations engineering co op::6ee607296d72": {
+      "company": "ZOLL Medical",
+      "first_seen": "2026-10-02T05:20:49Z",
+      "source": "SimplifyJobs",
+      "title": "Operations Engineering Co-op",
+      "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Pittsburgh-PA/Operations-Engineering-Co-Op---Spring-Summer_R20411"
+    },
     "zoom::software developer engineer intern::4e5e284f537b": {
       "company": "Zoom",
       "first_seen": "2026-09-25T23:16:53Z",
@@ -27693,5 +28155,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-10-01T21:00:39Z"
+  "updated": "2026-10-02T05:20:49Z"
 }
