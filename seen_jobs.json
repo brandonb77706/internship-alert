@@ -1281,6 +1281,13 @@
       "title": "Software Programmer Intern",
       "url": "https://www.amentum.com"
     },
+    "ameren::digital co op::96931adbaeb0": {
+      "company": "Ameren",
+      "first_seen": "2026-10-04T19:31:02Z",
+      "source": "SimplifyJobs",
+      "title": "Digital Co-op",
+      "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1"
+    },
     "ameren::intern robotics ai ot software development::8584ec972671": {
       "company": "Ameren",
       "first_seen": "2026-09-25T19:59:59Z",
@@ -7490,6 +7497,13 @@
       "title": "Software Engineering Co-op",
       "url": "https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc/apply"
     },
+    "diversified energy::information technology intern::5908dad481dc": {
+      "company": "Diversified Energy",
+      "first_seen": "2026-10-04T19:31:02Z",
+      "source": "SimplifyJobs",
+      "title": "Information Technology Intern",
+      "url": "https://careers.div.energy/jobs/2734?icims=1"
+    },
     "docusign::software engineering intern self service directory diagnostics::9f18e3e0ca06": {
       "company": "Docusign",
       "first_seen": "2026-10-03T19:11:49Z",
@@ -10269,6 +10283,20 @@
       "title": "2027 Summer Intern - Software Engineer - Autonomous Vehicle: Simulation",
       "url": "https://www.gm.com"
     },
+    "general motors::2027 summer intern software engineer av ai platform::d2f8dc650264": {
+      "company": "General Motors",
+      "first_seen": "2026-10-04T19:31:02Z",
+      "source": "speedyapply",
+      "title": "2027 Summer Intern - Software Engineer - AV/AI Platform",
+      "url": "https://www.gm.com"
+    },
+    "general motors::2027 summer intern software verification engineer av ai platform::d2f8dc650264": {
+      "company": "General Motors",
+      "first_seen": "2026-10-04T19:31:02Z",
+      "source": "speedyapply",
+      "title": "2027 Summer Intern - Software Verification Engineer - AV/AI Platform",
+      "url": "https://www.gm.com"
+    },
     "general motors::ai ml engineer intern autonomous vehicle simulation::ba87d3e321bf": {
       "company": "General Motors",
       "first_seen": "2026-10-02T14:42:15Z",
@@ -12264,6 +12292,13 @@
       "title": "Software Systems Engineer Intern - JobID-0304",
       "url": "https://idtus.com"
     },
+    "innovative defense technologies::software systems engineer intern::9ab3476a6fd3": {
+      "company": "Innovative Defense Technologies",
+      "first_seen": "2026-10-04T19:31:02Z",
+      "source": "speedyapply",
+      "title": "Software Systems Engineer Intern",
+      "url": "https://idtus.com"
+    },
     "innovative defense technologies::software test engineer intern jobid 0296::9ab3476a6fd3": {
       "company": "Innovative Defense Technologies",
       "first_seen": "2026-10-02T20:38:30Z",
@@ -12851,6 +12886,13 @@
       "source": "zshah101",
       "title": "Software/Controls Engineering Grad Intern (Fall Intern)",
       "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1"
+    },
+    "johnson controls::software controls engineering grad intern fall intern::fb6c27951de3": {
+      "company": "Johnson Controls",
+      "first_seen": "2026-10-04T19:31:02Z",
+      "source": "speedyapply",
+      "title": "Software/Controls Engineering Grad Intern - Fall Intern",
+      "url": "https://www.johnsoncontrols.com"
     },
     "johnson controls::software controls engineering grad intern::02e929fe4bac": {
       "company": "Johnson Controls",
@@ -15889,6 +15931,13 @@
       "source": "SimplifyJobs",
       "title": "Product Test Engineer Intern - DRAM",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Prodcut-Test-Engineer-Intern_JR109996"
+    },
+    "micron technology::semiconductor research technology development intern::2ca9d74db40b": {
+      "company": "Micron Technology",
+      "first_seen": "2026-10-04T19:31:02Z",
+      "source": "SimplifyJobs",
+      "title": "Semiconductor Research & Technology Development Intern \ud83c\udf93",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876"
     },
     "micron technology::soc rtl design engineer intern hbm::65c0a89c642e": {
       "company": "Micron Technology",
@@ -21986,6 +22035,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2/application?embed=true"
+    },
+    "sas::software developer in test intern::a945a30a7da6": {
+      "company": "SAS",
+      "first_seen": "2026-10-04T19:31:02Z",
+      "source": "speedyapply",
+      "title": "Software Developer in Test Intern",
+      "url": "https://www.sas.com/"
     },
     "sas::software development and testing intern::c45880689f6f": {
       "company": "SAS",
@@ -29100,5 +29156,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-10-04T13:54:45Z"
+  "updated": "2026-10-04T19:31:02Z"
 }
