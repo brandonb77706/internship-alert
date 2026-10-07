@@ -4340,6 +4340,13 @@
       "title": "Equipment Engineering Software Engineer Intern",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584306"
     },
+    "boston scientific::r d research data science intern::6f7c7b7d1356": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-10-07T15:30:13Z",
+      "source": "SimplifyJobs",
+      "title": "R&D Research Data Science Intern \ud83c\udf93",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813667382"
+    },
     "boston scientific::software development engineer co op::2726aae8c630": {
       "company": "Boston Scientific",
       "first_seen": "2026-09-29T10:36:47Z",
@@ -12852,6 +12859,13 @@
       "title": "Embedded Software Engineering Co-op",
       "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Engineering--January-June-2027--Onsite-_REQ-2026-17966"
     },
+    "insulet::embedded software test engineering co op::dcc30abb5c4a": {
+      "company": "Insulet",
+      "first_seen": "2026-10-07T15:30:13Z",
+      "source": "SimplifyJobs",
+      "title": "Embedded Software Test Engineering Co-op",
+      "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012"
+    },
     "insulet::intern devops engineer june august 2027 onsite::5ce26612e602": {
       "company": "Insulet",
       "first_seen": "2026-09-24T19:58:54Z",
@@ -13237,6 +13251,13 @@
       "title": "Information Technology Intern - Technology",
       "url": "https://johndeere.eightfold.ai/careers/job/137482633322"
     },
+    "johns hopkins applied physics laboratory::acoustic algorithm development engineer intern::c924f12f491f": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-10-07T15:30:13Z",
+      "source": "SimplifyJobs",
+      "title": "Acoustic Algorithm Development Engineer Intern",
+      "url": "https://careers.jhuapl.edu/jobs/59784?icims=1"
+    },
     "johns hopkins applied physics laboratory::ai and autonomous systems engineer intern::a1eeaafc3b89": {
       "company": "Johns Hopkins Applied Physics Laboratory",
       "first_seen": "2026-09-16T13:26:06Z",
@@ -13264,6 +13285,13 @@
       "source": "SimplifyJobs",
       "title": "Cyber Physical Systems Intern",
       "url": "https://careers.jhuapl.edu/jobs/60339?icims=1"
+    },
+    "johns hopkins applied physics laboratory::cyber software engineer intern capabilities development::beb472f904d1": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-10-07T15:30:13Z",
+      "source": "SimplifyJobs",
+      "title": "Cyber Software Engineer Intern - Capabilities Development",
+      "url": "https://careers.jhuapl.edu/jobs/59779?icims=1"
     },
     "johns hopkins applied physics laboratory::data scientist intern data science system performance evaluation::c3eb7e10c4fe": {
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -15568,6 +15596,20 @@
       "title": "Product Engineer Intern",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839-1"
     },
+    "marvell::security verification validation engineer intern::4ebb9981136e": {
+      "company": "Marvell",
+      "first_seen": "2026-10-07T15:30:13Z",
+      "source": "SimplifyJobs",
+      "title": "Security Verification/Validation Engineer Intern",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1"
+    },
+    "marvell::security verification validation engineer intern::e9bfd571d56c": {
+      "company": "Marvell",
+      "first_seen": "2026-10-07T15:30:13Z",
+      "source": "SimplifyJobs",
+      "title": "Security Verification/Validation Engineer Intern",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148"
+    },
     "marvell::sram software engineer intern bs summer 2027::324ea3e88f24": {
       "company": "Marvell",
       "first_seen": "2026-09-19T18:35:02Z",
@@ -16211,6 +16253,13 @@
       "source": "SimplifyJobs",
       "title": "Python Software Engineer Co-op",
       "url": "https://simplify.jobs/c/Meridian-Partners"
+    },
+    "meta::data scientist intern product analytics::47a887353dd7": {
+      "company": "Meta",
+      "first_seen": "2026-10-07T15:30:13Z",
+      "source": "SimplifyJobs",
+      "title": "Data Scientist Intern - Product Analytics",
+      "url": "https://www.metacareers.com/jobs/929757023499411"
     },
     "meta::data scientist intern product analytics::748e3385b2b7": {
       "company": "Meta",
@@ -22022,6 +22071,13 @@
       "title": "Display Systems Engineering Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917"
     },
+    "rtx::display systems engineering co op::9154b8751e42": {
+      "company": "RTX",
+      "first_seen": "2026-10-07T15:30:13Z",
+      "source": "SimplifyJobs",
+      "title": "Display Systems Engineering Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-op--Spring-Summer-2027----Onsite_01870090"
+    },
     "rtx::embedded software engineer intern::4947c6fb8663": {
       "company": "RTX",
       "first_seen": "2026-10-01T15:23:49Z",
@@ -22652,6 +22708,13 @@
       "title": "Systems Engineering Intern - Integration and Test",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Systems-Engineering-Intern---Integration-and-Test--Onsite_01874598"
     },
+    "rtx::systems engineering test equipment intern::60c60e63ca08": {
+      "company": "RTX",
+      "first_seen": "2026-10-07T15:30:13Z",
+      "source": "SimplifyJobs",
+      "title": "Systems Engineering Test Equipment Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01879955"
+    },
     "rtx::test engineering intern::e8d33f2d9f79": {
       "company": "RTX",
       "first_seen": "2026-09-29T18:03:19Z",
@@ -22687,12 +22750,33 @@
       "title": "Cyber Security Analyst- Intern",
       "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107256"
     },
+    "s c electric company::electronics engineer intern::0a92f130e7d7": {
+      "company": "S&C Electric Company",
+      "first_seen": "2026-10-07T15:30:13Z",
+      "source": "SimplifyJobs",
+      "title": "Electronics Engineer Intern",
+      "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107358"
+    },
     "s c electric company::software engineer co op::951c6e1cb2d5": {
       "company": "S&C Electric Company",
       "first_seen": "2026-09-29T23:38:22Z",
       "source": "SimplifyJobs",
       "title": "Software Engineer Co-op",
       "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107307"
+    },
+    "s c electric company::software engineer intern::c2d6e20e9e24": {
+      "company": "S&C Electric Company",
+      "first_seen": "2026-10-07T15:30:13Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374"
+    },
+    "s c electric company::test equipment engineering and maintenance intern::1360e6a8dd9d": {
+      "company": "S&C Electric Company",
+      "first_seen": "2026-10-07T15:30:13Z",
+      "source": "SimplifyJobs",
+      "title": "Test Equipment Engineering and Maintenance Intern",
+      "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107368"
     },
     "s c electric company::test equipment maintenance engineer intern::78141f92f17f": {
       "company": "S&C Electric Company",
@@ -25017,6 +25101,20 @@
       "source": "SimplifyJobs",
       "title": "Software Intern",
       "url": "https://simplify.jobs/c/TensorWave"
+    },
+    "tenstorrent::ai software intern::170846a890fb": {
+      "company": "Tenstorrent",
+      "first_seen": "2026-10-07T15:30:13Z",
+      "source": "zshah101",
+      "title": "AI Software Intern",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007"
+    },
+    "tenstorrent::ai sw intern cloud infrastruc ture data centre deployment::fdec43a91081": {
+      "company": "Tenstorrent",
+      "first_seen": "2026-10-07T15:30:13Z",
+      "source": "zshah101",
+      "title": "AI SW Intern, Cloud, Infrastruc\u200bture & Data Centre Deployment",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007"
     },
     "terranova::software engineer intern::082a3e370038": {
       "company": "Terranova",
@@ -30206,5 +30304,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-10-07T05:39:03Z"
+  "updated": "2026-10-07T15:30:13Z"
 }
