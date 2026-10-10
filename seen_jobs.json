@@ -378,6 +378,13 @@
       "title": "Robotics Engineering Co-op",
       "url": "https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008"
     },
+    "affirm::it engineer intern early careers summer 2027::f903e15d6283": {
+      "company": "Affirm",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "Greenhouse:Affirm",
+      "title": "IT Engineer Intern (Early Careers Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003"
+    },
     "affirm::software engineer intern summer 2027::a4a90400c7e7": {
       "company": "Affirm",
       "first_seen": "2026-10-03T19:11:49Z",
@@ -1770,6 +1777,13 @@
       "source": "SimplifyJobs",
       "title": "Data Analyst Intern",
       "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615"
+    },
+    "american family insurance group::data analyst intern::fd5d6985ff6a": {
+      "company": "American Family Insurance Group",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "Data Analyst Intern",
+      "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404"
     },
     "american family insurance group::data analytics intern::014926412933": {
       "company": "American Family Insurance Group",
@@ -3240,6 +3254,13 @@
       "source": "SimplifyJobs",
       "title": "Data and Computer Engineering/Computer Science Intern",
       "url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false"
+    },
+    "barry wehmiller::software engineering intern dal::144ceb711862": {
+      "company": "Barry-Wehmiller",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern - DAL",
+      "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133"
     },
     "bascom hunter::software engineering intern baton rouge la frederick md::5ac78d8eb847": {
       "company": "Bascom Hunter",
@@ -10332,6 +10353,13 @@
       "title": "Fund Data Reporting and Analytics Intern",
       "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8003490003"
     },
+    "gcm grosvenor::software engineer intern::ef1b8877a097": {
+      "company": "GCM Grosvenor",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003"
+    },
     "gdit::gdit summer internship program summer 2027 ai ml software development and engineering internship::d3e7d96ec9e9": {
       "company": "GDIT",
       "first_seen": "2026-09-29T00:21:43Z",
@@ -11046,6 +11074,13 @@
       "title": "Autonomous Driving Software Engineer Intern",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064"
     },
+    "general motors::data scaling intern data scaling embodied ai::df71be231e2b": {
+      "company": "General Motors",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "Data Scaling Intern - Data Scaling - Embodied AI \ud83c\udf93",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132"
+    },
     "general motors::embedded and systems engineering intern digital product::65a69a9c218f": {
       "company": "General Motors",
       "first_seen": "2026-09-22T04:35:26Z",
@@ -11360,6 +11395,13 @@
       "source": "SimplifyJobs",
       "title": "RF Technology Development Automation Engineer Intern - Summer 2027",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/RF-Technology-Development-Automation-Engineering-Intern--Summer-2027-_JR-2604272"
+    },
+    "globalfoundries::software engineer intern::92450538a320": {
+      "company": "GlobalFoundries",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039"
     },
     "globalfoundries::systems engineer intern::f4859272f969": {
       "company": "GlobalFoundries",
@@ -12046,6 +12088,13 @@
       "source": "zshah101",
       "title": "Software Development Intern",
       "url": "https://job-boards.greenhouse.io/haigroup/jobs/4409386009"
+    },
+    "harbinger motors::test engineering intern::05db30730b23": {
+      "company": "Harbinger Motors",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "Test Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007"
     },
     "harman international::intern customer engineering::760d11b718ed": {
       "company": "HARMAN International",
@@ -13608,12 +13657,33 @@
       "title": "Data Science Intern - Distributed Intelligence",
       "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2"
     },
+    "itron::hr ai data science intern::4e4e80a75403": {
+      "company": "Itron",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "HR AI Data Science Intern",
+      "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034-1"
+    },
+    "itron::hr ai data science intern::6bb7811d10cc": {
+      "company": "Itron",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "HR AI Data Science Intern",
+      "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034"
+    },
     "itron::intern data science distributed intelligence::d2b8af79a150": {
       "company": "Itron",
       "first_seen": "2026-09-30T05:18:52Z",
       "source": "zshah101",
       "title": "Intern - Data Science, Distributed Intelligence",
       "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2"
+    },
+    "itron::intern hr ai data science summer 2027::4e4e80a75403": {
+      "company": "Itron",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "zshah101",
+      "title": "Intern - HR AI Data Science (Summer 2027)",
+      "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034-1"
     },
     "itt::data analytics ai intern summer 2027::8fb54c7b5d77": {
       "company": "ITT",
@@ -13860,6 +13930,13 @@
       "title": "Data Science Co-op - Summer 2027",
       "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746"
     },
+    "johnson johnson::digital automation co op::27ae2f2f1332": {
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "Digital Automation Co-op",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Digital-Automation-Co-Op_R-098537"
+    },
     "johnson johnson::heart recovery software r d co op::f50285f3f013": {
       "company": "Johnson & Johnson",
       "first_seen": "2026-09-24T19:58:54Z",
@@ -13873,6 +13950,13 @@
       "source": "SimplifyJobs",
       "title": "Project Delivery Digital Engineering & Property Services Co-op",
       "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Project-Delivery-Digital-Engineering---Property-Services-Co-Op_R-096717"
+    },
+    "johnson johnson::proteins cell engineering analytics screening automation co op::5f7484c22154": {
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "Proteins Cell Engineering, Analytics & Screening Automation Co-op",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/TDS-Proteins-CEAS-Automation-Co-Op_R-098580"
     },
     "johnson johnson::quality data science co op md q c digital solutions::d48890cbbc3b": {
       "company": "Johnson & Johnson",
@@ -15119,6 +15203,13 @@
       "source": "zshah101",
       "title": "Intern - Software Developer \ud83d\udec2",
       "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Developer_2632330"
+    },
+    "later::data analytics co op::822f0ef96032": {
+      "company": "Later",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "Data & Analytics Co-op",
+      "url": "https://job-boards.greenhouse.io/later/jobs/8880737002"
     },
     "lawrence livermore national laboratory llnl::data science institute graduate student intern summer 2027::5b1059b59f91": {
       "company": "Lawrence Livermore National Laboratory (LLNL)",
@@ -19508,6 +19599,13 @@
       "source": "SimplifyJobs",
       "title": "Product Management MBA Intern - Data Center GPU \ud83c\udf93",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1"
+    },
+    "nvidia::research intern world models and synthetic data for autonomous driving::123500d95d73": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "Research Intern - World Models and Synthetic Data for Autonomous Driving \ud83c\udf93",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1"
     },
     "nvidia::software engineer intern::b29cf82bb7d5": {
       "company": "NVIDIA",
@@ -25921,6 +26019,13 @@
       "title": "Site Reliability Engineer - SRE Intern \u2014 AI Infrastructure",
       "url": "https://www.tencent.com"
     },
+    "tenet3::software developer intern full stack::b8733005c924": {
+      "company": "Tenet3",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "Software Developer Intern - Full Stack",
+      "url": "https://job-boards.greenhouse.io/tenet3/jobs/8878874002"
+    },
     "tensorwave::developer community engagement intern::4fc917d71095": {
       "company": "TensorWave",
       "first_seen": "2026-10-06T18:17:55Z",
@@ -30275,6 +30380,13 @@
       "title": "Computer Science Internship Summer 2027",
       "url": "https://wavetronix.breezy.hr/p/565668353504-computer-science-internship-summer-2027"
     },
+    "wawa::information technology development intern::5b3e018bc881": {
+      "company": "Wawa",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "Information Technology Development Intern",
+      "url": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392"
+    },
     "waymo::2027 summer intern bs ms embedded software engineer::b5b86263149b": {
       "company": "Waymo",
       "first_seen": "2026-09-22T04:35:26Z",
@@ -30961,6 +31073,27 @@
       "title": "Product Development Intern",
       "url": "https://careers-wipfli.icims.com/jobs/8307/job?mobile=true&needsRedirect=false"
     },
+    "workday::machine learning engineer intern::e9f60a890757": {
+      "company": "Workday",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812"
+    },
+    "workday::software application development engineer intern::a7f1f88d675b": {
+      "company": "Workday",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "Software Application Development Engineer Intern",
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811"
+    },
+    "workday::software engineer intern::d461d5662214": {
+      "company": "Workday",
+      "first_seen": "2026-10-10T05:35:09Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810"
+    },
     "workiva::summer 2027 intern machine learning engineering::cf45c0f3137c": {
       "company": "Workiva \ud83c\udd81",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -31277,5 +31410,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-10-09T20:47:06Z"
+  "updated": "2026-10-10T05:35:09Z"
 }
