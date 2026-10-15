@@ -8575,6 +8575,13 @@
       "title": "Data Engineer / Data Platform Engineer Intern",
       "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer---Data-Platform-Engineer-Internship-Spring-2027-Semester-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2068792"
     },
+    "dow::2026 2027 campus internship information technology::dc88dca6030e": {
+      "company": "Dow",
+      "first_seen": "2026-10-15T19:51:26Z",
+      "source": "Workday:Dow",
+      "title": "2026\u20132027 Campus Internship \u2013 Information Technology",
+      "url": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Internship---Information-Technology_R2068953"
+    },
     "dow::2026 2027 campus internship research development bs ms::fc68508ba051": {
       "company": "Dow",
       "first_seen": "2026-09-29T23:38:22Z",
@@ -16597,6 +16604,13 @@
       "title": "Software Engineering Co-op",
       "url": "https://careers.lutron.com/jobs/5616?icims=1"
     },
+    "lutron::summer 2027 embedded software engineering intern lehigh valley pa::f5edd8863714": {
+      "company": "Lutron",
+      "first_seen": "2026-10-15T19:51:26Z",
+      "source": "speedyapply",
+      "title": "Summer 2027 - Embedded Software Engineering Intern - Lehigh Valley - PA",
+      "url": "https://www.lutron.com"
+    },
     "lutron::summer 2027 software engineering intern austin tx::f5edd8863714": {
       "company": "Lutron",
       "first_seen": "2026-10-14T20:09:45Z",
@@ -18802,6 +18816,13 @@
       "title": "GNC Software Engineering Intern (Summer 2027)",
       "url": "https://job-boards.greenhouse.io/muonspace/jobs/5252680007"
     },
+    "muon space::ground software engineering intern summer 2027::96b1c86ee42f": {
+      "company": "Muon Space",
+      "first_seen": "2026-10-15T19:51:26Z",
+      "source": "zshah101",
+      "title": "Ground Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007"
+    },
     "muon::flight software engineering intern summer 2027::19bdceaf1800": {
       "company": "Muon",
       "first_seen": "2026-10-01T21:00:39Z",
@@ -20916,6 +20937,13 @@
       "title": "Validation Engineer Intern",
       "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506611"
     },
+    "opengov::intern software engineer::4e728134ea64": {
+      "company": "OpenGov",
+      "first_seen": "2026-10-15T19:51:26Z",
+      "source": "zshah101",
+      "title": "Intern, Software Engineer",
+      "url": "https://jobs.ashbyhq.com/opengov/35c2d853-b6ab-4ba7-a6f7-ffb4cfc22f7b"
+    },
     "opengov::intern software engineer::6a3d6635f581": {
       "company": "OpenGov",
       "first_seen": "2026-09-15T04:39:42Z",
@@ -22728,6 +22756,13 @@
       "source": "speedyapply",
       "title": "Software Engineering Intern - Android",
       "url": "https://ramp.com"
+    },
+    "ramp::software engineering intern frontend::19d6e74b7b7c": {
+      "company": "Ramp",
+      "first_seen": "2026-10-15T19:51:26Z",
+      "source": "Ashby:Ramp",
+      "title": "Software Engineering Intern, Frontend",
+      "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74"
     },
     "ramp::software engineering intern ios::6cc2b881b967": {
       "company": "Ramp",
@@ -24583,6 +24618,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613"
+    },
+    "rtx::software engineering co op spring summer 2027 2 openings::845f2ad78ea4": {
+      "company": "RTX",
+      "first_seen": "2026-10-15T19:51:26Z",
+      "source": "zshah101",
+      "title": "Software Engineering Co-op (Spring/Summer 2027) _(2 openings)_",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726"
     },
     "rtx::software engineering co op spring summer 2027::845f2ad78ea4": {
       "company": "RTX",
@@ -33013,5 +33055,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-10-15T13:20:28Z"
+  "updated": "2026-10-15T19:51:26Z"
 }
