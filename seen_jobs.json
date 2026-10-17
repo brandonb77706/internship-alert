@@ -455,6 +455,20 @@
       "title": "AI & Data Science Intern",
       "url": "https://careers.agcocorp.com/job/Champaign-AI-&-Data-Science-Intern-Spring-2027-IL/1440146300/?ats=successfactors"
     },
+    "agco::embedded software engineer intern::4e20d6a7d791": {
+      "company": "AGCO",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors"
+    },
+    "agzen::software engineer co op::67f7ece2d630": {
+      "company": "AgZen",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Co-op",
+      "url": "https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a/application?embed=true"
+    },
     "ai intern to the ceo::engineering intern software swe machine learning ml::0857b9944f2f": {
       "company": "AI Intern to the CEO",
       "first_seen": "2026-09-14T20:17:56Z",
@@ -1883,6 +1897,13 @@
       "title": "Data Analytics Intern",
       "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631"
     },
+    "american family insurance group::data engineering data science intern::5e356b7b2c8d": {
+      "company": "American Family Insurance Group",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Data Engineering / Data Science Intern",
+      "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674"
+    },
     "american family insurance group::enterprise data intern enablement service support::2a03d2d2f476": {
       "company": "American Family Insurance Group",
       "first_seen": "2026-10-16T04:16:30Z",
@@ -3240,6 +3261,13 @@
       "source": "zshah101",
       "title": "Hypersonic RF Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
       "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993"
+    },
+    "avav::software engineering intern::028262b8de80": {
+      "company": "Avav",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "zshah101",
+      "title": "Software Engineering Intern",
+      "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Software-Engineering-Intern_9094"
     },
     "avav::software engineering intern::2a4dadbc00b5": {
       "company": "Avav",
@@ -4823,6 +4851,13 @@
       "title": "IT Data Services Co-op",
       "url": "https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26157"
     },
+    "boston scientific::ai data science intern::7e60dcdc660d": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "AI/Data Science Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129"
+    },
     "boston scientific::data engineer intern::f8e005503b23": {
       "company": "Boston Scientific",
       "first_seen": "2026-09-22T04:35:26Z",
@@ -6180,6 +6215,13 @@
       "source": "SimplifyJobs",
       "title": "Technical Intern",
       "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD--1_JR108363-1"
+    },
+    "centurylink::data internship analytics decision science::31846818495f": {
+      "company": "CenturyLink",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Data Internship - Analytics & Decision Science",
+      "url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors"
     },
     "cesiumastro::embedded software engineer intern::1748f5e60a96": {
       "company": "CesiumAstro",
@@ -12152,6 +12194,13 @@
       "title": "Design Application Engineering Intern",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Design-Application-Engineering-Intern--Summer-2027-_JR-2604221"
     },
+    "globalfoundries::research account management field application engineering support intern::1d9abc38ad95": {
+      "company": "GlobalFoundries",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Research Account Management & Field Application Engineering Support Intern",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/GF-Labs-Research-AM-and-FAE-support-Intern--Summer-2027--_JR-2604431"
+    },
     "globalfoundries::rf technology development automation engineer intern summer 2027::104366032b58": {
       "company": "GlobalFoundries",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -13992,6 +14041,13 @@
       "source": "SimplifyJobs",
       "title": "Avionics Electric Propulsion Engineering Intern",
       "url": "https://impulsespace.pinpointhq.com/en/postings/e3b63a8a-129f-4ffa-abe9-fde35e6e6974?ats=pinpointhq"
+    },
+    "impulse space::enterprise software engineer intern::717134a57671": {
+      "company": "Impulse Space",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Enterprise Software Engineer Intern",
+      "url": "https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq"
     },
     "impulse space::flight embedded software engineering intern summer 2027::883860e39caa": {
       "company": "Impulse Space",
@@ -20776,6 +20832,13 @@
       "title": "Software Engineer Intern - Navigation Intelligence and Connectivity Division",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150"
     },
+    "northrop grumman::software engineer intern::1c245d22a482": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243"
+    },
     "northrop grumman::software engineer intern::28f9f42cfb21": {
       "company": "Northrop Grumman",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -20789,6 +20852,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"
+    },
+    "northrop grumman::software engineer intern::324e0a91fa41": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393"
     },
     "northrop grumman::software engineer intern::5af91a67255a": {
       "company": "Northrop Grumman",
@@ -20804,12 +20874,26 @@
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
     },
+    "northrop grumman::software engineer intern::77cc338c7634": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077"
+    },
     "northrop grumman::software engineer intern::785b3e032986": {
       "company": "Northrop Grumman",
       "first_seen": "2026-09-24T04:28:58Z",
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359"
+    },
+    "northrop grumman::software engineer intern::97c2d68ad51f": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259"
     },
     "northrop grumman::software engineer intern::ba296c36c2e3": {
       "company": "Northrop Grumman",
@@ -20831,6 +20915,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772"
+    },
+    "northrop grumman::software engineering intern::77f81aeee088": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineering Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080"
     },
     "northrop grumman::systems engineer intern::4af2f24d19b2": {
       "company": "Northrop Grumman",
@@ -21762,6 +21853,13 @@
       "source": "SimplifyJobs",
       "title": "Engineering Support Specialist Intern - Electronic Materials and Devices Department - Applied Research Laboratory",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Support-Specialist-Intern_REQ_0000081764-2"
+    },
+    "pennsylvania state university::r d engineer intern::86291ef64eb4": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "R&D Engineer Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000082444-1"
     },
     "pennsylvania state university::r d engineer intern::da8c9198113d": {
       "company": "Pennsylvania State University",
@@ -25396,12 +25494,61 @@
       "title": "Robotics Software Intern Co-op",
       "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005"
     },
+    "ryan::application development intern::099a4bf8e77f": {
+      "company": "Ryan",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Application Development Intern",
+      "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Development_R0020820"
+    },
+    "ryan::application development intern::c0452db90c9c": {
+      "company": "Ryan",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Application Development Intern",
+      "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Application-Development_R0020820-1"
+    },
+    "ryan::software development intern::c96723c16c7f": {
+      "company": "Ryan",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Development Intern",
+      "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"
+    },
+    "ryan::software development intern::eee496737458": {
+      "company": "Ryan",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Development Intern",
+      "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822"
+    },
+    "ryan::software engineer intern::552f261cb7b6": {
+      "company": "Ryan",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843"
+    },
+    "ryan::software engineer intern::60db83ca60e6": {
+      "company": "Ryan",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1"
+    },
     "ryan::summer 2027 intern software development::c96723c16c7f": {
       "company": "Ryan",
       "first_seen": "2026-10-16T22:46:55Z",
       "source": "zshah101",
       "title": "Summer 2027 Intern, Software Development",
       "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"
+    },
+    "ryan::summer 2027 intern software engineering::60db83ca60e6": {
+      "company": "Ryan",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "zshah101",
+      "title": "Summer 2027 Intern, Software Engineering",
+      "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1"
     },
     "s c electric company::cyber security analyst intern::3a1b2835a2c2": {
       "company": "S&C Electric Company",
@@ -31178,6 +31325,13 @@
       "title": "Digital Innovation & Learning Technology Intern",
       "url": "https://studentemployment-stthomas.icims.com/jobs/9527/job?mobile=true&needsRedirect=false"
     },
+    "university of texas at austin::research assistant remote sensing intern uav satellite image processing computer science::6550313a90c2": {
+      "company": "University of Texas at Austin",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Research Assistant: Remote Sensing Intern - UAV/Satellite Image Processing - Computer Science",
+      "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Research-Assistant--Remote-Sensing--UAV-Satellite-Image-Processing--and-Computer-Science_R_00049490"
+    },
     "upbound group::digital commerce intern::6840c4a6dd49": {
       "company": "Upbound Group",
       "first_seen": "2026-09-21T15:05:29Z",
@@ -31520,6 +31674,13 @@
       "source": "SimplifyJobs",
       "title": "Competitive Intelligence AI Engineer Intern",
       "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101"
+    },
+    "veeam software::data analytics engineering intern::955419a1aa55": {
+      "company": "Veeam Software",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Data & Analytics Engineering Intern",
+      "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101"
     },
     "veeam software::data analytics programs intern::11fc2d6e0bfc": {
       "company": "Veeam Software",
@@ -32767,6 +32928,13 @@
       "title": "Software Engineer Intern - Metadata Enablement Team",
       "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000152679699"
     },
+    "wellmark::software engineer intern technology health plan::d6231fdf4af6": {
+      "company": "Wellmark",
+      "first_seen": "2026-10-17T04:06:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Technology Health Plan",
+      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000156043218"
+    },
     "wellmark::software engineer intern technology healthcare innovation::2620cac187af": {
       "company": "Wellmark",
       "first_seen": "2026-09-22T04:35:26Z",
@@ -33643,5 +33811,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-10-16T22:46:55Z"
+  "updated": "2026-10-17T04:06:26Z"
 }
