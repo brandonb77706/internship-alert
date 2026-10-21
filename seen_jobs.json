@@ -2793,6 +2793,13 @@
       "title": "2027 Software Engineering Intern - Masters - Santa Clara - CA",
       "url": "https://www.appliedmaterials.com"
     },
+    "applied materials::2027 summer intern software engineer bachelors degree santa clara::5e5b5f6956ad": {
+      "company": "Applied Materials",
+      "first_seen": "2026-10-21T13:42:22Z",
+      "source": "zshah101",
+      "title": "2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara)",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672"
+    },
     "applied materials::data analyst intern global technical learning center::7091e9da70b4": {
       "company": "Applied Materials",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -4920,6 +4927,13 @@
       "source": "Workday:BorgWarner",
       "title": "Electric Machine Design Engineering Intern",
       "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/Borgwarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040"
+    },
+    "borgwarner::emc design engineer intern year round::a54e79c6ff07": {
+      "company": "BorgWarner",
+      "first_seen": "2026-10-21T13:42:22Z",
+      "source": "Workday:BorgWarner",
+      "title": "EMC Design Engineer Intern (Year-Round)",
+      "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/Borgwarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152"
     },
     "borgwarner::quality engineering intern::0ba6ee158386": {
       "company": "BorgWarner",
@@ -22351,6 +22365,20 @@
       "title": "Systems Software Engineering Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
     },
+    "nvidia::systems software intern aerial phy summer 2027::e9848d4d06ec": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-21T13:42:22Z",
+      "source": "zshah101",
+      "title": "Systems Software Intern, Aerial PHY- Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530"
+    },
+    "nvidia::systems software intern aerial phy::e9848d4d06ec": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-21T13:42:22Z",
+      "source": "SimplifyJobs",
+      "title": "Systems Software Intern - Aerial PHY \ud83c\udf93",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530"
+    },
     "nxp semiconductors::data analytics engineer intern summer 2027::d80f7ffadaca": {
       "company": "NXP Semiconductors",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -25788,6 +25816,13 @@
       "title": "Intern - Embedded Controls Engineering \ud83d\udec2",
       "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2"
     },
+    "rockwell automation::intern embedded controls engineering::d7d347a4a398": {
+      "company": "Rockwell Automation",
+      "first_seen": "2026-10-21T13:42:22Z",
+      "source": "zshah101",
+      "title": "Intern - Embedded Controls Engineering \ud83d\udec2",
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-1"
+    },
     "rockwell automation::product management intern digital client::2d935674e1c5": {
       "company": "Rockwell Automation",
       "first_seen": "2026-10-01T05:33:31Z",
@@ -27475,6 +27510,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply"
     },
+    "shield ai::summer 2027 data science intern r6324::5dec8462fd41": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-21T13:42:22Z",
+      "source": "zshah101",
+      "title": "Summer 2027 - Data Science Intern (R6324)",
+      "url": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797"
+    },
     "shield ai::summer 2027 software engineer intern::8a1774baaabc": {
       "company": "Shield AI",
       "first_seen": "2026-09-14T02:04:51Z",
@@ -28168,12 +28210,26 @@
       "title": "Data Science Intern - AI Center of Excellence",
       "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1"
     },
+    "smith nephew::intern agentic ai software engineering::30bd25e331f8": {
+      "company": "Smith+Nephew",
+      "first_seen": "2026-10-21T13:42:22Z",
+      "source": "zshah101",
+      "title": "Intern Agentic AI Software Engineering",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953"
+    },
     "smith nephew::intern ai center of excellence data science::60174a2a2840": {
       "company": "Smith+Nephew",
       "first_seen": "2026-09-17T13:21:52Z",
       "source": "zshah101",
       "title": "Intern AI Center of Excellence Data Science",
       "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1"
+    },
+    "smith nephew::intern embedded software engineering::4180940a1380": {
+      "company": "Smith+Nephew",
+      "first_seen": "2026-10-21T13:42:22Z",
+      "source": "zshah101",
+      "title": "Intern Embedded Software Engineering",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952"
     },
     "smith nephew::intern robotics software engineering::aaf82defc162": {
       "company": "Smith+Nephew",
@@ -32683,6 +32739,13 @@
       "title": "Information Technology - Development and Infrastruc\u200bture Internship (hybrid)",
       "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155"
     },
+    "trustage::information technology development and infrastructure intern::23db57449378": {
+      "company": "TruStage",
+      "first_seen": "2026-10-21T13:42:22Z",
+      "source": "SimplifyJobs",
+      "title": "Information Technology Development and Infrastructure Intern",
+      "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155"
+    },
     "ttm technologies::software engineering intern summer 2027::8de08ff9afdf": {
       "company": "TTM Technologies",
       "first_seen": "2026-09-29T18:03:19Z",
@@ -35512,5 +35575,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-10-21T04:26:10Z"
+  "updated": "2026-10-21T13:42:22Z"
 }
