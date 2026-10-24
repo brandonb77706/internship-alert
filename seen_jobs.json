@@ -1288,6 +1288,13 @@
       "title": "Software Development Engineer Intern - Amazon Leo - Summer 2027 - USA",
       "url": "https://www.amazon.com"
     },
+    "amazon::software development engineer intern amazon leo summer 2027 usa::ba2d752066d8": {
+      "company": "Amazon",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "zshah101",
+      "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa"
+    },
     "amazon::software development engineer intern annapurna labs 2027::2abad19a6d63": {
       "company": "Amazon",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -3387,6 +3394,13 @@
       "source": "zshah101",
       "title": "Internship - Software Quality Assurance _(2 openings)_",
       "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562"
+    },
+    "asml::platform software engineer in test internship::1f5e56bc8f06": {
+      "company": "ASML",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "zshah101",
+      "title": "Platform Software Engineer In Test ( Internship)",
+      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558"
     },
     "asml::software engineer in test intern mod::786746356014": {
       "company": "ASML",
@@ -6916,6 +6930,13 @@
       "title": "AI Security Software Engineer Intern - Summer 2027",
       "url": "https://www.cmu.edu"
     },
+    "carrier global::software engineer intern::7a254af85a5b": {
+      "company": "Carrier Global",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588"
+    },
     "carrier::software engineering intern summer::eb7badeec7c7": {
       "company": "Carrier",
       "first_seen": "2026-10-16T19:32:25Z",
@@ -7714,6 +7735,34 @@
       "title": "Software Engineer Security & Automation 1 - Intern",
       "url": "https://simplify.jobs/c/Cisco"
     },
+    "citi::technology analyst intern application development::f4af084aadb4": {
+      "company": "Citi",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "SimplifyJobs",
+      "title": "Technology Analyst Intern - Application Development",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418"
+    },
+    "citi::technology summer analyst intern application development::e4cdca942bbd": {
+      "company": "Citi",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "SimplifyJobs",
+      "title": "Technology Summer Analyst Intern - Application Development",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395"
+    },
+    "citi::technology summer analyst intern application development::efc0c48ba62b": {
+      "company": "Citi",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "SimplifyJobs",
+      "title": "Technology Summer Analyst Intern - Application Development",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288"
+    },
+    "citi::technology summer analyst intern production support::5d919c73603e": {
+      "company": "Citi",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "SimplifyJobs",
+      "title": "Technology Summer Analyst Intern - Production Support",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Production-Support--Summer-Analyst--Tampa---USA--2027_261003298"
+    },
     "citizens financial group::cloud engineer summer 2027 intern enterprise technology security summer internship program::9f991a313427": {
       "company": "Citizens Financial Group",
       "first_seen": "2026-09-14T02:04:51Z",
@@ -8511,6 +8560,13 @@
       "source": "SimplifyJobs",
       "title": "AI & Data Automation Developer Co-op",
       "url": "https://apply.workable.com/coretek-services/j/21D19CC253/apply"
+    },
+    "coretek services::data consultant co op::cd6f34cfa7f5": {
+      "company": "Coretek Services",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "SimplifyJobs",
+      "title": "Data Consultant Co-op",
+      "url": "https://apply.workable.com/coretek-services/j/BD2FA6BDD9/apply"
     },
     "corewell health::digital services development support and operations internship::c663790f5e7b": {
       "company": "Corewell Health",
@@ -11829,6 +11885,20 @@
       "source": "SimplifyJobs",
       "title": "AI Automation Engineering Co-op \ud83c\udf93",
       "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002"
+    },
+    "flagship pioneering::ai ml engineering co op sage platform::24ead1378ef9": {
+      "company": "Flagship Pioneering",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "SimplifyJobs",
+      "title": "AI/ML Engineering Co-op - SAGE Platform",
+      "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002"
+    },
+    "flagship pioneering::bioinformatics data engineering co op::23f0d7d38d43": {
+      "company": "Flagship Pioneering",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "SimplifyJobs",
+      "title": "Bioinformatics Data Engineering Co-op",
+      "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002"
     },
     "flagship pioneering::data science co op embedded science team::876f60480057": {
       "company": "Flagship Pioneering",
@@ -15623,6 +15693,13 @@
       "source": "speedyapply",
       "title": "2027 Summer Intern - Software Engineer - Reston - VA",
       "url": "https://www.icf.com"
+    },
+    "id me::analytics engineer intern::8af131511ce4": {
+      "company": "ID.me",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "SimplifyJobs",
+      "title": "Analytics Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003"
     },
     "id me::software development engineer intern::c322ad9f3c38": {
       "company": "ID.me",
@@ -27944,6 +28021,13 @@
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879721"
     },
+    "rtx::software engineer intern::2fed85458d95": {
+      "company": "RTX",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01884054"
+    },
     "rtx::software engineer intern::34a656c0219e": {
       "company": "RTX",
       "first_seen": "2026-09-16T19:33:44Z",
@@ -28062,6 +28146,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineering-Intern--Summer-2027-_01872775"
+    },
+    "rtx::software engineer intern::7f3526fe7c3d": {
+      "company": "RTX",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineering-Intern---Summer-2027-_01884375"
     },
     "rtx::software engineer intern::986038d111b0": {
       "company": "RTX",
@@ -28916,6 +29007,13 @@
       "source": "Greenhouse:Samsara",
       "title": "Account Development Representative Intern - Atlanta",
       "url": "https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119"
+    },
+    "samsara::account development representative intern phoenix::cef40591f871": {
+      "company": "Samsara",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "Greenhouse:Samsara",
+      "title": "Account Development Representative Intern - Phoenix",
+      "url": "https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784"
     },
     "samsara::account development representative intern phoenix::d9521abc5e97": {
       "company": "Samsara",
@@ -29917,6 +30015,13 @@
       "source": "zshah101",
       "title": "Embedded Software Engineer Intern - Winer 2027",
       "url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34"
+    },
+    "skydio::embedded software engineer intern::2382916e90bb": {
+      "company": "Skydio",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "SimplifyJobs",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366/application?embed=true"
     },
     "skydio::embedded software engineer intern::4be66a25a3da": {
       "company": "Skydio",
@@ -31079,6 +31184,13 @@
       "source": "SimplifyJobs",
       "title": "Data Science Intern",
       "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1"
+    },
+    "sun life::data science intern::cf03ce4fd827": {
+      "company": "Sun Life",
+      "first_seen": "2026-10-24T04:20:07Z",
+      "source": "SimplifyJobs",
+      "title": "Data Science Intern",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666"
     },
     "super::data analytics intern::0b14656f469f": {
       "company": "Super",
@@ -37738,5 +37850,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-10-23T23:03:47Z"
+  "updated": "2026-10-24T04:20:07Z"
 }
