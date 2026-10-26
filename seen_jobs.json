@@ -8995,6 +8995,13 @@
       "title": "Software Engineer Intern",
       "url": "https://simplify.jobs/c/Confluent"
     },
+    "connectprep::data analyst intern::2678ce086fc0": {
+      "company": "ConnectPrep",
+      "first_seen": "2026-10-26T04:26:59Z",
+      "source": "vanshb03",
+      "title": "Data Analyst Intern",
+      "url": "https://go.vansh.nyc/BG?s=y"
+    },
     "connectprep::data analyst intern::e76d4741da0e": {
       "company": "ConnectPrep",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -15868,6 +15875,20 @@
       "source": "zshah101",
       "title": "AI & HPC Performance Engineering Intern",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397"
+    },
+    "hewlett packard enterprise::ai ml developer intern::173a69bcb04b": {
+      "company": "Hewlett Packard Enterprise",
+      "first_seen": "2026-10-26T04:26:59Z",
+      "source": "zshah101",
+      "title": "AI/ML Developer Intern",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413"
+    },
+    "hewlett packard enterprise::ai ml developer intern::a597b00a2823": {
+      "company": "Hewlett Packard Enterprise",
+      "first_seen": "2026-10-26T04:26:59Z",
+      "source": "vanshb03",
+      "title": "AI/ML Developer Intern",
+      "url": "https://go.vansh.nyc/BM?s=y"
     },
     "hewlett packard enterprise::ai performance engineering intern::0e62f5b9f05a": {
       "company": "Hewlett Packard Enterprise",
@@ -31885,6 +31906,27 @@
       "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning",
       "url": "https://go.vansh.nyc/BA?s=y"
     },
+    "skydio::autonomy engineer intern deep learning computer vision::0743fd139444": {
+      "company": "Skydio",
+      "first_seen": "2026-10-26T04:26:59Z",
+      "source": "SimplifyJobs",
+      "title": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
+      "url": "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true"
+    },
+    "skydio::autonomy engineer intern deep learning computer vision::5b8bc97077be": {
+      "company": "Skydio",
+      "first_seen": "2026-10-26T04:26:59Z",
+      "source": "vanshb03",
+      "title": "Autonomy Engineer Intern, Deep Learning / Computer Vision",
+      "url": "https://go.vansh.nyc/BL?s=y"
+    },
+    "skydio::autonomy engineer intern::b4c160c1b288": {
+      "company": "Skydio",
+      "first_seen": "2026-10-26T04:26:59Z",
+      "source": "vanshb03",
+      "title": "Autonomy Engineer Intern",
+      "url": "https://go.vansh.nyc/BH?s=y"
+    },
     "skydio::embedded software engineer intern summer 2027::470984b332ac": {
       "company": "Skydio",
       "first_seen": "2026-10-14T20:09:45Z",
@@ -40062,5 +40104,5 @@
       "url": "https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true"
     }
   },
-  "updated": "2026-10-25T18:53:57Z"
+  "updated": "2026-10-26T04:26:59Z"
 }
