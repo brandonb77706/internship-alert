@@ -1092,6 +1092,13 @@
       "title": "Summer Intern - Software Engineering - Quality Assurance",
       "url": "https://www.allegion.com"
     },
+    "allegion::summer intern software engineering quality assurance::666e425519b1": {
+      "company": "Allegion",
+      "first_seen": "2026-10-30T15:01:26Z",
+      "source": "zshah101",
+      "title": "Summer Intern \u2013 Software Engineering \u2013 Quality Assurance",
+      "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1"
+    },
     "allegion::summer intern software engineering quality assurance::7e04aa708603": {
       "company": "Allegion",
       "first_seen": "2026-10-01T05:33:31Z",
@@ -7742,6 +7749,13 @@
       "title": "Software Engineer Intern",
       "url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002"
     },
+    "c3 ai::software engineer intern::47da7f022631": {
+      "company": "C3.ai",
+      "first_seen": "2026-10-30T15:01:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002"
+    },
     "caci::ai prompt engineer high school intern summer 2027::7745630913d8": {
       "company": "CACI",
       "first_seen": "2026-10-01T21:00:39Z",
@@ -13824,6 +13838,13 @@
       "source": "speedyapply",
       "title": "Intern - IT Software Engineer - Summer - 2027",
       "url": "http://www.fglife.com"
+    },
+    "f g::it software engineer intern summer::8ca59da1f3cc": {
+      "company": "F&G",
+      "first_seen": "2026-10-30T15:01:26Z",
+      "source": "SimplifyJobs",
+      "title": "IT Software Engineer Intern - Summer",
+      "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003"
     },
     "f5::developer experience intern::32fb3da981ed": {
       "company": "F5",
@@ -25753,6 +25774,13 @@
       "title": "AI Engineering Intern",
       "url": "https://careers.mitre.org/us/en/job/R117620/AI-Engineering-Intern"
     },
+    "mitre::data science and engineering intern::7b69408499f5": {
+      "company": "MITRE",
+      "first_seen": "2026-10-30T15:01:26Z",
+      "source": "vanshb03",
+      "title": "Data Science and Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://go.vansh.nyc/10t?s=y"
+    },
     "mks instruments::software engineer intern::9125efe46d43": {
       "company": "MKS Instruments",
       "first_seen": "2026-09-24T04:28:58Z",
@@ -26900,6 +26928,13 @@
       "source": "SimplifyJobs",
       "title": "Data Warehouse & Analytics Intern",
       "url": "https://nbtbancorp.wd12.myworkdayjobs.com/NBT-B/job/Williamsville-NY/Internship---Data-Warehouse---Analytics-Consultant_JR4868"
+    },
+    "ncino::software engineer intern::82ec6e05b621": {
+      "company": "Ncino",
+      "first_seen": "2026-10-30T15:01:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009"
     },
     "ncr atleos::data science intern::f0f6f6aa263c": {
       "company": "NCR Atleos",
@@ -36092,6 +36127,13 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399"
     },
+    "sk hynix::research intern loop engineering::f831be35cd4a": {
+      "company": "SK hynix",
+      "first_seen": "2026-10-30T15:01:26Z",
+      "source": "SimplifyJobs",
+      "title": "Research Intern - Loop Engineering",
+      "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4435645009"
+    },
     "skillz::co op software engineer::37db37b711eb": {
       "company": "Skillz",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -43050,6 +43092,13 @@
       "title": "Software Engineer Co-op",
       "url": "https://job-boards.greenhouse.io/vestmark/jobs/8204509"
     },
+    "vestmark::software engineer co op::bfa794c46aec": {
+      "company": "Vestmark",
+      "first_seen": "2026-10-30T15:01:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/internrecruiting/jobs/8204511"
+    },
     "veterans united home loans::software engineer intern::d02be5a3da10": {
       "company": "Veterans United Home Loans",
       "first_seen": "2026-10-23T19:56:45Z",
@@ -43609,6 +43658,13 @@
       "source": "SimplifyJobs",
       "title": "Quantitative Developer Intern",
       "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009"
+    },
+    "voyager technologies::software engineer intern::4901c3d6481a": {
+      "company": "Voyager Technologies",
+      "first_seen": "2026-10-30T15:01:26Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009"
     },
     "voyager technologies::software engineering intern::3dbb5cb6c144": {
       "company": "Voyager Technologies",
@@ -45375,5 +45431,5 @@
       "url": "https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a"
     }
   },
-  "updated": "2026-10-30T05:30:38Z"
+  "updated": "2026-10-30T15:01:26Z"
 }
