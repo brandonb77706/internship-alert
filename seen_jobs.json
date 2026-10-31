@@ -17745,6 +17745,13 @@
       "title": "Web App Developer Co-op",
       "url": "https://gsk-us-earlytalent.icims.com/jobs/11013/job?mobile=true&needsRedirect=false"
     },
+    "gti energy::data science intern::ff93c37e102a": {
+      "company": "GTI Energy",
+      "first_seen": "2026-10-31T23:17:49Z",
+      "source": "vanshb03",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/12t?s=y"
+    },
     "guardian life::application development intern digital technology::011ab5144bfb": {
       "company": "Guardian Life",
       "first_seen": "2026-09-14T14:59:10Z",
@@ -27734,12 +27741,26 @@
       "title": "Intern - Software Engineer - Platform Security - NTD",
       "url": "https://careers.nintendo.com"
     },
+    "nintendo::software engineer intern audio::4fbdd5bfb55a": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T23:17:49Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Audio",
+      "url": "https://go.vansh.nyc/12n?s=y"
+    },
     "nintendo::software engineer intern audio::8d7f1e5ac77d": {
       "company": "Nintendo",
       "first_seen": "2026-10-31T19:53:23Z",
       "source": "vanshb03",
       "title": "Software Engineer Intern, Audio",
       "url": "https://careers.nintendo.com/?gh_jid=4470048009"
+    },
+    "nintendo::software engineer intern connectivity::1cc5d0c8c324": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T23:17:49Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Connectivity",
+      "url": "https://go.vansh.nyc/12p?s=y"
     },
     "nintendo::software engineer intern connectivity::85caed05506c": {
       "company": "Nintendo",
@@ -27748,12 +27769,26 @@
       "title": "Software Engineer Intern, Connectivity",
       "url": "https://careers.nintendo.com/?gh_jid=4472147009"
     },
+    "nintendo::software engineer intern cpu debugger::57d2fc81be73": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T23:17:49Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, CPU Debugger",
+      "url": "https://go.vansh.nyc/12k?s=y"
+    },
     "nintendo::software engineer intern cpu debugger::8b15521bb3e2": {
       "company": "Nintendo",
       "first_seen": "2026-10-31T19:53:23Z",
       "source": "vanshb03",
       "title": "Software Engineer Intern, CPU Debugger",
       "url": "https://careers.nintendo.com/?gh_jid=4471972009"
+    },
+    "nintendo::software engineer intern cpu profiler::5ee230b94739": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T23:17:49Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, CPU Profiler",
+      "url": "https://go.vansh.nyc/12l?s=y"
     },
     "nintendo::software engineer intern cpu profiler::7729b14851cd": {
       "company": "Nintendo",
@@ -27769,12 +27804,26 @@
       "title": "Software Engineer Intern, DevOps",
       "url": "https://careers.nintendo.com/?gh_jid=4472002009"
     },
+    "nintendo::software engineer intern devops::e23d1581b00f": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T23:17:49Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, DevOps",
+      "url": "https://go.vansh.nyc/12m?s=y"
+    },
     "nintendo::software engineer intern graphics::d35e3b0bbf8b": {
       "company": "Nintendo",
       "first_seen": "2026-10-31T05:16:32Z",
       "source": "vanshb03",
       "title": "Software Engineer Intern, Graphics",
       "url": "https://go.vansh.nyc/121?s=y"
+    },
+    "nintendo::software engineer intern performance tools::3afe4778da21": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T23:17:49Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Performance Tools",
+      "url": "https://go.vansh.nyc/12q?s=y"
     },
     "nintendo::software engineer intern performance tools::90bd6672126a": {
       "company": "Nintendo",
@@ -27789,6 +27838,13 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Platform Security",
       "url": "https://careers.nintendo.com/?gh_jid=4469778009"
+    },
+    "nintendo::software engineer intern platform security::d2aba1b8267f": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T23:17:49Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Platform Security",
+      "url": "https://go.vansh.nyc/12o?s=y"
     },
     "nisource::software engineer intern::3f67fe0cede3": {
       "company": "NiSource",
@@ -38353,6 +38409,13 @@
       "title": "System Engineer Intern",
       "url": "https://jobs.stryten.com/jobs/5799?icims=1"
     },
+    "students plus startups::vroom power software engineering intern::c387d8fef22c": {
+      "company": "Students Plus Startups",
+      "first_seen": "2026-10-31T23:17:49Z",
+      "source": "vanshb03",
+      "title": "Vroom Power Software Engineering Intern",
+      "url": "https://go.vansh.nyc/12s?s=y"
+    },
     "stv::data engineer intern::459948207b63": {
       "company": "STV",
       "first_seen": "2026-10-13T23:43:37Z",
@@ -43967,6 +44030,13 @@
       "title": "Data Science Intern",
       "url": "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004"
     },
+    "virginia tech applied research corporation::research intern applied ai software development::02805d9729b1": {
+      "company": "Virginia Tech Applied Research Corporation",
+      "first_seen": "2026-10-31T23:17:49Z",
+      "source": "vanshb03",
+      "title": "Research Intern, Applied AI & Software Development",
+      "url": "https://go.vansh.nyc/12r?s=y"
+    },
     "virtu financial::2027 internship frontend engineer ui::0501e59953d9": {
       "company": "Virtu Financial",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -46250,5 +46320,5 @@
       "url": "https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a"
     }
   },
-  "updated": "2026-10-31T19:53:23Z"
+  "updated": "2026-10-31T23:17:49Z"
 }
