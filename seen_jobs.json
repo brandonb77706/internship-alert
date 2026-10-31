@@ -1736,6 +1736,13 @@
       "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
       "url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027"
     },
+    "amazon::software development engineer intern machine learning automated reasoning summer 2027::680f3fd13637": {
+      "company": "Amazon",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "speedyapply",
+      "title": "Software Development Engineer Intern - Machine Learning/Automated Reasoning- Summer 2027",
+      "url": "https://www.amazon.com"
+    },
     "amazon::software development engineer intern machine learning automated reasoning::d4a3780b4f8d": {
       "company": "Amazon",
       "first_seen": "2026-10-30T20:40:38Z",
@@ -8554,6 +8561,13 @@
       "title": "AI Security Software Engineer Intern - Summer 2027",
       "url": "https://www.cmu.edu"
     },
+    "carnegie mellon university::full stack software development intern::d09700256566": {
+      "company": "Carnegie Mellon University",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "speedyapply",
+      "title": "Full-Stack Software Development Intern",
+      "url": "https://www.cmu.edu"
+    },
     "carrier global::software engineer intern::437b003c1ebf": {
       "company": "Carrier Global",
       "first_seen": "2026-10-25T13:09:49Z",
@@ -14462,6 +14476,13 @@
       "title": "Data Engineer Intern",
       "url": "https://go.vansh.nyc/11I?s=y"
     },
+    "firework::data engineer intern::7ecd78c140e5": {
+      "company": "Firework",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "zshah101",
+      "title": "Data Engineer Intern",
+      "url": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09"
+    },
     "first american::software engineering intern 2 openings::c5df78fafae1": {
       "company": "First American \ud83c\udd81",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -18291,6 +18312,13 @@
       "title": "HPC/AI Systems Service Process Improvement Engineer Intern",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402"
     },
+    "hewlett packard enterprise::software engineering intern::6b69aed042c9": {
+      "company": "Hewlett Packard Enterprise",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern",
+      "url": "https://hpe.com/"
+    },
     "hewlett packard enterprise::software engineering intern::aa0c717d5965": {
       "company": "Hewlett Packard Enterprise",
       "first_seen": "2026-10-31T05:16:32Z",
@@ -18989,6 +19017,13 @@
       "first_seen": "2026-10-29T21:01:58Z",
       "source": "speedyapply",
       "title": "Software Product Security Intern - HP IQ",
+      "url": "https://www.hp.com"
+    },
+    "hp::software quality assurance intern::3e1ba2c5742c": {
+      "company": "HP",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "speedyapply",
+      "title": "Software Quality Assurance Intern",
       "url": "https://www.hp.com"
     },
     "hp::software systems intern hp iq::3e1ba2c5742c": {
@@ -27671,11 +27706,25 @@
       "title": "Intern - Software Engineer - CPU Profiler - NTD",
       "url": "https://careers.nintendo.com"
     },
+    "nintendo::intern software engineer graphics ntd::23d39e6c197b": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "speedyapply",
+      "title": "Intern - Software Engineer - Graphics - NTD",
+      "url": "https://careers.nintendo.com"
+    },
     "nintendo::intern software engineer multimedia ntd::23d39e6c197b": {
       "company": "Nintendo",
       "first_seen": "2026-10-29T21:01:58Z",
       "source": "speedyapply",
       "title": "Intern - Software Engineer - Multimedia - NTD",
+      "url": "https://careers.nintendo.com"
+    },
+    "nintendo::intern software engineer performance tools ntd::23d39e6c197b": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "speedyapply",
+      "title": "Intern - Software Engineer - Performance Tools - NTD",
       "url": "https://careers.nintendo.com"
     },
     "nintendo::intern software engineer platform security ntd::23d39e6c197b": {
@@ -27685,12 +27734,61 @@
       "title": "Intern - Software Engineer - Platform Security - NTD",
       "url": "https://careers.nintendo.com"
     },
+    "nintendo::software engineer intern audio::8d7f1e5ac77d": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Audio",
+      "url": "https://careers.nintendo.com/?gh_jid=4470048009"
+    },
+    "nintendo::software engineer intern connectivity::85caed05506c": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Connectivity",
+      "url": "https://careers.nintendo.com/?gh_jid=4472147009"
+    },
+    "nintendo::software engineer intern cpu debugger::8b15521bb3e2": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, CPU Debugger",
+      "url": "https://careers.nintendo.com/?gh_jid=4471972009"
+    },
+    "nintendo::software engineer intern cpu profiler::7729b14851cd": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, CPU Profiler",
+      "url": "https://careers.nintendo.com/?gh_jid=4469762009"
+    },
+    "nintendo::software engineer intern devops::d637672e108f": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, DevOps",
+      "url": "https://careers.nintendo.com/?gh_jid=4472002009"
+    },
     "nintendo::software engineer intern graphics::d35e3b0bbf8b": {
       "company": "Nintendo",
       "first_seen": "2026-10-31T05:16:32Z",
       "source": "vanshb03",
       "title": "Software Engineer Intern, Graphics",
       "url": "https://go.vansh.nyc/121?s=y"
+    },
+    "nintendo::software engineer intern performance tools::90bd6672126a": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Performance Tools",
+      "url": "https://careers.nintendo.com/?gh_jid=4473568009"
+    },
+    "nintendo::software engineer intern platform security::251571653ba1": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Platform Security",
+      "url": "https://careers.nintendo.com/?gh_jid=4469778009"
     },
     "nisource::software engineer intern::3f67fe0cede3": {
       "company": "NiSource",
@@ -29932,6 +30030,13 @@
       "title": "Embedded Software Engineering Intern",
       "url": "https://www.otis.com"
     },
+    "otto engineering::embedded software intern communications summer 2027::f3b87ccc115f": {
+      "company": "Otto Engineering",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "speedyapply",
+      "title": "Embedded Software Intern - Communications - Summer 2027",
+      "url": "https://www.ottoexcellence.com"
+    },
     "otto engineering::embedded software intern communications::9e47e05d0595": {
       "company": "OTTO Engineering",
       "first_seen": "2026-10-31T05:16:32Z",
@@ -31100,6 +31205,13 @@
       "source": "SimplifyJobs",
       "title": "Applied AI Engineer Intern",
       "url": "https://jobs.ashbyhq.com/pressw/3b69cc30-a47b-4cd2-a27c-763b8f65c8e3/application?embed=true"
+    },
+    "pretium::2027 ai data innovation summer internship::5198d19a4284": {
+      "company": "Pretium",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "zshah101",
+      "title": "2027 AI, Data & Innovation Summer Internship",
+      "url": "https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002"
     },
     "priceline::software engineering full stack northeastern co op::1f22abd09035": {
       "company": "Priceline",
@@ -40334,6 +40446,13 @@
       "title": "Backend Engineering Intern, Wirecutter",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005"
     },
+    "the new york times::backend engineering intern wirecutter::c0e18484bb8a": {
+      "company": "The New York Times",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "speedyapply",
+      "title": "Backend Engineering Intern - Wirecutter",
+      "url": "https://www.nytco.com/"
+    },
     "the new york times::backend engineering intern wirecutter::d4a3780b4f8d": {
       "company": "The New York Times",
       "first_seen": "2026-10-30T20:40:38Z",
@@ -45423,6 +45542,13 @@
       "title": "Software Engineer Intern - AI & Cloud \ud83c\udf93",
       "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546"
     },
+    "wex::software engineer intern::040ac78dff15": {
+      "company": "WEX",
+      "first_seen": "2026-10-31T19:53:23Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern",
+      "url": "https://www.wexinc.com"
+    },
     "wex::software engineer intern::2d8c673002b5": {
       "company": "Wex \ud83c\udd81",
       "first_seen": "2026-10-30T20:40:38Z",
@@ -46124,5 +46250,5 @@
       "url": "https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a"
     }
   },
-  "updated": "2026-10-31T14:29:53Z"
+  "updated": "2026-10-31T19:53:23Z"
 }
