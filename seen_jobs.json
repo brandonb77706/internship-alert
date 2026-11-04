@@ -602,6 +602,20 @@
       "title": "2027 Embedded Software Engineering Undergrad Intern",
       "url": "https://aerospace.org"
     },
+    "aerospace::2027 software engineering grad intern::66dc28765f87": {
+      "company": "Aerospace",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "2027 Software Engineering Grad Intern",
+      "url": "https://aerospace.org"
+    },
+    "aerospace::2027 software engineering undergrad intern::66dc28765f87": {
+      "company": "Aerospace",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "2027 Software Engineering Undergrad Intern",
+      "url": "https://aerospace.org"
+    },
     "aerospace::2027 software tools and assurance engineering grad intern::66dc28765f87": {
       "company": "Aerospace",
       "first_seen": "2026-10-13T23:43:37Z",
@@ -2576,6 +2590,13 @@
       "title": "Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722"
     },
+    "american express::cybersecurity ai engineer intern enterprise technology services::4247028660e1": {
+      "company": "American Express",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Cybersecurity AI Engineer Intern - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065"
+    },
     "american express::data analytics intern enterprise technology services::023a4efad4b6": {
       "company": "American Express",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -3913,6 +3934,13 @@
       "title": "Summer 2027 Global Technical Learning Center Data Analyst Intern- Bachelor's/Master's (Albany, NY)",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551"
     },
+    "applied materials::summer 2027 software engineer intern bachelor s master s santa clara ca::9091b748a7f9": {
+      "company": "Applied Materials",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "Summer 2027 Software Engineer Intern- Bachelor's/Master's - Santa Clara - CA",
+      "url": "https://www.appliedmaterials.com"
+    },
     "applied materials::summer 2027 software engineer intern bachelor s master s santa clara ca::c4846d313f5f": {
       "company": "Applied Materials",
       "first_seen": "2026-11-03T11:49:47Z",
@@ -4185,6 +4213,13 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1dK?s=y"
+    },
+    "arrowstreet capital::software engineer intern::efded5531e45": {
+      "company": "Arrowstreet Capital",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561"
     },
     "arthur j gallagher co::data analytics intern::fae17da713ae": {
       "company": "Arthur J. Gallagher & Co.",
@@ -4654,6 +4689,13 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1bg?s=y"
+    },
+    "astro mechanica::software engineering intern::2a80fc513600": {
+      "company": "Astro Mechanica",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern",
+      "url": "https://www.astromecha.co/"
     },
     "astrolab::software engineering intern::d77463a5af3f": {
       "company": "Astrolab",
@@ -5488,12 +5530,26 @@
       "title": "IT Data & Analytics Intern",
       "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Data---Analytics--Year-Round-_R20261012-1"
     },
+    "baird::quality assurance automation engineer intern::73d9c8ba243c": {
+      "company": "Baird",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Quality Assurance Automation Engineer Intern",
+      "url": "https://go.vansh.nyc/1f0?s=y"
+    },
     "baird::software developer intern::6412950f9e11": {
       "company": "Baird",
       "first_seen": "2026-09-15T04:39:42Z",
       "source": "SimplifyJobs",
       "title": "Software Developer Intern",
       "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1"
+    },
+    "baird::software developer intern::e2d0e363b425": {
+      "company": "Baird",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1eZ?s=y"
     },
     "barclays::chief client office intern client data engineering group::73180cfba844": {
       "company": "Barclays",
@@ -6005,6 +6061,13 @@
       "source": "SimplifyJobs",
       "title": "Data Intern - Data Science - Data Analytics",
       "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406"
+    },
+    "bluecross blueshield of nebraska::data intern healthcare::32d41a8fda80": {
+      "company": "BlueCross BlueShield of Nebraska",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Data Intern, Healthcare",
+      "url": "https://go.vansh.nyc/1fk?s=y"
     },
     "bluecross blueshield of nebraska::digital experience information systems intern::8d1479c2ec98": {
       "company": "BlueCross BlueShield of Nebraska",
@@ -7293,6 +7356,13 @@
       "source": "speedyapply",
       "title": "Embedded Software Engineer Co-op - Audio Tech",
       "url": "https://www.bose.com/home"
+    },
+    "bose::software dsp research engineer co op::1f9ff1df7270": {
+      "company": "Bose",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Software/DSP Research Engineer Co-op",
+      "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369"
     },
     "boston properties::cyber security co op::664283b4dba6": {
       "company": "Boston Properties",
@@ -9079,6 +9149,13 @@
       "title": "Data Science Intern",
       "url": "https://go.vansh.nyc/1dQ?s=y"
     },
+    "caresource::data science intern::40f4ff459442": {
+      "company": "CareSource",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Data Science Intern",
+      "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306"
+    },
     "caresource::full stack ai development intern::075fdbccad87": {
       "company": "CareSource",
       "first_seen": "2026-10-30T05:30:38Z",
@@ -9443,6 +9520,13 @@
       "title": "Scientific Software Engineer Intern",
       "url": "https://go.vansh.nyc/VW?s=y"
     },
+    "cfs energy::software engineer intern::00d5fafe792f": {
+      "company": "CFS Energy",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1e7?s=y"
+    },
     "chamberlain group::software engineer 1 intern middleware::9561d99ff450": {
       "company": "Chamberlain Group",
       "first_seen": "2026-09-29T23:38:22Z",
@@ -9757,6 +9841,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322"
+    },
+    "ciena::software developer co op intern::11663b590faf": {
+      "company": "Ciena",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Software Developer Co-op Intern",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046"
     },
     "ciena::software engineer intern security::f721110ada36": {
       "company": "Ciena",
@@ -10920,12 +11011,26 @@
       "title": "Intern - Scientific Software Engineer - Summer 2027",
       "url": "https://cfs.energy"
     },
+    "commonwealth fusion systems::intern software engineer summer 2027::32ff7d32e966": {
+      "company": "Commonwealth Fusion Systems",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "zshah101",
+      "title": "Intern - Software Engineer - Summer 2027",
+      "url": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d"
+    },
     "commonwealth fusion systems::scientific software engineer intern::5ac6be71fdb4": {
       "company": "Commonwealth Fusion Systems",
       "first_seen": "2026-10-28T05:20:13Z",
       "source": "SimplifyJobs",
       "title": "Scientific Software Engineer Intern",
       "url": "https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619/apply"
+    },
+    "commonwealth fusion systems::software engineer intern::549676bb0338": {
+      "company": "Commonwealth Fusion Systems",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d/apply"
     },
     "commonwealth of massachusetts::data information and project support intern::168108f86c63": {
       "company": "Commonwealth of Massachusetts",
@@ -11045,6 +11150,13 @@
       "source": "vanshb03",
       "title": "Full Stack Engineer Intern",
       "url": "https://go.vansh.nyc/1bs?s=y"
+    },
+    "constellation brands::intern full stack engineer::f37d3405a4e9": {
+      "company": "Constellation Brands",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "Intern - Full Stack Engineer",
+      "url": "https://www.cbrands.com"
     },
     "constellation energy::information technology software development intern::cfd5c2e6973e": {
       "company": "Constellation Energy",
@@ -12355,6 +12467,13 @@
       "title": "Vehicle Electronics Programming Station Intern",
       "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337"
     },
+    "dairyland power cooperative::energy data analyst intern::7916a8531017": {
+      "company": "Dairyland Power Cooperative",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Energy Data Analyst Intern",
+      "url": "https://go.vansh.nyc/1f1?s=y"
+    },
     "dairyland power cooperative::energy data analyst intern::7d400515b609": {
       "company": "Dairyland Power Cooperative",
       "first_seen": "2026-09-16T04:34:32Z",
@@ -12838,6 +12957,13 @@
       "title": "Investment Engineering Intern - Undergraduate & Master's \ud83c\udf93",
       "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Investment-Engineering--Undergraduate---Master-s-_2026-9025"
     },
+    "dimensional fund advisors::software engineer intern::ac82e745cff6": {
+      "company": "Dimensional Fund Advisors",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1fh?s=y"
+    },
     "dimensional fund advisors::software engineer intern::f156791871c5": {
       "company": "Dimensional Fund Advisors",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -12858,6 +12984,20 @@
       "source": "SimplifyJobs",
       "title": "AI Engineer Intern",
       "url": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553"
+    },
+    "direct supply::ai engineer intern::640918687ae0": {
+      "company": "Direct Supply",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "AI Engineer Intern",
+      "url": "https://go.vansh.nyc/1ep?s=y"
+    },
+    "direct supply::software engineer intern::2a04e16bd1e0": {
+      "company": "Direct Supply",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1eq?s=y"
     },
     "direct supply::software engineer intern::422b7d3dddc6": {
       "company": "Direct Supply",
@@ -13566,6 +13706,13 @@
       "title": "Software Quality Assurance Engineering Intern",
       "url": "https://go.vansh.nyc/R4?s=y"
     },
+    "ecolab::digital ai technology intern::6c61998881c1": {
+      "company": "Ecolab",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Digital & AI Technology Intern",
+      "url": "https://go.vansh.nyc/1fF?s=y"
+    },
     "ecolab::digital ai technology intern::e53a4dc1d713": {
       "company": "Ecolab",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -13656,6 +13803,20 @@
       "source": "vanshb03",
       "title": "Software Development Intern",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553447"
+    },
+    "electronic arts::anticheat engineer intern::24d50b3dc7db": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Anticheat Engineer Intern",
+      "url": "https://go.vansh.nyc/1fN?s=y"
+    },
+    "electronic arts::anticheat engineer intern::f28c7169abe2": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Anticheat Engineer Intern",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242"
     },
     "electronic arts::data and ai engineer intern::2a6f9af2881a": {
       "company": "Electronic Arts",
@@ -14189,6 +14350,13 @@
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://apply.workable.com/enfos-inc/j/CA15908E0A/apply"
     },
+    "enfos::software engineer intern::cf9c5ed02216": {
+      "company": "ENFOS",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1eo?s=y"
+    },
     "enova international::software engineer internship summer 2027 hybrid::3c8b8e042f43": {
       "company": "Enova International",
       "first_seen": "2026-09-30T20:47:15Z",
@@ -14314,6 +14482,13 @@
       "source": "zshah101",
       "title": "AI Developer Intern",
       "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397"
+    },
+    "entrust::ai developer intern::e94dab2995ef": {
+      "company": "Entrust",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "AI Developer Intern",
+      "url": "https://www.entrust.com"
     },
     "entrust::software engineer co op::c19fc3650634": {
       "company": "Entrust",
@@ -18606,12 +18781,26 @@
       "title": "Platform Operations Developer Intern - Summer 2027",
       "url": "https://www.greatamericaninsurancegroup.com"
     },
+    "greatamerica financial services::platform engineering intern::f1faa15723f8": {
+      "company": "GreatAmerica Financial Services",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Platform Engineering Intern",
+      "url": "https://go.vansh.nyc/1fj?s=y"
+    },
     "greatamerica financial services::platform engineering intern::f9b9e43bbcc2": {
       "company": "GreatAmerica Financial Services",
       "first_seen": "2026-09-18T19:02:11Z",
       "source": "zshah101",
       "title": "Platform Engineering Intern",
       "url": "https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1"
+    },
+    "greatamerica financial services::software engineer intern::08d772344dd6": {
+      "company": "GreatAmerica Financial Services",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1fo?s=y"
     },
     "greatamerica financial services::software engineer intern::a68f1283c69b": {
       "company": "GreatAmerica Financial Services",
@@ -19369,6 +19558,20 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/YB?s=y"
     },
+    "hewlett packard hp::software engineering intern aiml platform::bd1979198c77": {
+      "company": "Hewlett Packard (HP)",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, AIML Platform",
+      "url": "https://go.vansh.nyc/1e0?s=y"
+    },
+    "hewlett packard hp::software engineering intern product developer productivity::0897ae4a8d92": {
+      "company": "Hewlett Packard (HP)",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Product & Developer Productivity",
+      "url": "https://go.vansh.nyc/1e4?s=y"
+    },
     "hewlett packard hp::software intern::ee7890fedef8": {
       "company": "Hewlett Packard (HP)",
       "first_seen": "2026-10-26T21:01:03Z",
@@ -19467,6 +19670,13 @@
       "title": "Data Services Intern - Summer 2027",
       "url": "https://externalhourly-highgate.icims.com/jobs/82546/job?hub=7&mobile=true&needsRedirect=false"
     },
+    "highmark health::ai services and platforms software engineer intern::2d2880a2b4be": {
+      "company": "Highmark Health",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "AI Services and Platforms Software Engineer Intern",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322"
+    },
     "highmark health::applied gen ai data scientist graduate intern::fe2b33c1d74c": {
       "company": "Highmark Health",
       "first_seen": "2026-10-27T04:45:57Z",
@@ -19543,6 +19753,13 @@
       "source": "SimplifyJobs",
       "title": "Enterprise Master Data Management Analyst Graduate Intern \ud83c\udf93",
       "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Enterprise-Master-Data-Management-Analyst-Graduate-Intern_J289856"
+    },
+    "highmark health::healthcare analytics data science graduate intern::8e97cf8ddb2e": {
+      "company": "Highmark Health",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Healthcare Analytics Data Science Graduate Intern",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345"
     },
     "highmark health::predictive modeling data science graduate intern::4a6de043eed9": {
       "company": "Highmark Health",
@@ -20285,6 +20502,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application?embed=true"
+    },
+    "icd::cyber security intern::2717bfb23a3a": {
+      "company": "ICD",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Cyber Security Intern",
+      "url": "https://go.vansh.nyc/1eu?s=y"
     },
     "icf international::ai engineer intern::03d4cdd2486e": {
       "company": "ICF International",
@@ -22582,6 +22806,13 @@
       "title": "Software Test Automation Co-Op",
       "url": "https://jobs.smartrecruiters.com/Keenfinity/744000151395769"
     },
+    "ketjen::data science intern::071d9e29e48d": {
+      "company": "Ketjen",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1fd?s=y"
+    },
     "ketjen::data science intern::a0e699a7df8a": {
       "company": "Ketjen",
       "first_seen": "2026-09-14T02:04:51Z",
@@ -22735,6 +22966,13 @@
       "source": "SimplifyJobs",
       "title": "R&D Software Engineer Intern - Quantum Computing",
       "url": "https://simplify.jobs/c/Keysight-Technologies-Inc"
+    },
+    "keysight technologies::r d software engineer intern::11b1c2e4ee4b": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "R&D Software Engineer Intern",
+      "url": "https://jobs.keysight.com/jobs/56415?icims=1"
     },
     "keysight technologies::r d software engineer intern::16ef684fe32d": {
       "company": "Keysight Technologies",
@@ -23134,6 +23372,13 @@
       "source": "SimplifyJobs",
       "title": "Product Development Engineer Intern \ud83c\udf93",
       "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521"
+    },
+    "kla::software engineer ai ml intern::4ce713cd451f": {
+      "company": "KLA",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "Software Engineer - AI/ML Intern",
+      "url": "https://www.kla.com"
     },
     "kla::software engineer intern ai::4ce713cd451f": {
       "company": "KLA",
@@ -24164,6 +24409,20 @@
       "title": "Agentic AI Developer Co-op",
       "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1"
     },
+    "labcorp::co op agentic ai developer::d0ec222a7d8c": {
+      "company": "Labcorp",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "Co-op - Agentic AI Developer",
+      "url": "https://www.labcorp.com"
+    },
+    "labcorp::co op full stack life sciences engineer::d0ec222a7d8c": {
+      "company": "Labcorp",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "Co-op - Full-Stack Life Sciences Engineer",
+      "url": "https://www.labcorp.com"
+    },
     "labcorp::financial analytics technology intern financial analytics team::febf60780916": {
       "company": "LabCorp",
       "first_seen": "2026-09-14T02:04:51Z",
@@ -24625,6 +24884,13 @@
       "source": "zshah101",
       "title": "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980"
+    },
+    "leidos::software engineering intern::eced9142e8e2": {
+      "company": "Leidos",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern",
+      "url": "https://www.leidos.com"
     },
     "leidos::systems engineer intern::4f78b192c5c4": {
       "company": "Leidos",
@@ -26096,6 +26362,13 @@
       "title": "Graduate Engineer Intern - Software Development",
       "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190"
     },
+    "mckesson::cmm technology intern::060166658c7e": {
+      "company": "McKesson",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "CMM Technology Intern",
+      "url": "https://go.vansh.nyc/1fp?s=y"
+    },
     "mckesson::data analyst intern summer 2027::b7d6a7c1b317": {
       "company": "McKesson",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -27440,6 +27713,13 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/19z?s=y"
     },
+    "microsoft::software engineer intern::845783ccc023": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859"
+    },
     "microsoft::software engineer intern::b3e7defd6db3": {
       "company": "Microsoft",
       "first_seen": "2026-09-23T22:54:43Z",
@@ -27607,6 +27887,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://simplify.jobs/c/MKS-Instruments"
+    },
+    "moderna::mrna design engineer co op::ae31c31602ee": {
+      "company": "Moderna",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "mRNA Design Engineer Co-op",
+      "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20128"
     },
     "modernizing medicine::software engineer intern::c4370695bd52": {
       "company": "Modernizing Medicine",
@@ -27893,6 +28180,13 @@
       "first_seen": "2026-10-14T20:09:45Z",
       "source": "speedyapply",
       "title": "Software Engineer Co-op Intern - 2026/2027",
+      "url": "https://www.motorolasolutions.com"
+    },
+    "motorola solutions::software engineer cybersecurity services 2027 summer internship::5d0087c04c22": {
+      "company": "Motorola Solutions",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Cybersecurity Services - 2027 Summer Internship",
       "url": "https://www.motorolasolutions.com"
     },
     "motorola solutions::software engineer cybersecurity services intern::c7bbf36b5aa3": {
@@ -29064,6 +29358,20 @@
       "title": "Nearby AI Internship Program - Engineering Track",
       "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4712896006"
     },
+    "nex::software engineer intern sports fitness game development::2372dad1ff3d": {
+      "company": "Nex",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - Sports & Fitness - Game Development",
+      "url": "https://job-boards.greenhouse.io/nex/jobs/5421056008"
+    },
+    "nex::software engineer intern sports fitness game development::4c202dd7ed8a": {
+      "company": "Nex",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Sports & Fitness Game Development",
+      "url": "https://go.vansh.nyc/1fL?s=y"
+    },
     "nex::summer 2027 software engineer intern sports fitness::2372dad1ff3d": {
       "company": "Nex",
       "first_seen": "2026-11-03T19:26:14Z",
@@ -30009,6 +30317,27 @@
       "title": "2027 Engineering Intern (Software/Mission Assurance/Quality) - Chandler AZ \ud83c\uddfa\ud83c\uddf8",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848"
     },
+    "northrop grumman::2027 engineering intern software mission assurance quality chandler az::c70a252c55bf": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "2027 Engineering Intern - Software/Mission Assurance/Quality - Chandler AZ",
+      "url": "https://www.northropgrumman.com"
+    },
+    "northrop grumman::2027 flight software engineer intern redondo beach ca::2556d4d7a591": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "zshah101",
+      "title": "2027 Flight Software Engineer Intern - Redondo Beach CA \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032"
+    },
+    "northrop grumman::2027 ground software engineer intern redondo beach ca::ad94b95462b9": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "zshah101",
+      "title": "2027 Ground Software Engineer Intern - Redondo Beach CA \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057"
+    },
     "northrop grumman::2027 intern product support data scientist::35ba46f1902c": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-31T14:29:53Z",
@@ -30478,12 +30807,40 @@
       "title": "Engineering Software and Analysis Intern \ud83c\uddfa\ud83c\uddf8",
       "url": "https://go.vansh.nyc/19x?s=y"
     },
+    "northrop grumman::engineering software and analysis intern::c70a252c55bf": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "Engineering Software and Analysis Intern",
+      "url": "https://www.northropgrumman.com"
+    },
+    "northrop grumman::flight software engineer intern::2556d4d7a591": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Flight Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032"
+    },
     "northrop grumman::flight software engineer intern::8900a36eefa0": {
       "company": "Northrop Grumman",
       "first_seen": "2026-11-03T19:26:14Z",
       "source": "vanshb03",
       "title": "Flight Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
       "url": "https://go.vansh.nyc/1dV?s=y"
+    },
+    "northrop grumman::ground software engineer intern::ad94b95462b9": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Ground Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057"
+    },
+    "northrop grumman::ground software engineer intern::b7dabb0da4e1": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Ground Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://go.vansh.nyc/1e5?s=y"
     },
     "northrop grumman::software developer intern::8f90145c5457": {
       "company": "Northrop Grumman",
@@ -32031,6 +32388,13 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern \ud83d\udec2",
       "url": "https://go.vansh.nyc/19e?s=y"
+    },
+    "paretohealth::software engineering summer intern::d6ee3730f5a4": {
+      "company": "ParetoHealth",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Summer Intern",
+      "url": "https://paretohealth.com"
     },
     "parsons::software engineer co op ts sci::ed39273de398": {
       "company": "Parsons",
@@ -34097,6 +34461,20 @@
       "title": "Software Engineer Intern",
       "url": "https://apply.workable.com/raveaerospace/j/739753C003/apply"
     },
+    "rave aerospace::software engineering intern::3e683fac9d3f": {
+      "company": "RAVE Aerospace",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1eX?s=y"
+    },
+    "raytheon::2027 summer fall co op ags software engineering onsite::e24be637a746": {
+      "company": "Raytheon",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "2027 Summer/Fall Co-op - AGS Software Engineering - Onsite",
+      "url": "https://www.rtx.com"
+    },
     "raytheon::embedded software engineering intern summer 2027::e24be637a746": {
       "company": "Raytheon",
       "first_seen": "2026-10-28T20:58:23Z",
@@ -34594,6 +34972,13 @@
       "title": "Data Analytics Intern",
       "url": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Data-Analytics-Intern---Summer-2027_JR-007628"
     },
+    "republic airways::data analytics intern::d68d7ace77b9": {
+      "company": "Republic Airways",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Data Analytics Intern \ud83d\udec2",
+      "url": "https://go.vansh.nyc/1fq?s=y"
+    },
     "resideo::data science intern::7d0f22d9522e": {
       "company": "Resideo",
       "first_seen": "2026-11-03T02:11:09Z",
@@ -34706,6 +35091,13 @@
       "title": "Embedded Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889/application?embed=true"
     },
+    "revel::embedded software engineer intern::adf2b47699b3": {
+      "company": "Revel",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1eS?s=y"
+    },
     "revel::forward deployed engineer intern software::c3b8c2f27309": {
       "company": "Revel",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -34713,12 +35105,33 @@
       "title": "Forward Deployed Engineer Intern - Software",
       "url": "https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/application?embed=true"
     },
+    "revel::forward deployed engineer intern software::dcdb1ce2de2d": {
+      "company": "Revel",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Forward Deployed Engineer Intern, Software",
+      "url": "https://go.vansh.nyc/1eT?s=y"
+    },
+    "revel::full stack software engineer intern::2717bfb23a3a": {
+      "company": "Revel",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Full Stack Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1eU?s=y"
+    },
     "revel::full stack software engineer intern::5f12a1deee19": {
       "company": "Revel",
       "first_seen": "2026-09-10T03:37:39Z",
       "source": "SimplifyJobs",
       "title": "Full Stack Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314/application?embed=true"
+    },
+    "revel::software engineer intern test::5fb413b762c5": {
+      "company": "Revel",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Test",
+      "url": "https://go.vansh.nyc/1eV?s=y"
     },
     "rf smart::product engineering software developer internship spring summer 2027::b60175c523f3": {
       "company": "RF-SMART",
@@ -35503,6 +35916,13 @@
       "source": "zshah101",
       "title": "[Summer 2027] Software Engineer Intern",
       "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
+    },
+    "roboforce::machine learning engineer intern ai robotics::415a1da0cbc2": {
+      "company": "RoboForce",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Machine Learning Engineer Intern - AI & Robotics",
+      "url": "https://job-boards.greenhouse.io/roboforce/jobs/5470001008"
     },
     "rochester regional health::data analytics services co op::d2a35dba53de": {
       "company": "Rochester Regional Health",
@@ -36526,6 +36946,13 @@
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090"
     },
+    "rtx::software engineer intern::d4be221f96af": {
+      "company": "RTX",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446"
+    },
     "rtx::software engineer intern::d8e0a68c4283": {
       "company": "RTX",
       "first_seen": "2026-09-14T02:04:51Z",
@@ -36833,6 +37260,13 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
       "url": "https://go.vansh.nyc/1cS?s=y"
+    },
+    "rtx::software engineering intern::763bb459c9c8": {
+      "company": "RTX",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://go.vansh.nyc/1e6?s=y"
     },
     "rtx::software engineering intern::8135ae375cf2": {
       "company": "RTX",
@@ -38003,6 +38437,20 @@
       "title": "R&D Data Science Co-op",
       "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789"
     },
+    "sherwin williams::r d data visualization intern::82cafd7e7531": {
+      "company": "Sherwin-Williams",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "R&D Data Visualization Intern",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628298"
+    },
+    "sherwin williams::r d data visualization intern::8f166b5e0988": {
+      "company": "Sherwin-Williams",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "R&D Data Visualization Intern",
+      "url": "https://go.vansh.nyc/1eh?s=y"
+    },
     "sherwin williams::year round it database engineer co op::0888a3b3fec2": {
       "company": "Sherwin-Williams",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -38346,6 +38794,13 @@
       "title": "DevOps Engineer Intern (Summer 2027) \ud83c\uddfa\ud83c\uddf8",
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/DevOps-Engineer-Intern--Summer-2027-_R0031238-1"
     },
+    "sierra nevada corporation::devops engineer intern summer 2027::f30141e4a771": {
+      "company": "Sierra Nevada Corporation",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "DevOps Engineer Intern - Summer 2027",
+      "url": "https://www.sncorp.com"
+    },
     "sierra nevada corporation::devops engineer intern::91739f13c9ae": {
       "company": "Sierra Nevada Corporation",
       "first_seen": "2026-11-03T02:11:09Z",
@@ -38401,6 +38856,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineering-Intern--Summer-2027-_R0030758"
+    },
+    "sierra nevada corporation::software engineer intern summer 2027::f30141e4a771": {
+      "company": "Sierra Nevada Corporation",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://www.sncorp.com"
     },
     "sierra nevada corporation::software engineer intern::188b0bda3570": {
       "company": "Sierra Nevada Corporation",
@@ -38577,6 +39039,20 @@
       "title": "Technical Writer Intern (Summer 2027)",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003"
     },
+    "signet jewelers::data analytics intern::4b25995783f9": {
+      "company": "Signet Jewelers",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Data Analytics Intern",
+      "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317"
+    },
+    "signet jewelers::data analytics intern::4fd035572af2": {
+      "company": "Signet Jewelers",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Data Analytics Intern",
+      "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1"
+    },
     "simbe robotics::data analytics data science intern::091c6f538973": {
       "company": "Simbe Robotics",
       "first_seen": "2026-10-23T23:03:47Z",
@@ -38612,12 +39088,26 @@
       "title": "Artificial Intelligence Developer Intern - Aerospace/Aviation",
       "url": "https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern"
     },
+    "simon property group::data engineering intern::830cf25b0163": {
+      "company": "Simon Property Group",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Data Engineering Intern",
+      "url": "https://go.vansh.nyc/1ft?s=y"
+    },
     "simon property group::front end developer intern::2a10874a7f85": {
       "company": "Simon Property Group",
       "first_seen": "2026-09-10T03:37:39Z",
       "source": "SimplifyJobs",
       "title": "Front End Developer Intern",
       "url": "https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975"
+    },
+    "simon property group::front end developer intern::8dc6850fe308": {
+      "company": "Simon Property Group",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Front End Developer Intern",
+      "url": "https://go.vansh.nyc/1fs?s=y"
     },
     "simon property group::intern data engineering data analytics information sciences computer science majors::a00c208843d8": {
       "company": "Simon Property Group",
@@ -39837,6 +40327,20 @@
       "title": "Software Engineer Intern - Marketplace Platform \ud83c\udf93",
       "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076"
     },
+    "staples::software engineer intern sds e commerce team::87d95b284a84": {
+      "company": "Staples",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern - SDS e-Commerce Team",
+      "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133"
+    },
+    "staples::software engineer intern sds e commerce team::912c073b03ab": {
+      "company": "Staples",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, SDS e-Commerce Team",
+      "url": "https://go.vansh.nyc/1fw?s=y"
+    },
     "state affairs::software engineer intern summer 2027::5499b1c0a2cb": {
       "company": "State Affairs",
       "first_seen": "2026-10-07T21:13:57Z",
@@ -40074,6 +40578,13 @@
       "source": "speedyapply",
       "title": "Software Engineer - Intern",
       "url": "https://www.getstrada.com/"
+    },
+    "strada::software engineer intern::984e1d9cb20b": {
+      "company": "Strada",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1eW?s=y"
     },
     "stripe::data analyst intern::2852b4eca2c6": {
       "company": "Stripe",
@@ -40403,6 +40914,27 @@
       "source": "speedyapply",
       "title": "Software Engineering Intern",
       "url": "https://www.subtotal.com/"
+    },
+    "sun life::business operations software engineer co op::2f63c829b3a2": {
+      "company": "Sun Life",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Business Operations Software Engineer Co-op",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Sun-Life-Wellesley/Business-Operations-Software-Engineer-2027-Co-op_JR00128863-3"
+    },
+    "sun life::business operations software engineer co op::9614595e092d": {
+      "company": "Sun Life",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Business Operations Software Engineer Co-op",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846-1"
+    },
+    "sun life::business operations software engineer co op::a49bd64ba0aa": {
+      "company": "Sun Life",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Business Operations Software Engineer Co-op",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846"
     },
     "sun life::data science intern summer 2027 intern::363c67a98441": {
       "company": "Sun Life",
@@ -40740,6 +41272,20 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/Ye?s=y"
     },
+    "t mobile::software engineering intern::15e8eb257d7d": {
+      "company": "T-Mobile",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1f5?s=y"
+    },
+    "t mobile::software engineering intern::afc055e684ac": {
+      "company": "T-Mobile",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineering Intern",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652"
+    },
     "t mobile::software engineering intern::bb17dc9f7eab": {
       "company": "T-Mobile",
       "first_seen": "2026-11-02T18:11:45Z",
@@ -40810,12 +41356,40 @@
       "title": "Summer 2027 Software Engineering Internship",
       "url": "https://www.t-mobile.com"
     },
+    "t mobile::summer 2027 software engineering internship::afc055e684ac": {
+      "company": "T-Mobile",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "zshah101",
+      "title": "Summer 2027 Software Engineering Internship",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652"
+    },
     "t mobile::summer 2027 software engineering internship::e3a1b1219067": {
       "company": "T-Mobile",
       "first_seen": "2026-11-03T02:11:09Z",
       "source": "zshah101",
       "title": "Summer 2027 Software Engineering Internship",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886"
+    },
+    "t mobile::summer 2027 t ads software engineering internship::21793b0b7fb9": {
+      "company": "T-Mobile",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "zshah101",
+      "title": "Summer 2027 T-Ads Software Engineering Internship",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234"
+    },
+    "t mobile::t ads software engineer intern::21793b0b7fb9": {
+      "company": "T-Mobile",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "T-Ads Software Engineer Intern",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234"
+    },
+    "t mobile::t ads software engineering intern::76a1842b8ddd": {
+      "company": "T-Mobile",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "T-Ads Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1er?s=y"
     },
     "t rowe price::technology and data intern::8bb4468ced36": {
       "company": "T. Rowe Price",
@@ -43841,6 +44415,13 @@
       "title": "Machine Learning Engineer Intern",
       "url": "https://lifeattiktok.com/search/7668379675467761925"
     },
+    "tiktok::machine learning engineer intern::6a0742b16d03": {
+      "company": "TikTok",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Machine Learning Engineer Intern \ud83c\udf93",
+      "url": "https://lifeattiktok.com/search/7703899923206867205"
+    },
     "tiktok::machine learning engineer intern::794421759f55": {
       "company": "TikTok",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -44716,6 +45297,13 @@
       "title": "AI Data Science & Business Analytics Intern",
       "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5276963007"
     },
+    "toshiba global commerce solutions::ai software engineer intern::fa74989fe566": {
+      "company": "Toshiba Global Commerce Solutions",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "AI Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5283178007"
+    },
     "toshiba global commerce solutions::software engineer intern::8ccc1e5efdec": {
       "company": "Toshiba Global Commerce Solutions",
       "first_seen": "2026-11-03T02:11:09Z",
@@ -45010,6 +45598,27 @@
       "title": "Information Technology Development and Infrastructure Intern",
       "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155"
     },
+    "trustage::innovation ai technology intern::ce7362a68f17": {
+      "company": "TruStage",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Innovation & AI Technology Intern",
+      "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293"
+    },
+    "trustage::it innovation ai technology internship hybrid::ce7362a68f17": {
+      "company": "TruStage",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "zshah101",
+      "title": "IT - Innovation & AI Technology Internship (Hybrid)",
+      "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293"
+    },
+    "trustage::it intern innovation ai technology::2dbb97151429": {
+      "company": "TruStage",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "IT Intern, Innovation & AI Technology",
+      "url": "https://go.vansh.nyc/1fm?s=y"
+    },
     "ttm technologies::software engineering intern summer 2027::8de08ff9afdf": {
       "company": "TTM Technologies",
       "first_seen": "2026-09-29T18:03:19Z",
@@ -45058,6 +45667,13 @@
       "source": "zshah101",
       "title": "AI Engineering Intern - Summer 2027",
       "url": "https://apply.workable.com/twgai/j/772CD136FF/"
+    },
+    "twg global::ai engineering intern::084d7829c6d5": {
+      "company": "TWG Global",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "vanshb03",
+      "title": "AI Engineering Intern",
+      "url": "https://go.vansh.nyc/1eY?s=y"
     },
     "twg global::data science intern maqr::a70fb5ac6d0c": {
       "company": "TWG Global",
@@ -45590,6 +46206,13 @@
       "source": "vanshb03",
       "title": "Embedded Systems Engineer Intern",
       "url": "https://go.vansh.nyc/1br?s=y"
+    },
+    "valmont::embedded systems engineering intern::5c30b380d668": {
+      "company": "Valmont",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "Embedded Systems Engineering Intern",
+      "url": "https://www.valmont.com"
     },
     "valmont::embedded systems engineering intern::87c35b422345": {
       "company": "Valmont",
@@ -46956,6 +47579,13 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/vital-lyfe/c39b72aa-9ad5-43e7-a3fd-8ef2e152ee4b/application?embed=true"
     },
+    "vizient::summer intern digital collaboration data insights::2398dfef8207": {
+      "company": "Vizient",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Summer Intern - Digital Collaboration & Data Insights",
+      "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Digital-Collaboration---Data-Insights_35969R"
+    },
     "voloridge::quantitative developer intern 2027::8db21ef1cdc1": {
       "company": "Voloridge",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -47018,6 +47648,13 @@
       "source": "zshah101",
       "title": "Internship, AI \u2013 Agentic & Machine Learning Development",
       "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072"
+    },
+    "vsp vision::internship software engineer 2 openings::d850b696733c": {
+      "company": "VSP Vision \ud83c\udd81",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "zshah101",
+      "title": "Internship, Software Engineer _(2 openings)_",
+      "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046"
     },
     "vsp vision::internship software engineer 3 openings::5782021cfaec": {
       "company": "VSP Vision \ud83c\udd81",
@@ -47641,6 +48278,13 @@
       "source": "zshah101",
       "title": "Software Engineer Internship \u2013 AI Platform Team",
       "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000159260670"
+    },
+    "wellmark::software engineer internship ai platform team::5be65f8a75a2": {
+      "company": "Wellmark",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Internship - AI Platform Team",
+      "url": "https://www.wellmark.com"
     },
     "wellmark::software engineer internship metadata enablement team::5be65f8a75a2": {
       "company": "Wellmark",
@@ -48629,6 +49273,13 @@
       "title": "2027 Summer Internship (US) - Software/AI Engineer (Handheld Mobile Computers) \ud83d\udec2",
       "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632"
     },
+    "zebra technologies::2027 summer internship us software ai engineer handheld mobile computers::91635860fe7c": {
+      "company": "Zebra Technologies",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "speedyapply",
+      "title": "2027 Summer Internship - US - Software/AI Engineer - Handheld Mobile Computers",
+      "url": "https://www.zebra.com"
+    },
     "zebra technologies::2027 summer internship us software engineer 2 openings::664ad3cef0d7": {
       "company": "Zebra Technologies",
       "first_seen": "2026-11-03T02:11:09Z",
@@ -48677,6 +49328,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern - US \ud83c\udf93",
       "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103626"
+    },
+    "zebra technologies::software engineer intern::60c5ce2c9a76": {
+      "company": "Zebra Technologies",
+      "first_seen": "2026-11-04T00:34:35Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638"
     },
     "zebra technologies::software engineer intern::892c78aad5d8": {
       "company": "Zebra Technologies",
@@ -48903,5 +49561,5 @@
       "url": "https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a"
     }
   },
-  "updated": "2026-11-03T19:26:14Z"
+  "updated": "2026-11-04T00:34:35Z"
 }
