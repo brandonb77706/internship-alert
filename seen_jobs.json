@@ -7161,6 +7161,13 @@
       "title": "Software Engineering Intern (Year-Round)",
       "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1"
     },
+    "borgwarner::software engineering intern year round::a55c24647962": {
+      "company": "BorgWarner",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Year-Round",
+      "url": "https://www.borgwarner.com"
+    },
     "borgwarner::software engineering intern year round::e11795d9dc1d": {
       "company": "BorgWarner",
       "first_seen": "2026-11-04T19:43:40Z",
@@ -7174,6 +7181,20 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/1gH?s=y"
+    },
+    "borgwarner::software test intern::b4f065f3ba16": {
+      "company": "BorgWarner",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Software Test Intern",
+      "url": "https://go.vansh.nyc/1jb?s=y"
+    },
+    "borgwarner::software test intern::e6e37e3a125c": {
+      "company": "BorgWarner",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "Workday:BorgWarner",
+      "title": "Software Test Intern",
+      "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/Borgwarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1"
     },
     "borgwarner::system engineering intern year round::6af23a98b5ed": {
       "company": "BorgWarner",
@@ -9281,6 +9302,13 @@
       "source": "SimplifyJobs",
       "title": "Data and Analytics Intern - Summer 2027",
       "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Data---Analytics-Internship--Summer-2027-_20185913"
+    },
+    "caresource::data analyst intern::db50f16c24bc": {
+      "company": "CareSource",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Data Analyst Intern",
+      "url": "https://go.vansh.nyc/1jg?s=y"
     },
     "caresource::data science intern::131b521df1b1": {
       "company": "CareSource",
@@ -19607,6 +19635,13 @@
       "title": "Rebele Editorial AI Development Intern",
       "url": "https://job-boards.greenhouse.io/hearst/jobs/4473043009"
     },
+    "hearst::software engineer intern::7e5af7a900e4": {
+      "company": "Hearst",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1iE?s=y"
+    },
     "hearst::software engineer intern::aaed40e409f9": {
       "company": "Hearst",
       "first_seen": "2026-09-14T02:04:51Z",
@@ -22561,12 +22596,33 @@
       "title": "Data Engineer Intern",
       "url": "https://go.vansh.nyc/VR?s=y"
     },
+    "jm family enterprises::data engineering intern::6e8487437c7e": {
+      "company": "JM Family Enterprises",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Data Engineering Intern",
+      "url": "https://go.vansh.nyc/1jd?s=y"
+    },
+    "jm family enterprises::software analyst intern::a79b74cc5404": {
+      "company": "JM Family Enterprises",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Software Analyst Intern",
+      "url": "https://go.vansh.nyc/1iI?s=y"
+    },
     "jm family enterprises::software engineer intern::29f77b4ca2e7": {
       "company": "JM Family Enterprises",
       "first_seen": "2026-11-03T02:11:09Z",
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1bt?s=y"
+    },
+    "jm family enterprises::software engineer intern::4be9f6e4c03b": {
+      "company": "JM Family Enterprises",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1iH?s=y"
     },
     "jm family enterprises::software engineer intern::cb79168138d4": {
       "company": "JM Family Enterprises",
@@ -22609,6 +22665,13 @@
       "source": "SimplifyJobs",
       "title": "Software Engineer Intern",
       "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158"
+    },
+    "jm family::software engineer intern::ce1cf595a024": {
+      "company": "JM Family",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199"
     },
     "john deere::data analytics intern::7db9f846cf8c": {
       "company": "John Deere",
@@ -25368,6 +25431,13 @@
       "title": "Software Engineering & AI Intern",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220"
     },
+    "leidos::software engineering ai intern::eced9142e8e2": {
+      "company": "Leidos",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "speedyapply",
+      "title": "Software Engineering & AI Intern",
+      "url": "https://www.leidos.com"
+    },
     "leidos::software engineering intern::71f93fc691e3": {
       "company": "Leidos",
       "first_seen": "2026-11-03T11:49:47Z",
@@ -25676,6 +25746,20 @@
       "title": "Member of Technical Staff Intern",
       "url": "https://go.vansh.nyc/hy?s=y"
     },
+    "little caesars enterprises::cyber it intern::2a8894e1af29": {
+      "company": "Little Caesars Enterprises",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Cyber IT Intern",
+      "url": "https://go.vansh.nyc/1iv?s=y"
+    },
+    "little caesars enterprises::developer it intern::ed65548fb82e": {
+      "company": "Little Caesars Enterprises",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Developer IT Intern",
+      "url": "https://go.vansh.nyc/1iC?s=y"
+    },
     "live oak bank::architecture engineering intern::d1610f8dcdf3": {
       "company": "Live Oak Bank",
       "first_seen": "2026-09-16T13:26:06Z",
@@ -25920,6 +26004,13 @@
       "source": "zshah101",
       "title": "Intern - Software Engineer",
       "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1"
+    },
+    "lumbermen s::software developer intern::95d9069d4aac": {
+      "company": "Lumbermen's",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1iS?s=y"
     },
     "lumerate::data associate intern::eb4b80e692e6": {
       "company": "Lumerate",
@@ -28083,6 +28174,13 @@
       "source": "SimplifyJobs",
       "title": "Research Intern - Maia Development \ud83c\udf93",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557023070"
+    },
+    "microsoft::research intern research in software engineering ml systems agents::51c83efbd695": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "speedyapply",
+      "title": "Research Intern - Research in Software Engineering - ML Systems - Agents",
+      "url": "https://www.microsoft.com"
     },
     "microsoft::silicon engineer intern::ca64bd81c40c": {
       "company": "Microsoft",
@@ -30898,12 +30996,26 @@
       "title": "2027 Cybersecur\u200bity Software Engineering Intern - Roy UT \ud83c\uddfa\ud83c\uddf8",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177"
     },
+    "northrop grumman::2027 cybersecurity software engineering intern roy ut::c70a252c55bf": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "speedyapply",
+      "title": "2027 Cybersecurity Software Engineering Intern - Roy UT",
+      "url": "https://www.northropgrumman.com"
+    },
     "northrop grumman::2027 devops software engineering intern roy ut::be4d1ea5109b": {
       "company": "Northrop Grumman",
       "first_seen": "2026-11-04T19:43:40Z",
       "source": "zshah101",
       "title": "2027 DevOps Software Engineering Intern - Roy UT \ud83c\uddfa\ud83c\uddf8",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178"
+    },
+    "northrop grumman::2027 devops software engineering intern roy ut::c70a252c55bf": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "speedyapply",
+      "title": "2027 DevOps Software Engineering Intern - Roy UT",
+      "url": "https://www.northropgrumman.com"
     },
     "northrop grumman::2027 embedded software engineer intern baltimore md::c70a252c55bf": {
       "company": "Northrop Grumman",
@@ -31330,6 +31442,13 @@
       "first_seen": "2026-09-14T02:04:51Z",
       "source": "speedyapply",
       "title": "2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH",
+      "url": "https://www.northropgrumman.com"
+    },
+    "northrop grumman::2027 spring co op software engineer intern mcclellan ca::c70a252c55bf": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "speedyapply",
+      "title": "2027 Spring Co-op Software Engineer Intern - McClellan CA",
       "url": "https://www.northropgrumman.com"
     },
     "northrop grumman::2027 systems engineering internship ai experience dulles va::3f998ead4f53": {
@@ -32991,6 +33110,13 @@
       "title": "NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference \ud83c\udf93",
       "url": "https://careers.pnnl.gov/jobs/12898?icims=1"
     },
+    "palantir technologies::software engineer intern sovereign ai systems::569d5dec9e2d": {
+      "company": "Palantir Technologies",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Sovereign AI Systems",
+      "url": "https://go.vansh.nyc/1j0?s=y"
+    },
     "palantir::forward deployed software engineer intern warp speed::93d6a5ad35ad": {
       "company": "Palantir",
       "first_seen": "2026-10-25T13:09:49Z",
@@ -33172,6 +33298,13 @@
       "source": "vanshb03",
       "title": "AI/ML Engineer Intern",
       "url": "https://go.vansh.nyc/1gF?s=y"
+    },
+    "parsons::embedded developer intern::631c1f1dbc8d": {
+      "company": "Parsons",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Embedded Developer Intern",
+      "url": "https://go.vansh.nyc/1iA?s=y"
     },
     "parsons::software engineer co op ts sci::ed39273de398": {
       "company": "Parsons",
@@ -35355,6 +35488,13 @@
       "first_seen": "2026-09-29T18:03:19Z",
       "source": "speedyapply",
       "title": "Flight Control Software Engineering Intern - Summer 2027",
+      "url": "https://www.rtx.com"
+    },
+    "raytheon::intern summer 2027 control diagnostic software onsite::e24be637a746": {
+      "company": "Raytheon",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "speedyapply",
+      "title": "Intern: Summer 2027 - Control/Diagnostic Software - Onsite",
       "url": "https://www.rtx.com"
     },
     "raytheon::operations software engineering intern summer 2027::e24be637a746": {
@@ -38304,6 +38444,13 @@
       "title": "Systems Security Engineer Intern, Raytheon \ud83c\uddfa\ud83c\uddf8",
       "url": "https://go.vansh.nyc/19I?s=y"
     },
+    "rtx::systems security engineer intern::2ee162b9a5a7": {
+      "company": "RTX",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Systems Security Engineer Intern \ud83c\uddfa\ud83c\uddf8",
+      "url": "https://go.vansh.nyc/1iL?s=y"
+    },
     "rtx::systems security engineering intern::0cf8c87d9534": {
       "company": "RTX",
       "first_seen": "2026-11-03T02:11:09Z",
@@ -39354,6 +39501,13 @@
       "title": "Data Science Intern",
       "url": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply"
     },
+    "shield ai::software engineer co op::0558fef9e98d": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1iN?s=y"
+    },
     "shield ai::software engineer intern summer 2027::20297722a142": {
       "company": "Shield AI",
       "first_seen": "2026-10-28T20:58:23Z",
@@ -39409,6 +39563,13 @@
       "source": "zshah101",
       "title": "Summer 2027 - Software Engineer Intern",
       "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010"
+    },
+    "shield::software engineer co op::55d88eb1a224": {
+      "company": "Shield",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1iW?s=y"
     },
     "shield::software engineer intern::3e2fa065824c": {
       "company": "Shield",
@@ -40488,6 +40649,13 @@
       "title": "Co-Op Embedded Software Engineering",
       "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952"
     },
+    "smith nephew::co op embedded software engineering::aaf82defc162": {
+      "company": "Smith+Nephew",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "speedyapply",
+      "title": "Co-Op Embedded Software Engineering",
+      "url": "https://www.smith-nephew.com"
+    },
     "smith nephew::computer vision software engineering intern::4180a2c3e87d": {
       "company": "Smith+Nephew",
       "first_seen": "2026-10-25T13:09:49Z",
@@ -41279,6 +41447,13 @@
       "title": "Software Engineer Intern, SDS e-Commerce Team",
       "url": "https://go.vansh.nyc/1fw?s=y"
     },
+    "starkey de m xico s a de c v::software engineering intern::2f73f6269b0b": {
+      "company": "STARKEY DE M\u00c9XICO S.A. DE C.V.",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1j1?s=y"
+    },
     "state affairs::software engineer intern summer 2027::5499b1c0a2cb": {
       "company": "State Affairs",
       "first_seen": "2026-10-07T21:13:57Z",
@@ -41425,6 +41600,13 @@
       "source": "SimplifyJobs",
       "title": "Scientific Software Developer Intern Co-op",
       "url": "https://stellarscience.applytojob.com/apply/my4AC4VXHI/Scientific-Software-Developer-Paid-CoopInternship"
+    },
+    "stevens capital management::developer internship::add37bd37b0a": {
+      "company": "Stevens Capital Management",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "speedyapply",
+      "title": "Developer Internship",
+      "url": "https://www.scm-lp.com/"
     },
     "stifel::data analyst intern::d73c2d4c64cc": {
       "company": "Stifel",
@@ -46795,6 +46977,13 @@
       "title": "Software Development Intern - Summer 2027",
       "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
     },
+    "tyler technologies::software development intern::2d636974b642": {
+      "company": "Tyler Technologies",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1ix?s=y"
+    },
     "tyler technologies::software development intern::39b97cdcdfa7": {
       "company": "Tyler Technologies",
       "first_seen": "2026-10-30T05:30:38Z",
@@ -49483,6 +49672,13 @@
       "title": "2027 Software Engineering - AI Concentration Consulting Intern",
       "url": "https://www.westmonroe.com/"
     },
+    "western alliance bancorporation::platform engineering intern::ffed48ff6f12": {
+      "company": "Western Alliance Bancorporation",
+      "first_seen": "2026-11-05T21:56:22Z",
+      "source": "vanshb03",
+      "title": "Platform Engineering Intern",
+      "url": "https://go.vansh.nyc/1jh?s=y"
+    },
     "western digital::channel integration engineer co op::5329e21cfcd7": {
       "company": "Western Digital",
       "first_seen": "2026-09-14T02:04:51Z",
@@ -50681,5 +50877,5 @@
       "url": "https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a"
     }
   },
-  "updated": "2026-11-05T12:09:12Z"
+  "updated": "2026-11-05T21:56:22Z"
 }
