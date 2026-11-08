@@ -1365,6 +1365,13 @@
       "title": "Software Development Summer Intern",
       "url": "https://www.alliancebernstein.com/"
     },
+    "allied consultants::power platform admin developer intern::b43cc72362ed": {
+      "company": "Allied Consultants",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "Power Platform Admin/Developer Intern",
+      "url": "https://www.alliedconsultants.com"
+    },
     "allied solutions::data governance intern::fabaaebbf2de": {
       "company": "Allied Solutions",
       "first_seen": "2026-09-10T03:37:39Z",
@@ -6454,6 +6461,13 @@
       "title": "Systems Engineer Intern \ud83c\uddfa\ud83c\uddf8",
       "url": "https://go.vansh.nyc/SX?s=y"
     },
+    "booz allen hamilton::systems engineer intern::f27cdc5b4b24": {
+      "company": "Booz Allen Hamilton",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "vanshb03",
+      "title": "Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/1mV?s=y"
+    },
     "booz allen::2027 summer games data scientist intern::3f7db713d9ec": {
       "company": "Booz Allen",
       "first_seen": "2026-10-27T04:45:57Z",
@@ -7433,6 +7447,13 @@
       "source": "SmartRecruiters:Bosch",
       "title": "Motorsport Engineering Internship - 2027",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158110593"
+    },
+    "bosch::motorsport software and data analytics graduate intern::89a0a91bfb26": {
+      "company": "Bosch",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "Motorsport Software and Data Analytics Graduate Intern",
+      "url": "https://www.bosch.com/"
     },
     "bosch::phone as a key software engineering intern::17d80aa2bd65": {
       "company": "Bosch",
@@ -13110,6 +13131,13 @@
       "source": "Greenhouse:Datadog",
       "title": "Software Engineering Intern (Winter)",
       "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095"
+    },
+    "datarobot::software design engineer intern::4d49789efb15": {
+      "company": "DataRobot",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "Software Design Engineer Intern",
+      "url": "https://datarobot.com"
     },
     "datavisor::software engineer intern::83ed2801a0ee": {
       "company": "DataVisor",
@@ -20559,6 +20587,13 @@
       "title": "Software Engineering Co-op",
       "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733"
     },
+    "hitachi::full stack developer intern::1ec4ac77fe51": {
+      "company": "Hitachi",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "Full Stack Developer Intern",
+      "url": "https://www.hitachi.com"
+    },
     "hitachi::full stack developer intern::ae4600bd0105": {
       "company": "Hitachi",
       "first_seen": "2026-11-06T15:54:02Z",
@@ -23176,6 +23211,13 @@
       "source": "vanshb03",
       "title": "Product Engineering Student Intern",
       "url": "https://go.vansh.nyc/1hv?s=y"
+    },
+    "john deere::software engineer intern product engineering::80c236541912": {
+      "company": "John Deere",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Product Engineering",
+      "url": "https://go.vansh.nyc/1mU?s=y"
     },
     "john deere::software engineer intern::8a11e491bba3": {
       "company": "John Deere",
@@ -27559,6 +27601,13 @@
       "title": "Android Engineer Intern",
       "url": "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d"
     },
+    "match group::android engineer intern::ee4041a15945": {
+      "company": "Match Group",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "Android Engineer Intern",
+      "url": "https://mtch.com"
+    },
     "match group::backend engineer intern::ce0a7c865223": {
       "company": "Match Group",
       "first_seen": "2026-11-06T21:28:18Z",
@@ -27572,6 +27621,13 @@
       "source": "vanshb03",
       "title": "Backend Engineer Intern",
       "url": "https://go.vansh.nyc/1kj?s=y"
+    },
+    "match group::backend engineer intern::ee4041a15945": {
+      "company": "Match Group",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "Backend Engineer Intern",
+      "url": "https://mtch.com"
     },
     "match group::data scientist intern::19819d876772": {
       "company": "Match Group",
@@ -27593,6 +27649,13 @@
       "source": "vanshb03",
       "title": "iOS Engineer Intern",
       "url": "https://go.vansh.nyc/1kp?s=y"
+    },
+    "match group::ios engineer intern::ee4041a15945": {
+      "company": "Match Group",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "iOS Engineer Intern",
+      "url": "https://mtch.com"
     },
     "match group::machine learning engineer intern::0941e2d4c3f2": {
       "company": "Match Group",
@@ -32487,6 +32550,13 @@
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053"
     },
+    "northrop grumman::software engineer intern::1209a01f4741": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1mX?s=y"
+    },
     "northrop grumman::software engineer intern::1a36847457be": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-28T05:20:13Z",
@@ -32788,6 +32858,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"
     },
+    "notion::software engineering intern frontend summer 2027::4bad20c5aae4": {
+      "company": "Notion",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Frontend - Summer 2027",
+      "url": "https://www.notion.com/"
+    },
     "notion::software engineering intern frontend summer 2027::e3b2a8c877f9": {
       "company": "Notion",
       "first_seen": "2026-11-06T21:28:18Z",
@@ -32808,6 +32885,13 @@
       "source": "Ashby:Notion",
       "title": "Software Engineering Intern, iOS (Summer 2027)",
       "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947"
+    },
+    "notion::software engineering intern ios summer 2027::4bad20c5aae4": {
+      "company": "Notion",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - iOS - Summer 2027",
+      "url": "https://www.notion.com/"
     },
     "notion::software engineering intern ios::3e13024888b2": {
       "company": "Notion",
@@ -35994,6 +36078,13 @@
       "title": "Security Engineer Intern",
       "url": "https://go.vansh.nyc/QJ?s=y"
     },
+    "qube research and technologies::technology intern::b6db234b3008": {
+      "company": "Qube Research and Technologies",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "vanshb03",
+      "title": "Technology Intern",
+      "url": "https://go.vansh.nyc/1mW?s=y"
+    },
     "qube research technologies::software engineering intern quantitative development::2b66bac71f01": {
       "company": "Qube Research & Technologies",
       "first_seen": "2026-10-29T15:10:23Z",
@@ -37989,6 +38080,13 @@
       "title": "AI Engineer Intern",
       "url": "https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/AI-Engineer-Intern_R-103005"
     },
+    "roku::software engineer intern ai engineering::7bae54d20e66": {
+      "company": "Roku",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "Software Engineer Intern - AI Engineering",
+      "url": "http://www.roku.com"
+    },
     "roku::software engineer intern ai engineering::c392468e1a35": {
       "company": "Roku",
       "first_seen": "2026-11-02T18:11:45Z",
@@ -39857,6 +39955,13 @@
       "source": "Greenhouse:Samsara",
       "title": "Account Development Representative Intern - Phoenix",
       "url": "https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799"
+    },
+    "samsara::software engineering internship san francisco::fb5e2a1e6f45": {
+      "company": "Samsara",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Internship - San Francisco",
+      "url": "https://www.samsara.com/"
     },
     "samsung research america::digital health algorithms intern::de4cd519cdae": {
       "company": "Samsung Research America",
@@ -45549,6 +45654,13 @@
       "title": "Android Engineering Intern",
       "url": "https://go.vansh.nyc/1l6?s=y"
     },
+    "the new york times::android engineering intern::c0e18484bb8a": {
+      "company": "The New York Times",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "Android Engineering Intern",
+      "url": "https://www.nytco.com/"
+    },
     "the new york times::backend engineering intern wirecutter::08ea95b1f06f": {
       "company": "The New York Times",
       "first_seen": "2026-10-30T20:40:38Z",
@@ -45570,6 +45682,13 @@
       "title": "Backend Engineering Intern, Wirecutter",
       "url": "https://go.vansh.nyc/10Y?s=y"
     },
+    "the new york times::backend engineering intern::c0e18484bb8a": {
+      "company": "The New York Times",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "Backend Engineering Intern",
+      "url": "https://www.nytco.com/"
+    },
     "the new york times::backend engineering intern::e40fa9f68d05": {
       "company": "The New York Times",
       "first_seen": "2026-11-07T05:43:38Z",
@@ -45583,6 +45702,13 @@
       "source": "zshah101",
       "title": "Frontend Engineering Intern",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005"
+    },
+    "the new york times::frontend engineering intern::c0e18484bb8a": {
+      "company": "The New York Times",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "Frontend Engineering Intern",
+      "url": "https://www.nytco.com/"
     },
     "the new york times::frontend engineering intern::f34009af2ff5": {
       "company": "The New York Times",
@@ -45605,12 +45731,26 @@
       "title": "Full-Stack Engineering Intern",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005"
     },
+    "the new york times::full stack engineering intern::c0e18484bb8a": {
+      "company": "The New York Times",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "Full-Stack Engineering Intern",
+      "url": "https://www.nytco.com/"
+    },
     "the new york times::interactive news engineering intern::243ff2691a98": {
       "company": "The New York Times",
       "first_seen": "2026-11-06T15:54:02Z",
       "source": "vanshb03",
       "title": "Interactive News Engineering Intern",
       "url": "https://go.vansh.nyc/1km?s=y"
+    },
+    "the new york times::ios engineering intern::c0e18484bb8a": {
+      "company": "The New York Times",
+      "first_seen": "2026-11-08T20:22:57Z",
+      "source": "speedyapply",
+      "title": "iOS Engineering Intern",
+      "url": "https://www.nytco.com/"
     },
     "the new york times::ios engineering intern::e7c946d4ae58": {
       "company": "The New York Times",
@@ -52445,5 +52585,5 @@
       "url": "https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a"
     }
   },
-  "updated": "2026-11-08T14:59:40Z"
+  "updated": "2026-11-08T20:22:57Z"
 }
