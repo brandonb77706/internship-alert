@@ -10304,12 +10304,33 @@
       "title": "Automation Engineer Intern",
       "url": "https://ekiz.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/193669"
     },
+    "carnegie mellon university::agentic development intern::9823eddee00a": {
+      "company": "Carnegie Mellon University",
+      "first_seen": "2026-11-14T11:20:42Z",
+      "source": "SimplifyJobs",
+      "title": "Agentic Development Intern",
+      "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Agentic-Development-Intern_2025292-1"
+    },
     "carnegie mellon university::ai security software engineer intern summer 2027::d09700256566": {
       "company": "Carnegie Mellon University",
       "first_seen": "2026-10-10T20:00:29Z",
       "source": "speedyapply",
       "title": "AI Security Software Engineer Intern - Summer 2027",
       "url": "https://www.cmu.edu"
+    },
+    "carnegie mellon university::cyber ai engineer intern::5671540b494a": {
+      "company": "Carnegie Mellon University",
+      "first_seen": "2026-11-14T11:20:42Z",
+      "source": "SimplifyJobs",
+      "title": "Cyber AI Engineer Intern",
+      "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2"
+    },
+    "carnegie mellon university::full stack software development intern::009e9caece97": {
+      "company": "Carnegie Mellon University",
+      "first_seen": "2026-11-14T11:20:42Z",
+      "source": "SimplifyJobs",
+      "title": "Full-Stack Software Development Intern",
+      "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2"
     },
     "carnegie mellon university::full stack software development intern::d09700256566": {
       "company": "Carnegie Mellon University",
@@ -25599,6 +25620,27 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee"
     },
+    "kbr wyle services::computer science intern defense intel d i::2479124e46c9": {
+      "company": "KBR Wyle Services",
+      "first_seen": "2026-11-14T11:20:42Z",
+      "source": "vanshb03",
+      "title": "Computer Science Intern, Defense & Intel (D&I)",
+      "url": "https://go.vansh.nyc/1zy?s=y"
+    },
+    "kbr wyle services::image processing software engineer intern::2e8a51c94bac": {
+      "company": "KBR Wyle Services",
+      "first_seen": "2026-11-14T11:20:42Z",
+      "source": "vanshb03",
+      "title": "Image Processing Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1zx?s=y"
+    },
+    "kbr wyle services::software engineering intern defense intel d i::d84503ed92f4": {
+      "company": "KBR Wyle Services",
+      "first_seen": "2026-11-14T11:20:42Z",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Defense & Intel (D&I)",
+      "url": "https://go.vansh.nyc/1zz?s=y"
+    },
     "kbr::data processing systems engineer intern::e2030b9b3537": {
       "company": "KBR",
       "first_seen": "2026-09-17T04:40:03Z",
@@ -33123,6 +33165,20 @@
       "source": "SimplifyJobs",
       "title": "IT Software Engineer Intern",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"
+    },
+    "netapp::software engineer intern cloud::4370d39d3fc6": {
+      "company": "NetApp",
+      "first_seen": "2026-11-14T11:20:42Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Cloud",
+      "url": "https://go.vansh.nyc/1zr?s=y"
+    },
+    "netapp::software engineer intern systems::5aa0b8381498": {
+      "company": "NetApp",
+      "first_seen": "2026-11-14T11:20:42Z",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Systems",
+      "url": "https://go.vansh.nyc/1zs?s=y"
     },
     "netapp::software engineer intern::0892e6faf3f0": {
       "company": "NetApp",
@@ -56862,5 +56918,5 @@
       "url": "https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a"
     }
   },
-  "updated": "2026-11-14T00:50:38Z"
+  "updated": "2026-11-14T11:20:42Z"
 }
