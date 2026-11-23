@@ -10801,6 +10801,13 @@
       "title": "AI Engineer Intern, Mission Innovation Lab \ud83d\udec2",
       "url": "https://go.vansh.nyc/1Az?s=y"
     },
+    "carnegie mellon university::ai engineer intern mission innovation lab::a5fe7d146964": {
+      "company": "Carnegie Mellon University",
+      "first_seen": "2026-11-23T00:44:15Z",
+      "source": "SimplifyJobs",
+      "title": "AI Engineer Intern - Mission Innovation Lab",
+      "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364"
+    },
     "carnegie mellon university::ai engineer intern mission innovation lab::e9ef4376e087": {
       "company": "Carnegie Mellon University",
       "first_seen": "2026-11-19T12:46:43Z",
@@ -12676,6 +12683,13 @@
       "source": "speedyapply",
       "title": "Software Engineering Internship - Summer 2027",
       "url": "https://www.cmegroup.com"
+    },
+    "cmu::ai engineer intern mission innovation lab summer 2027::e9ef4376e087": {
+      "company": "Cmu",
+      "first_seen": "2026-11-23T00:44:15Z",
+      "source": "zshah101",
+      "title": "AI Engineer Intern - Mission Innovation Lab (Summer 2027) \ud83d\udec2",
+      "url": "https://cmu.wd115.myworkdayjobs.com/sei/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1"
     },
     "cmu::ai security software engineer intern summer 2027::a3105c91881e": {
       "company": "Cmu",
@@ -19026,6 +19040,13 @@
       "title": "Software Engineer Intern",
       "url": "https://careers.garmin.com/jobs/19693?icims=1"
     },
+    "garmin::software engineering intern web mobile::782c3ed47ab3": {
+      "company": "Garmin",
+      "first_seen": "2026-11-23T00:44:15Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - Web/Mobile",
+      "url": "https://www.garmin.com/"
+    },
     "garmin::software engineering intern::0504ce7d260c": {
       "company": "Garmin",
       "first_seen": "2026-09-29T10:36:47Z",
@@ -21524,6 +21545,13 @@
       "source": "SimplifyJobs",
       "title": "Data BI Analyst Co-op",
       "url": "https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Data-BI-Analyst-Co-Op_REQ-2026-2266"
+    },
+    "gorbel::front end web developer co op::dc899445d37d": {
+      "company": "Gorbel",
+      "first_seen": "2026-11-23T00:44:15Z",
+      "source": "speedyapply",
+      "title": "Front-End Web Developer Co-Op",
+      "url": "https://www.gorbel.com/"
     },
     "gordon food service canada::software engineer intern low code::57a651754d92": {
       "company": "Gordon Food Service Canada",
@@ -26257,6 +26285,13 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/1FD?s=y"
     },
+    "jabil::software engineering intern::f3e7b6745d9b": {
+      "company": "Jabil",
+      "first_seen": "2026-11-23T00:44:15Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern",
+      "url": "https://www.jabil.com"
+    },
     "jabil::validation engineer intern::fa9b12dbd47e": {
       "company": "Jabil",
       "first_seen": "2026-10-26T21:01:03Z",
@@ -26291,6 +26326,13 @@
       "source": "speedyapply",
       "title": "IT Full Stack Developer Internship: Summer 2027",
       "url": "https://www.jasperengines.com/"
+    },
+    "jasperhold ings::it full stack developer internship summer 2027::cec5eed31147": {
+      "company": "Jasperhold\u200bings",
+      "first_seen": "2026-11-23T00:44:15Z",
+      "source": "zshah101",
+      "title": "IT Full Stack Developer Internship: Summer 2027",
+      "url": "https://jasperholdings.wd504.myworkdayjobs.com/jet_careers/job/Jasper-IN/IT-Full-Stack-Developer-Internship--Summer-2027_R-100857"
     },
     "jewelers mutual group::data science intern::aedf400370c6": {
       "company": "Jewelers Mutual Group",
@@ -33544,6 +33586,13 @@
       "title": "Software Quality Assurance (QA) Intern",
       "url": "https://go.vansh.nyc/1Fk?s=y"
     },
+    "mom s meals::software quality assurance qa intern::3dbc2e522018": {
+      "company": "Mom's Meals",
+      "first_seen": "2026-11-23T00:44:15Z",
+      "source": "speedyapply",
+      "title": "Software Quality Assurance - QA Intern",
+      "url": "https://www.momsmeals.com"
+    },
     "mom s meals::software quality assurance qa intern::fd65964a3028": {
       "company": "Mom's Meals",
       "first_seen": "2026-11-22T06:21:56Z",
@@ -35160,6 +35209,13 @@
       "source": "SimplifyJobs",
       "title": "IT Software Engineer Intern",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"
+    },
+    "neogen::embedded systems engineer intern::8ae453b77715": {
+      "company": "Neogen",
+      "first_seen": "2026-11-23T00:44:15Z",
+      "source": "vanshb03",
+      "title": "Embedded Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/1Gp?s=y"
     },
     "netapp::data analyst intern::2e8a51c94bac": {
       "company": "NetApp",
@@ -43134,6 +43190,13 @@
       "title": "Software Engineer Intern Co-op - Product Lifecycle Management",
       "url": "https://careers.rivian.com/jobs/33746?icims=1"
     },
+    "rivian::software engineering intern ai platform autonomy summer 2027::8befd5e32eb0": {
+      "company": "Rivian",
+      "first_seen": "2026-11-23T00:44:15Z",
+      "source": "speedyapply",
+      "title": "Software Engineering Intern - AI Platform - Autonomy - Summer 2027",
+      "url": "https://careers.rivian.com"
+    },
     "rivian::software engineering intern ai platform autonomy::9d952b813e0c": {
       "company": "Rivian",
       "first_seen": "2026-11-21T01:19:05Z",
@@ -45689,6 +45752,13 @@
       "title": "Software Engineer Intern",
       "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623"
     },
+    "sallie mae::software engineer intern::d80ac1a9af66": {
+      "company": "Sallie Mae",
+      "first_seen": "2026-11-23T00:44:15Z",
+      "source": "SimplifyJobs",
+      "title": "Software Engineer Intern",
+      "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Software-Engineering-Intern_R26_000688"
+    },
     "sallie mae::software engineer intern::fe398b02ea47": {
       "company": "Sallie Mae",
       "first_seen": "2026-11-19T01:50:00Z",
@@ -46570,6 +46640,13 @@
       "source": "SimplifyJobs",
       "title": "Security Software Engineer Intern \ud83c\udf93",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162827365"
+    },
+    "servicenow::security software engineer intern::fea9dd7df5ce": {
+      "company": "ServiceNow",
+      "first_seen": "2026-11-23T00:44:15Z",
+      "source": "speedyapply",
+      "title": "Security Software Engineer Intern",
+      "url": "https://careers.servicenow.com/engineering"
     },
     "servicenow::software engineer intern::f5ba046a5a2d": {
       "company": "ServiceNow",
@@ -49894,6 +49971,13 @@
       "first_seen": "2026-09-25T19:59:59Z",
       "source": "speedyapply",
       "title": "Co-op - Software Engineer",
+      "url": "https://www.symbotic.com"
+    },
+    "symbotic::intern software engineer front end::a4ce5e6a18c1": {
+      "company": "Symbotic",
+      "first_seen": "2026-11-23T00:44:15Z",
+      "source": "speedyapply",
+      "title": "Intern- Software Engineer - Front-End",
       "url": "https://www.symbotic.com"
     },
     "symbotic::intern software engineer::a4ce5e6a18c1": {
@@ -59836,6 +59920,13 @@
       "title": "Operations Engineering Co-op",
       "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Pittsburgh-PA/Operations-Engineering-Co-Op---Spring-Summer_R20411"
     },
+    "zoll::software automation intern::71695a58119e": {
+      "company": "ZOLL",
+      "first_seen": "2026-11-23T00:44:15Z",
+      "source": "speedyapply",
+      "title": "Software Automation Intern",
+      "url": "https://zoll.com"
+    },
     "zoom::software developer engineer intern::4e5e284f537b": {
       "company": "Zoom",
       "first_seen": "2026-09-25T23:16:53Z",
@@ -60068,5 +60159,5 @@
       "url": "https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a"
     }
   },
-  "updated": "2026-11-22T16:09:36Z"
+  "updated": "2026-11-23T00:44:15Z"
 }
